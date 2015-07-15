@@ -1,12 +1,12 @@
 ITEM_20150317_000001	空_helmet
 ITEM_20150317_000002	Murmillo Helmet
-ITEM_20150317_000003	空_armband
-ITEM_20150317_000004	Red Armband
-ITEM_20150317_000005	Armband
-ITEM_20150317_000006	Knotted Armband
-ITEM_20150317_000007	Long Armband
-ITEM_20150317_000008	Feather Armband
-ITEM_20150317_000009	Tasseled Armband
+ITEM_20150317_000003	空_手镯
+ITEM_20150317_000004	Red 手镯
+ITEM_20150317_000005	手镯
+ITEM_20150317_000006	Knotted 手镯
+ITEM_20150317_000007	Long 手镯
+ITEM_20150317_000008	Feather 手镯
+ITEM_20150317_000009	Tasseled 手镯
 ITEM_20150317_000010	空
 ITEM_20150317_000011	粗糙的 罗马短剑
 ITEM_20150317_000012	One-Handed 剑 [Slash]
@@ -4257,7 +4257,7 @@ ITEM_20150323_004256
 ITEM_20150323_004257	Essence of Black Leadmed
 ITEM_20150323_004258	Vermilion Sharkmolly Essence
 ITEM_20150323_004259
-ITEM_20150401_004260	Armband I
+ITEM_20150401_004260	手镯 I
 ITEM_20150401_004261	Old 罗马短剑
 ITEM_20150401_004262	粗糙的 砍刀
 ITEM_20150401_004263	粗糙的 匕首
@@ -5139,7 +5139,7 @@ ITEM_20150714_005138
 ITEM_20150714_005139
 ITEM_20150714_005140	Pickaxe Set
 ITEM_20150714_005141	Card Set
-ITEM_20150714_005142	Michalis Armband
+ITEM_20150714_005142	Michalis 手镯
 ITEM_20150714_005143	Restores HP every 2 seconds. {nl}384 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds.
 ITEM_20150714_005144	Restores HP every 2 seconds. {nl}640 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds.
 ITEM_20150714_005145	Restores HP every 2 seconds. {nl}1280 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds.
