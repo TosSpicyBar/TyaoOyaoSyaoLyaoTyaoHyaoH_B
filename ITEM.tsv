@@ -75,7 +75,7 @@ ITEM_20150317_000074	这种剑据说能清净心理体验曼德拉山的精髓.
 ITEM_20150317_000075	巫师匕首
 ITEM_20150317_000076	你永远都不要低估一个挥舞着剑的巫师, 特别当是巫师匕首的时候.
 ITEM_20150317_000077	双子剑
-ITEM_20150317_000078	这种剑的制造配方来自于Winterspoon家族的炼金术士, 他声称能做的比铁匠更好.
+ITEM_20150317_000078	这种剑的制造配方来自于冻勺子家族的炼金术士, 他声称能做的比铁匠更好.
 ITEM_20150317_000079	荣耀
 ITEM_20150317_000080	这种剑对得起它昂贵的价格. 但是呢, 商人们更希望你回来买新的而不是长期使用它.
 ITEM_20150317_000081	密斯卡斯 军刀
@@ -123,11 +123,11 @@ ITEM_20150317_000122	双手剑 [Slash]
 ITEM_20150317_000123	邓科尔 暗杀 剑
 ITEM_20150317_000124	许多大师级工匠和士兵们称之为混合式双手剑.' 他们说这是自我证明.
 ITEM_20150317_000125	水纹剑
-ITEM_20150317_000126	If you're an expert in two-handed 武器s, the wave shaped edge can cause massive 伤害.
+ITEM_20150317_000126	如果你专精于双手武器, 这种波浪形的边缘能造成大量伤害.
 ITEM_20150317_000127	武士刀
-ITEM_20150317_000128	A 武士刀 with a length 'just right' can amplify its slashing power and dominate the space between the wielder and their foe.
+ITEM_20150317_000128	这把武士刀长度正好可以增加切割效果并且主宰持有者和敌人之间的空间.
 ITEM_20150317_000129	双刃刀
-ITEM_20150317_000130	All 双刃刀s from the kingdom are made with an emphasis on weight and power.
+ITEM_20150317_000130	所有的双刃刀都来自于这个注重重量和蛮力的国度.
 ITEM_20150317_000131	巨刃
 ITEM_20150317_000132	The particular fan shape of the 匕首 offers potential to amplify its power and versatility to be adapted in many techniques.
 ITEM_20150317_000133	石中剑
@@ -166,7 +166,7 @@ ITEM_20150317_000165	This widely used 武器 was mostly sought after as a decora
 ITEM_20150317_000166	Hogma Great 剑
 ITEM_20150317_000167	How the Hogmas obtained or crafted this 武器 is unimportant. We are more concerned with crafting and using it ourselves.
 ITEM_20150317_000168	双子 暗杀 剑
-ITEM_20150317_000169	In the wake of the Great Plant Cataclysm, the Winterspoon 家族disclosed the crafting recipe for this 武器 to all 炼金术士s.
+ITEM_20150317_000169	In the wake of the Great Plant Cataclysm, the 冻勺子 家族disclosed the crafting recipe for this 武器 to all 炼金术士s.
 ITEM_20150317_000170	初级luce
 ITEM_20150317_000171	剑客 who seeks raw power in their 武器 frequently chooses 这种剑 as their 第一 magic 剑.
 ITEM_20150317_000172	Kindzal
@@ -268,7 +268,7 @@ ITEM_20150317_000267	A simple 手棒 for enhancing magic, easily craftable by be
 ITEM_20150317_000268	Grinas 手棒
 ITEM_20150317_000269	The 提升 in 恶魔s after the Great Plant Cataclysm 提升d the price of this already-expensive 手棒.
 ITEM_20150317_000270	双子 手棒
-ITEM_20150317_000271	Despite the similarity in the name with another 武器, this 武器 has no direct relation to the Winterspoon 家族.
+ITEM_20150317_000271	Despite the similarity in the name with another 武器, this 武器 has no direct relation to the 冻勺子 家族.
 ITEM_20150317_000272	Arch 手棒
 ITEM_20150317_000273	A 武器 that fills the role of a stepping stone to advanced 巫师ry for aspiring 巫师s. Once the 巫师 achieves his objective with his 提升d intelligence, this 武器 is replaced by another.
 ITEM_20150317_000274	大帝国 手棒
@@ -727,7 +727,7 @@ ITEM_20150317_000726	Brandish
 ITEM_20150317_000727	Users who like to use this 矛 frequently say the following:
 ITEM_20150317_000728	This is a 单手 矛 like no other.
 ITEM_20150317_000729	Pike
-ITEM_20150317_000730	Two-Handed 矛 [Stab]
+ITEM_20150317_000730	双手 矛 [Stab]
 ITEM_20150317_000731	As the Cavalry 褪色的 from the Kingdom的 history, the Pike became 短er and more accessible.
 ITEM_20150317_000732	Partisan
 ITEM_20150317_000733	Originally popular in the remote territories of the kingdom, the 矛 has become widely p手棒uced after the Civil 战争.
@@ -1416,7 +1416,7 @@ ITEM_20150317_001415	This 腕镯 has sadly been used for more battles between hu
 ITEM_20150317_001416	Poison 手环
 ITEM_20150317_001417	This item has been manufactured with various poisons since its origin and, with the Great Plant Cataclysm, materials have become even easier to find.
 ITEM_20150317_001418	Plants 腕镯
-ITEM_20150317_001419	After quickly discovering the weaknesses of the Plants, the Winterspoon 家族has openly been sharing ways to use this information with people.
+ITEM_20150317_001419	After quickly discovering the weaknesses of the Plants, the 冻勺子 家族has openly been sharing ways to use this information with people.
 ITEM_20150317_001420	Control 手环
 ITEM_20150317_001421	When inorganic matter mutates and becomes a 魔物, there is a way to weaken them by manipulating their spirits. This equipment contains a mechanism that does that.
 ITEM_20150317_001422	Hunter 手环
