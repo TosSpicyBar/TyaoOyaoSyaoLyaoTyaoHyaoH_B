@@ -45,10 +45,10 @@ ETC_20150317_000044	蓝色 Fragaras
 ETC_20150317_000045	This 魔物 evolved from a more deadly and vicious beast.
 ETC_20150317_000046	Black Pragaras
 ETC_20150317_000047	红色 Fragaras
-ETC_20150317_000048	Vubbe Fighter
-ETC_20150317_000049	蓝色 Vubbe Fighter
-ETC_20150317_000050	红色 Vubbe Fighter
-ETC_20150317_000051	It is unknown whether Vubbe Fighters are trained or have a natural aptitude for combat.
+ETC_20150317_000048	蛮牛战士
+ETC_20150317_000049	蓝色 蛮牛战士
+ETC_20150317_000050	红色 蛮牛战士
+ETC_20150317_000051	It is unknown whether 蛮牛战士s are trained or have a natural aptitude for combat.
 ETC_20150317_000052	Golem
 ETC_20150317_000053	Gray Golem
 ETC_20150317_000054	Meduja
@@ -351,7 +351,7 @@ ETC_20150317_000350	Male Apostate (3D)
 ETC_20150317_000351	Female Apostate (3D)
 ETC_20150317_000352	Modification
 ETC_20150317_000353	Word Pome Nation
-ETC_20150317_000354	High Vubbe Fighter
+ETC_20150317_000354	High 蛮牛战士
 ETC_20150317_000355	魔物 Wizard
 ETC_20150317_000356	Battery (temporary)
 ETC_20150317_000357	Block of Ice
@@ -931,7 +931,7 @@ ETC_20150317_000930	Q1 Moa
 ETC_20150317_000931	Q1 Minotaur
 ETC_20150317_000932	Q2 Minotaur
 ETC_20150317_000933	Q4 Bearkaras
-ETC_20150317_000934	Q1 Vubbe Fighter
+ETC_20150317_000934	Q1 蛮牛战士
 ETC_20150317_000935	Q1 Bite Regina
 ETC_20150317_000936	Q2 Salamander
 ETC_20150317_000937	Q1 Shadowgaler
@@ -2158,7 +2158,7 @@ ETC_20150317_002157	Food of Fedimian
 ETC_20150317_002158
 ETC_20150317_002159	Ability Point has been added!
 ETC_20150317_002160	Nothing happens!
-ETC_20150317_002161	You kicked the box and a 红色 Vubbe Fighter has appea红色!
+ETC_20150317_002161	You kicked the box and a 红色 蛮牛战士 has appea红色!
 ETC_20150317_002162	Canyon Amalas is saved!
 ETC_20150317_002163	You are addicted to Canon Amalas and it makes your mind seem at loss.
 ETC_20150317_002164	Unsealed!
@@ -3464,7 +3464,7 @@ ETC_20150317_003463	If I don't, then who would?!
 ETC_20150317_003464	Collected the moss
 ETC_20150317_003465	Collecting
 ETC_20150317_003466	Collected discolo红色 grass
-ETC_20150317_003467	Vubbe Fighter Melinas
+ETC_20150317_003467	蛮牛战士 Melinas
 ETC_20150317_003468	[Troops Advance] should be started in order to pass through
 ETC_20150317_003469	Wagon Checking
 ETC_20150317_003470	This wagon was already checked
@@ -5183,7 +5183,7 @@ ETC_20150317_005182	Argh! There it is!!!
 ETC_20150317_005183	Please defeat Shadowgaler
 ETC_20150317_005184	Please defeat Minotaur!
 ETC_20150317_005185	Minotaur
-ETC_20150317_005186	Remarkable Vubbe Fighter
+ETC_20150317_005186	Remarkable 蛮牛战士
 ETC_20150317_005187	Defeat the Oracle Master!
 ETC_20150317_005188	Oh, you're here!
 ETC_20150317_005189	What's the occasion?
@@ -8115,7 +8115,7 @@ ETC_20150317_008114	口啪蒜 AI
 ETC_20150317_008115	口啪蒜 AI2
 ETC_20150317_008116	Blow
 ETC_20150317_008117	Chapparition's shadow
-ETC_20150317_008118	Vubbe Fighter is very ti红色.
+ETC_20150317_008118	蛮牛战士 is very ti红色.
 ETC_20150317_008119	Get rid of the summon things to be summoned by Specter Master
 ETC_20150317_008120	if not removed, The lighting is going to be continuous.
 ETC_20150317_008121	Tombstone
@@ -8520,7 +8520,7 @@ ETC_20150317_008519	Recipe - Silver Plate Gauntlets
 ETC_20150317_008520	Recipe - Silver Plate Greaves
 ETC_20150317_008521	Recipe - Silver Plate Leggings
 ETC_20150317_008522	Recipe - Silver Plate Armor
-ETC_20150317_008523	Recipe - Vubbe Fighter Gauntlets
+ETC_20150317_008523	Recipe - 蛮牛战士 Gauntlets
 ETC_20150317_008524	Recipe - Shield Crasher
 ETC_20150317_008525	Recipe - Vine Gloves
 ETC_20150317_008526	Recipe - Vine Boots
@@ -10679,7 +10679,7 @@ ETC_20150401_010679	Farm Worker
 ETC_20150406_010680	Farm Ellum
 ETC_20150406_010681	Outer World Puragi
 ETC_20150406_010682	Outer World 口啪蒜 Raider
-ETC_20150406_010683	Outer World Vubbe Fighter
+ETC_20150406_010683	Outer World 蛮牛战士
 ETC_20150406_010684	Outer World Rodelin
 ETC_20150406_010685	Outer World Cronewt
 ETC_20150406_010686	Outer World 巨大 Panto Thrower
