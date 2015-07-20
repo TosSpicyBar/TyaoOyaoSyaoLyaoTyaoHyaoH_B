@@ -221,7 +221,7 @@ ITEM_20150317_000220	Legends say that in the beginning, evil 巫师s first 星�
 ITEM_20150317_000221	白镴 手棒
 ITEM_20150317_000222	It was once a popular 武器 among ambitious young 巫师s.
 ITEM_20150317_000223	猫头鹰 手棒
-ITEM_20150317_000224	The decoration is popular among experienced 巫师s.
+ITEM_20150317_000224	The 饰品 is popular among experienced 巫师s.
 ITEM_20150317_000225	符文 手棒
 ITEM_20150317_000226	A 魔力 符文 is used to amplify the power of the 手棒.
 ITEM_20150317_000227	水晶 手棒
@@ -270,7 +270,7 @@ ITEM_20150317_000269	The 提升 in 恶魔s after the 植物大灾变 提升d the
 ITEM_20150317_000270	双子 手棒
 ITEM_20150317_000271	Despite the similarity in the name with another 武器, this 武器 has no direct relation to the 冻勺子家族.
 ITEM_20150317_000272	Arch 手棒
-ITEM_20150317_000273	A 武器 that fills the role of a stepping stone to advanced 巫师ry for aspi环型 巫师s. Once the 巫师 achieves his objective with his 提升d intelligence, this 武器 is replaced by another.
+ITEM_20150317_000273	A 武器 that fills the role of a stepping stone to advanced 巫师ry for aspi环型 巫师s. Once the 巫师 achieves his objective with his 提升d 智力ligence, this 武器 is replaced by another.
 ITEM_20150317_000274	大帝国 手棒
 ITEM_20150317_000275	It is popular among 巫师s who likes to stand out.
 ITEM_20150317_000276	Aras' 久远 手棒
@@ -328,7 +328,7 @@ ITEM_20150317_000327	粗糙的 角弓
 ITEM_20150317_000328	军人的 轻弓
 ITEM_20150317_000329	This 弓 has been crafted to meet the minimum requirements of the Army.
 ITEM_20150317_000330	Mayor的 短弓
-ITEM_20150317_000331	It shows signs of the effort put into unst环型ing and rest环型ing the 弓 每 day. Despite its age, the 弓 is in good condition.
+ITEM_20150317_000331	It shows signs of the effort put into un串串ing and re串串ing the 弓 每 day. Despite its age, the 弓 is in good condition.
 ITEM_20150317_000332	粗糙的 角弓
 ITEM_20150317_000333	Gendawa
 ITEM_20150317_000334	This 弓 is the best among those crafted without using 魔力 in the process.
@@ -389,17 +389,17 @@ ITEM_20150317_000388	阿斯顿 弓
 ITEM_20150317_000389	黛妃 弓
 ITEM_20150317_000390	初级 弓
 ITEM_20150317_000391	Wildling Bane
-ITEM_20150317_000392	Prior to the 植物大灾变, hunters rarely used this 弓. It might sound strange, but the 弓 would cause excessive 伤害 to the prey.
+ITEM_20150317_000392	Prior to the 植物大灾变, hunters rarely used this 弓. It might sound 古怪的, but the 弓 would cause excessive 伤害 to the prey.
 ITEM_20150317_000393	Equalizer
 ITEM_20150317_000394	There are proud archers who don't want any variables affecting their archery skill outside of their own abilities. This 弓 is a perfect match for them.
-ITEM_20150317_000395	Heart Seeker
+ITEM_20150317_000395	心脏 Seeker
 ITEM_20150317_000396	For unknown reason the spell bound to this 弓 has become a curse to both the foe and the user. Regardless, the 弓 is still used by archers for its merits.
 ITEM_20150317_000397	Viper
 ITEM_20150317_000398	This poison-imbued 弓 is so toxic that it afflicts its user as well.
 ITEM_20150317_000399	亡者 弓
 ITEM_20150317_000400	This 弓 will send your enemies to their deaths.
 ITEM_20150317_000401	恰帕瑞森 弓
-ITEM_20150317_000402	The engravings say: 的traighten your back and broaden your shoulders; pull the 弓st环型 and push the 弓 as you shoot.'
+ITEM_20150317_000402	The engravings say: 的traighten your back and broaden your shoulders; pull the 弓串串 and push the 弓 as you shoot.'
 ITEM_20150317_000403	Blood Gain
 ITEM_20150317_000404	This 弓 was created by Lydia Schaffen. She frequently used this 弓 throughout her lifetime but intentionally did not give the crafting method to 'The Tower of the 星星s' and 的chaffen星星', two entities founded by Lydia herself.
 ITEM_20150317_000405	Tempest 射手
@@ -409,7 +409,7 @@ ITEM_20150317_000408	短小轻十字弓
 ITEM_20150317_000409	十字弓 [Stab]
 ITEM_20150317_000410	Useful when having a free hand is more important than just having 攻击 power.
 ITEM_20150317_000411	短小十字弓
-ITEM_20150317_000412	Modern 十字弓s use many different materials, mostly 魔物 parts.
+ITEM_20150317_000412	Modern 十字弓s use many different materials, mostly 魔物 部件.
 ITEM_20150317_000413	单发弓
 ITEM_20150317_000414	A 弓 that al短小s swift and fluid reloading of its ammunition.
 ITEM_20150317_000415	连发弓
@@ -455,7 +455,7 @@ ITEM_20150317_000454	Medina 十字弓
 ITEM_20150317_000455	This 武器 is specialized in taking down well-equipped enemies.
 ITEM_20150317_000456	Regina 十字弓
 ITEM_20150317_000457	Not good enough to be conside红色 the "Lord of 十字弓s," but the title of "Queen" seems fair.
-ITEM_20150317_000458	Chaser
+ITEM_20150317_000458	驱逐者
 ITEM_20150317_000459	Frequently used by Archers operating in areas with poor visibility or high wind.
 ITEM_20150317_000460	大帝国 十字弓
 ITEM_20150317_000461	Rumors say that Black Market 武器s are intentionally made to be expensive to maintain.
@@ -620,7 +620,7 @@ ITEM_20150317_000619	Calvary 盾牌
 ITEM_20150317_000620	骑士 盾牌
 ITEM_20150317_000621	Tower 盾牌
 ITEM_20150317_000622	Black 木质的 盾牌
-ITEM_20150317_000623	This 盾牌 is famous for being the first to succeed in increasing one的 resistance. It was infused with 魔力 du环型 its creation.
+ITEM_20150317_000623	This 盾牌 is famous for being the first to succeed in increasing 一个人的 resistance. It was infused with 魔力 du环型 its creation.
 ITEM_20150317_000624	欧克 盾牌
 ITEM_20150317_000625	This 盾牌 is crafted by making use of the wood的 魔力 properties.
 ITEM_20150317_000626	野蛮人 盾牌
@@ -630,7 +630,7 @@ ITEM_20150317_000629	In the past, vast amounts of resources were required to cra
 ITEM_20150317_000630	重型 凯特 盾牌
 ITEM_20150317_000631	A solid performance of this 盾牌 prevents even the unexpected dangers users may face.
 ITEM_20150317_000632	Bead 盾牌
-ITEM_20150317_000633	This 盾牌 provides excellent defense against lightning-type 攻击s.
+ITEM_20150317_000633	This 盾牌 provides excellent 防御 against lightning-type 攻击s.
 ITEM_20150317_000634	Circle 守卫
 ITEM_20150317_000635	According to users, this 盾牌 begins to heat up if you use it for too 久远.
 ITEM_20150317_000636	Ludas 盾牌
@@ -660,15 +660,15 @@ ITEM_20150317_000659	Royal 盾牌
 ITEM_20150317_000660	装备的 that will aid you in combat. Right-click to equip.
 ITEM_20150317_000661	Emperor 盾牌
 ITEM_20150317_000662	Test 盾牌
-ITEM_20150317_000663	Jigglebone Mercenary 盾牌
-ITEM_20150317_000664	Jigglebone Sippar
-ITEM_20150317_000665	Jigglebone Sippar 2
+ITEM_20150317_000663	Jiggle骨质 Mercenary 盾牌
+ITEM_20150317_000664	Jiggle骨质 Sippar
+ITEM_20150317_000665	Jiggle骨质 Sippar 2
 ITEM_20150317_000666	短矛
 ITEM_20150317_000667	单手 矛 [Stab]
 ITEM_20150317_000668	A basic, common 矛 for s老旧的iers.
 ITEM_20150317_000669	短矛
 ITEM_20150317_000670	A 矛 given to senior s老旧的iers or commanders.
-ITEM_20150317_000671	Winged 短矛
+ITEM_20150317_000671	羽翼ed 短矛
 ITEM_20150317_000672	Initially developed for the Cavalry, it has been widely adopted by many branches of the army.
 ITEM_20150317_000673	Spontoon
 ITEM_20150317_000674	Upgraded version of the 短矛.
@@ -684,7 +684,7 @@ ITEM_20150317_000683	邓科尔 Asta
 ITEM_20150317_000684	久远 Spoonton
 ITEM_20150317_000685	Alchupiz
 ITEM_20150317_000686	Gelti Alchupiz
-ITEM_20150317_000687	Winged 矛
+ITEM_20150317_000687	羽翼ed 矛
 ITEM_20150317_000688	Breach Pike
 ITEM_20150317_000689	Langdebeve
 ITEM_20150317_000690	Chauve-souris
@@ -722,7 +722,7 @@ ITEM_20150317_000721	The origin of its recipe is a matter of no importance. Its 
 ITEM_20150317_000722	Adatag
 ITEM_20150317_000723	At first glance it may seem like a dangerous 武器 to wield, but once you try it for yourself, you'll find that it is quite safe.
 ITEM_20150317_000724	尾刺
-ITEM_20150317_000725	There are many ways to fight a 战斗 using a 矛, such as cutting, throwing, and smashing. What really sets this 矛 apart from a regular pole, however, is its piercing capabilities.
+ITEM_20150317_000725	There are many ways to fight a 战斗 using a 矛, such as cutting, thro羽翼, and smashing. What really sets this 矛 apart from a regular pole, however, is its piercing capabilities.
 ITEM_20150317_000726	Brandish
 ITEM_20150317_000727	Users who like to use this 矛 frequently say the fol短小ing:
 ITEM_20150317_000728	This is a 单手 矛 like no other.
@@ -779,8 +779,8 @@ ITEM_20150317_000778	欧克 法杖
 ITEM_20150317_000779	Crafters say that it has become easier to empower a 木质的 法杖的 attributes since the 植物大灾变.
 ITEM_20150317_000780	Rokas 法杖
 ITEM_20150317_000781	This 法杖 was named after its place of origin, the King的 精金au.
-ITEM_20150317_000782	Bone 法杖
-ITEM_20150317_000783	It is crafted from a bone, but is unrelated to the essence of that bone.
+ITEM_20150317_000782	骨质 法杖
+ITEM_20150317_000783	It is crafted from a 骨质, but is unrelated to the essence of that 骨质.
 ITEM_20150317_000784	Shaman 法杖
 ITEM_20150317_000785	Though often misunderstood and fea红色, the period of time known as 'night' is simply one of nature的 basic cycles. This 法杖 is the same.
 ITEM_20150317_000786	Altaria 法杖
@@ -798,7 +798,7 @@ ITEM_20150317_000797	Necromancers were the first to 黛妃se this 法杖, but it
 ITEM_20150317_000798	Skull 法杖
 ITEM_20150317_000799	A theory suggests there的 more power that can be drawn from this 法杖 depending on the abilities of the dead used to craft it.
 ITEM_20150317_000800	高级 Shaman 法杖
-ITEM_20150317_000801	The effects may all seem the same, but the usage of the 法杖 differs betwen jobs depending on the strength of their soul.
+ITEM_20150317_000801	The effects may all seem the same, but the usage of the 法杖 differs betwen jobs depending on the strength of their 灵魂.
 ITEM_20150317_000802	大帝国 法杖
 ITEM_20150317_000803	The orders issued by previous 大师s for the search and arrest of the culprit who leaked this recipe to merchants have been essentially voided in recent times.
 ITEM_20150317_000804	Fatiman 法杖
@@ -810,14 +810,14 @@ ITEM_20150317_000809	装备的 that used to be issued only to Bokors or Necroman
 ITEM_20150317_000810	Serpens
 ITEM_20150317_000811	Users of this 法杖 must be able to 控制 their own darkness within.
 ITEM_20150317_000812	Levereuse
-ITEM_20150317_000813	People with 力量 mind and self-realization can utilize Levereuse to its full 潜能l du环型 战斗.
+ITEM_20150317_000813	People with 力量 意志 and self-realization can utilize Levereuse to its full 潜能l du环型 战斗.
 ITEM_20150317_000814	Kyrnus
 ITEM_20150317_000815	Prior to the Great Plant Cataclym, there was nobody who would use this 武器 because it used 恶魔ic powers. However, with the vanishing of the Goddesses, desperate people have begun using it.
 ITEM_20150317_000816	Knife
 ITEM_20150317_000817	Sub-Equip
 ITEM_20150317_000818	It is a small knife used for various purposes such as 战斗, cooking, or camping.
 ITEM_20150317_000819	Dirk
-ITEM_20150317_000820	力量er than normal knives. Some use it for throwing.
+ITEM_20150317_000820	力量er than normal knives. Some use it for thro羽翼.
 ITEM_20150317_000821	Main Gauche
 ITEM_20150317_000822	Used as a support 武器 but very capable of defending or deflecting enemy 攻击s.
 ITEM_20150317_000823	A 短dagger with double edge. It的 an evolved form of the tool knife used by the Highlanders with an e久远ated 匕首.
@@ -838,7 +838,7 @@ ITEM_20150317_000837	A 长杖 liked by many 巫师s in the past for no particula
 ITEM_20150317_000838	Ubuko 长杖
 ITEM_20150317_000839	It shows the diversity of preferences amongst 巫师s.
 ITEM_20150317_000840	Stag 长杖
-ITEM_20150317_000841	The decorations are 魔力ly crafted.
+ITEM_20150317_000841	The 饰品s are 魔力ly crafted.
 ITEM_20150317_000842	Geometry 长杖
 ITEM_20150317_000843	This 长杖 was made by translating 魔力 concepts into mathematical ones.
 ITEM_20150317_000844	恶魔 长杖
@@ -877,7 +877,7 @@ ITEM_20150317_000876	The Cryomancer 大师 said he created this recipe based on 
 ITEM_20150317_000877	Karlusto 长杖
 ITEM_20150317_000878	According to a rumor, the Chronomancer 大师 was disappointed after examining the recipe of this 武器 once it became publicly available.
 ITEM_20150317_000879	Expecta 长杖
-ITEM_20150317_000880	Despite all attempts by the purchaser or the crafter to hide its p手棒uction, the Pyromancer 大师 can sense when this 长杖 is crafted. 
+ITEM_20150317_000880	Despite all attempts by the pur驱逐者 or the crafter to hide its p手棒uction, the Pyromancer 大师 can sense when this 长杖 is crafted. 
 ITEM_20150317_000881	大帝国 长杖
 ITEM_20150317_000882	This is a proof that even ordinary ing红色ients can result in good 装备的, if used appropriately.
 ITEM_20150317_000883	Welsh 长杖
@@ -899,7 +899,7 @@ ITEM_20150317_000898	Candle 长杖
 ITEM_20150317_000899	The fire at the tip may go out, but it won't be because it ran out of fuel.
 ITEM_20150317_000900	Audra
 ITEM_20150317_000901	Some say that the Cryomancer 大师 jokingly t老旧的 the Pyromancer 大师 to challenge him with this 长杖 using ice 魔力 while he was barehanded.
-ITEM_20150317_000902	Sunf短小er
+ITEM_20150317_000902	SunFlower
 ITEM_20150317_000903	In the recipe of this 武器, instructions are written on how to obtain help from Goddess Saule and Goddess Gabija du环型 the crafting process.
 ITEM_20150317_000904	Maledic
 ITEM_20150317_000905	Legends say that the original Maledic is in the 恶魔ic dimension and that the imitations seen in this world are only projected illusions.
@@ -923,7 +923,7 @@ ITEM_20150317_000922	Light 盔甲
 ITEM_20150317_000923	Top [皮革]
 ITEM_20150317_000924	It doesn't matter what kind of 皮革it is made of as 久远 as it 保护s the wearer.
 ITEM_20150317_000925	棉绒 手套
-ITEM_20150317_000926	Though it is made of lighter material, it offers similar defenses to 皮革p手棒ucts at a 短小price. It also has the 增加ed benefit of being lighter.
+ITEM_20150317_000926	Though it is made of lighter material, it offers similar 防御s to 皮革p手棒ucts at a 短小price. It also has the 增加ed benefit of being lighter.
 ITEM_20150317_000927	棉绒 长靴
 ITEM_20150317_000928	Makes your feet feel lighter.
 ITEM_20150317_000929	棉绒 胖次
@@ -975,7 +975,7 @@ ITEM_20150317_000974	格里马 胖次
 ITEM_20150317_000975	It doesn't feel bad for a pair of 胖次 made from 木质的, non-fibrous materials.
 ITEM_20150317_000976	格里马 外袍
 ITEM_20150317_000977	Top [布甲]
-ITEM_20150317_000978	If you expected defense similar to a 布甲 shirt from this, you would be surprised at its 皮革-like defense.
+ITEM_20150317_000978	If you expected 防御 similar to a 布甲 shirt from this, you would be surprised at its 皮革-like 防御.
 ITEM_20150317_000979	Veris 手套
 ITEM_20150317_000980	If you don't have an aversion to 昆虫s, this is a good piece of 盔甲 to not only 保护 yourself, but also to h老旧的 a 武器.
 ITEM_20150317_000981	Veris 长靴
@@ -987,7 +987,7 @@ ITEM_20150317_000986	This 装备的 offers 优良的 保护ion to 精金 盔甲 
 ITEM_20150317_000987	鳞片 手套
 ITEM_20150317_000988	It is believed to provide great camouflage and have agile, evasive properties.
 ITEM_20150317_000989	鳞片 长靴
-ITEM_20150317_000990	Many choose these 长靴 for its 魔力 evasion rather than its defense.
+ITEM_20150317_000990	Many choose these 长靴 for its 魔力 evasion rather than its 防御.
 ITEM_20150317_000991	鳞片 绑腿
 ITEM_20150317_000992	One of the benefits of the 植物大灾变 is that crafters have found a way to reuse 魔物s' remains for 力量er 盔甲.
 ITEM_20150317_000993	鳞片 铁甲
@@ -1013,17 +1013,17 @@ ITEM_20150317_001012	Since the 植物大灾变, many 装备的 crafted from new 
 ITEM_20150317_001013	Hard Veris 紧身衣
 ITEM_20150317_001014	One theory suggests that the 乌波s found this recipe before humans did. Very light, but also very hard.
 ITEM_20150317_001015	重型 鳞片 手套
-ITEM_20150317_001016	A favorite of剑smen thanks to its great defense.
+ITEM_20150317_001016	A favorite of剑smen thanks to its great 防御.
 ITEM_20150317_001017	重型 鳞片 长靴
-ITEM_20150317_001018	Although it may entangle your feet at times, the defense it provides is worth the trouble.
+ITEM_20150317_001018	Although it may entangle your feet at times, the 防御 it provides is worth the trouble.
 ITEM_20150317_001019	重型 鳞片 绑腿
 ITEM_20150317_001020	Until a few years ago, only the wealthy剑smen could wear this prestigious 盔甲.
 ITEM_20150317_001021	重型 鳞片 铁甲
-ITEM_20150317_001022	Good 盔甲 that offers solid defense and occasionally deflects enemy 攻击s.
+ITEM_20150317_001022	Good 盔甲 that offers solid 防御 and occasionally deflects enemy 攻击s.
 ITEM_20150317_001023	君主 胖次
 ITEM_20150317_001024	Though it rarely happens, these 胖次 can petrify the wearer.
 ITEM_20150317_001025	君主 外袍
-ITEM_20150317_001026	It has a be短小average defense, but many wear it for the 魔力 evasion.
+ITEM_20150317_001026	It has a be短小average 防御, but many wear it for the 魔力 evasion.
 ITEM_20150317_001027	Rag 胖次
 ITEM_20150317_001028	The 提升d vitality given by these 胖次 feels imaginary, but is in fact totally real.
 ITEM_20150317_001029	Rag 盔甲
@@ -1051,11 +1051,11 @@ ITEM_20150317_001050	Once you put these on, you can tell that they're a lot quie
 ITEM_20150317_001051	锁子甲 胖次
 ITEM_20150317_001052	Easy to enhance and, if you know how to, can be utilized in many ways.
 ITEM_20150317_001053	锁子甲 盔甲
-ITEM_20150317_001054	Minivern的 high defense becomes a great gift for crafters after it dies, like in this 盔甲.
+ITEM_20150317_001054	Minivern的 high 防御 becomes a great gift for crafters after it dies, like in this 盔甲.
 ITEM_20150317_001055	精金 护手
 ITEM_20150317_001056	It is the best 装备的 from those made with traditional crafting methods.
 ITEM_20150317_001057	精金 护胫
-ITEM_20150317_001058	With the recent discovery of a method to fuse bone and metal together, the quality of ordinary 精金 护胫 have improved.
+ITEM_20150317_001058	With the recent discovery of a method to fuse 骨质 and metal together, the quality of ordinary 精金 护胫 have improved.
 ITEM_20150317_001059	精金 绑腿
 ITEM_20150317_001060	The crafting method for this 装备的 is not novel. The gathe环型 of the materials for it, however, is very difficult.
 ITEM_20150317_001061	精金 盔甲
@@ -1084,9 +1084,9 @@ ITEM_20150317_001083	邓科尔 Cotton 手套
 ITEM_20150317_001084	Spellcasters' favorite 装备的.
 ITEM_20150317_001085	邓科尔 Cotton 长靴
 ITEM_20150317_001086	邓科尔 Cotton 胖次
-ITEM_20150317_001087	They are believed to provide exceptional 魔力 defense.
+ITEM_20150317_001087	They are believed to provide exceptional 魔力 防御.
 ITEM_20150317_001088	邓科尔 Cotton 外袍
-ITEM_20150317_001089	People still choose this 外袍 for its 魔力 defense.
+ITEM_20150317_001089	People still choose this 外袍 for its 魔力 防御.
 ITEM_20150317_001090	邓科尔 厚皮革手套
 ITEM_20150317_001091	邓科尔 厚皮革长靴
 ITEM_20150317_001092	邓科尔 厚皮革胖次
@@ -1146,7 +1146,7 @@ ITEM_20150317_001145	皮革盔甲 of Fol短小ers
 ITEM_20150317_001146	Mummyghast 铁甲
 ITEM_20150317_001147	Vejo 长靴
 ITEM_20150317_001148	Mien 长靴
-ITEM_20150317_001149	Archon Hands
+ITEM_20150317_001149	Archon 之手
 ITEM_20150317_001150	These 手套 are used by the Archon.
 ITEM_20150317_001151	Ravinepede 长靴
 ITEM_20150317_001152	长靴 coated with Ravinepede poison. Provides resistance against poison.
@@ -1159,7 +1159,7 @@ ITEM_20150317_001158	Unprecedented 魔力 装备的 like these 手套 are raisin
 ITEM_20150317_001159	Cafrisun 长靴
 ITEM_20150317_001160	You feel lighter when you wear these shoes.
 ITEM_20150317_001161	Cafrisun 胖次
-ITEM_20150317_001162	Please do not intentionally take hits to test the 魔力 defense of these 胖次.
+ITEM_20150317_001162	Please do not intentionally take hits to test the 魔力 防御 of these 胖次.
 ITEM_20150317_001163	Cafrisun 盔甲
 ITEM_20150317_001164	Though the ing红色ients are unknown, this 盔甲 is quite useful.
 ITEM_20150317_001165	迪奥 手套
@@ -1265,23 +1265,23 @@ ITEM_20150317_001264	Vine 长靴
 ITEM_20150317_001265	Vine 胖次
 ITEM_20150317_001266	Vine 护胫
 ITEM_20150317_001267	Saint 外袍
-ITEM_20150317_001268	Soul Chaser 手套
-ITEM_20150317_001269	Soul Chaser 长靴
-ITEM_20150317_001270	Soul Chaser 胖次
-ITEM_20150317_001271	Soul Chaser 盔甲
-ITEM_20150317_001272	Bone 护手
-ITEM_20150317_001273	Bone 护胫
-ITEM_20150317_001274	Bone 短裙
-ITEM_20150317_001275	Bone 盔甲
-ITEM_20150317_001276	Shade Hands
-ITEM_20150317_001277	Shade Runner
-ITEM_20150317_001278	Shade 短裙
-ITEM_20150317_001279	Shade Dancer
+ITEM_20150317_001268	灵魂驱逐者 手套
+ITEM_20150317_001269	灵魂驱逐者 长靴
+ITEM_20150317_001270	灵魂驱逐者 胖次
+ITEM_20150317_001271	灵魂驱逐者 盔甲
+ITEM_20150317_001272	骨质 护手
+ITEM_20150317_001273	骨质 护胫
+ITEM_20150317_001274	骨质 短裙
+ITEM_20150317_001275	骨质 盔甲
+ITEM_20150317_001276	暗影 之手
+ITEM_20150317_001277	暗影 奔跑者
+ITEM_20150317_001278	暗影 短裙
+ITEM_20150317_001279	暗影 舞者
 ITEM_20150317_001280	Rokas 皮革盔甲
 ITEM_20150317_001281	Rokas 铁甲
 ITEM_20150317_001282	Rokas 外袍
-ITEM_20150317_001283	Wind Runner
-ITEM_20150317_001284	Zachariel的 Heart
+ITEM_20150317_001283	Wind 奔跑者
+ITEM_20150317_001284	Zachariel的 心脏
 ITEM_20150317_001285	Hydra Trousers
 ITEM_20150317_001286	Banshee Veil
 ITEM_20150317_001287	Top [Ghost]
@@ -1292,54 +1292,54 @@ ITEM_20150317_001291	项链
 ITEM_20150317_001292	SP 项链
 ITEM_20150317_001293	STA 项链
 ITEM_20150317_001294	歌剧 项链
-ITEM_20150317_001295	Bone 项链
+ITEM_20150317_001295	骨质 项链
 ITEM_20150317_001296	厚格玛 皮革项链
-ITEM_20150317_001297	Strange Charm
-ITEM_20150317_001298	Defense 项链
+ITEM_20150317_001297	古怪的妩媚
+ITEM_20150317_001298	防御 项链
 ITEM_20150317_001299	菜鸟 项链
 ITEM_20150317_001300	The fact that such 装备的 is so affordable is a blessing for beginners.
-ITEM_20150317_001301	乌波 Talisman
-ITEM_20150317_001302	This talisman is the reason why 攻击s sometimes have no effect on 乌波s.
+ITEM_20150317_001301	乌波 护符
+ITEM_20150317_001302	This 护符 is the reason why 攻击s sometimes have no effect on 乌波s.
 ITEM_20150317_001303	Chupacabra 项链
-ITEM_20150317_001304	Rumor says that the teeth of Chupacabra whisper to each other while chatte环型. Regardless, they definitely contain some 魔力 power.
+ITEM_20150317_001304	Rumor says that the 利齿 of Chupacabra whisper to each other while chatte环型. Regardless, they definitely contain some 魔力 power.
 ITEM_20150317_001305	木质的 项链
 ITEM_20150317_001306	It的 not recommended to take this off while you're carrying something.
 ITEM_20150317_001307	铁质的 项链
 ITEM_20150317_001308	You might feel like you became lighter, but in reality you will not have become any thinner.
 ITEM_20150317_001309	不锈钢 项链
 ITEM_20150317_001310	In 战斗, a small factor may make the difference between life and death. You certainly won't regret wea环型 this 项链.
-ITEM_20150317_001311	Talisman
+ITEM_20150317_001311	护符
 ITEM_20150317_001312	Sadly it won't help you much when studying.
 ITEM_20150317_001313	Klaipeda 锁链
-ITEM_20150317_001314	This 项链 brings out the power of the wearer的 soul.
+ITEM_20150317_001314	This 项链 brings out the power of the wearer的 灵魂.
 ITEM_20150317_001315	Might 费迪南 锁链
 ITEM_20150317_001316	Handicrafts from 费迪南 have had a 力量 reputation for hund红色s of years. You can feel the difference when you compare them to non-费迪南 items.
-ITEM_20150317_001317	Dex 费迪南 锁链
-ITEM_20150317_001318	Health 费迪南 锁链
-ITEM_20150317_001319	Intel 费迪南 锁链
-ITEM_20150317_001320	Mind 费迪南 锁链
+ITEM_20150317_001317	灵巧 费迪南 锁链
+ITEM_20150317_001318	生命 费迪南 锁链
+ITEM_20150317_001319	智力 费迪南 锁链
+ITEM_20150317_001320	意志 费迪南 锁链
 ITEM_20150317_001321	Ukopus 项链
 ITEM_20150317_001322	提升 the 魔力 power of the wearer.
 ITEM_20150317_001323	乌波 项链
-ITEM_20150317_001324	魔力 Pendant
-ITEM_20150317_001325	Ivory Pendant
-ITEM_20150317_001326	符文 Pendant
-ITEM_20150317_001327	秘银 Talisman
+ITEM_20150317_001324	魔力 坠饰
+ITEM_20150317_001325	Ivory 坠饰
+ITEM_20150317_001326	符文 坠饰
+ITEM_20150317_001327	秘银 护符
 ITEM_20150317_001328	项链 bestowed with the blessings of the Cathedral.
-ITEM_20150317_001329	项链 of Sloth
-ITEM_20150317_001330	项链 of 柔毛y
-ITEM_20150317_001331	项链 of Deceit
-ITEM_20150317_001332	St环型 项链
+ITEM_20150317_001329	懒惰项链
+ITEM_20150317_001330	愤怒项链
+ITEM_20150317_001331	欺骗项链
+ITEM_20150317_001332	串串项链
 ITEM_20150317_001333	According to legend; after learning its secret recipe, Lydia Schaffen used to wear this 项链 to polish her skills du环型 her initial period as a poor apprentice.
-ITEM_20150317_001334	歌剧 Talisman
+ITEM_20150317_001334	歌剧 护符
 ITEM_20150317_001335	It is said that a human 巫师 gave the recipe for this 项链 to the 歌剧s a 久远 time ago as a gift when the 歌剧s and humankind were not hostile to one another.
-ITEM_20150317_001336	Pyrlight Pendant
+ITEM_20150317_001336	Pyrlight 坠饰
 ITEM_20150317_001337	Used to be a战争ded by the Pyromancer 大师 to beginners. This tradition ceased after the Goddesses disappea红色.
-ITEM_20150317_001338	Cryolight Pendant
-ITEM_20150317_001339	Since their assumption of office prior to the 植物大灾变, the Cryomancer 大师 has stopped the tradition of a战争ding this pendant to people. Now this pendant must be either obtained or crafted by the users themselves.
-ITEM_20150317_001340	魔力 Talisman
+ITEM_20150317_001338	Cryolight 坠饰
+ITEM_20150317_001339	Since their assumption of office prior to the 植物大灾变, the Cryomancer 大师 has stopped the tradition of a战争ding this 坠饰 to people. Now this 坠饰 must be either obtained or crafted by the users themselves.
+ITEM_20150317_001340	魔力 护符
 ITEM_20150317_001341	Fusing two 魔力 objects becomes easy once you find the catalyst. Humans, however, are not the only race who can discover such catalyst.
-ITEM_20150317_001342	Strength Pendant
+ITEM_20150317_001342	Strength 坠饰
 ITEM_20150317_001343	Many new 魔力 items that use the power of 魔物s have been invented since the 植物大灾变.
 ITEM_20150317_001344	Pyluma 锁链
 ITEM_20150317_001345	The Pyromancer 大师 is unrelated to the creation of this item.
@@ -1349,17 +1349,17 @@ ITEM_20150317_001348	Poizma 锁链
 ITEM_20150317_001349	The people 初级rily involved in the manufactu环型 of this item are 巫师s expelled from the Tower of 魔导s.
 ITEM_20150317_001350	Lightna 锁链
 ITEM_20150317_001351	According to a legend, Agailla Flurry prepa红色 several dozen copies of this item and fought the 恶魔 King until all of them were destroyed.
-ITEM_20150317_001352	Health Stone
-ITEM_20150317_001353	An item crafted by combining and condensing 每thing known to be good for one的 health through 魔力.
-ITEM_20150317_001354	战争rior Pendant
+ITEM_20150317_001352	生命 Stone
+ITEM_20150317_001353	An item crafted by combining and condensing 每thing known to be good for 一个人的 生命 through 魔力.
+ITEM_20150317_001354	战争rior 坠饰
 ITEM_20150317_001355	The recipe for this item has been around for many years in the kingdom, but a theory suggests its origin to be the hometown of the Barbarian 大师. There is speculation that its crafting method in the two areas are different.
 ITEM_20150317_001356	Cyclops Eye
 ITEM_20150317_001357	The darkness of the 恶魔 world seen by this eye has turned, and now it serves to 保护 you.
-ITEM_20150317_001358	Bone 项链
+ITEM_20150317_001358	骨质 项链
 ITEM_20150317_001359	When a plan to return to this world as an undead was th战争ted, the power and intent were contained into this 项链.
 ITEM_20150317_001360	Carnubber 项链
 ITEM_20150317_001361	Misfortune may chase you if you carry something that is not yours. Worry not, since the name and the origin of this 项链 is unknown.
-ITEM_20150317_001362	口帕 Pendant
+ITEM_20150317_001362	口帕 坠饰
 ITEM_20150317_001363	矿工用 项链
 ITEM_20150317_001364	The remains of a 高贵 s老旧的ier has found a new owner.
 ITEM_20150317_001365	Conqueror
@@ -1375,7 +1375,7 @@ ITEM_20150317_001374	An item that contains the grace of Goddess Zemyna who disap
 ITEM_20150317_001375	Max Petamion
 ITEM_20150317_001376	If you're seeking a way to improve 每 single ability of a person, the answer is already known. However, it is not easy to realize that answer for your own use.
 ITEM_20150317_001377	Animus
-ITEM_20150317_001378	Rumors say that the wearer of this item will leave part of his soul in a different world. Despite the vast number of people still 研究ing the matter, the mechanism of this item is still a mystery.
+ITEM_20150317_001378	Rumors say that the wearer of this item will leave part of his 灵魂 in a different world. Despite the vast number of people still 研究ing the matter, the mechanism of this item is still a mystery.
 ITEM_20150317_001379	Empty_环型
 ITEM_20150317_001380	Grooved 手环
 ITEM_20150317_001381	腕镯
@@ -1391,8 +1391,8 @@ ITEM_20150317_001390	精准 is, in essence, the ability to exert precise 控制 
 ITEM_20150317_001391	高贵 腕镯
 ITEM_20150317_001392	It is said that the blessings of the Goddess of the Lands, Zemyna, lie within this 装备的.
 ITEM_20150317_001393	铁质的 手环
-ITEM_20150317_001394	Although devoid of any 魔力 effect, it will certainly 提升 your defense.
-ITEM_20150317_001395	Health 重型 手环
+ITEM_20150317_001394	Although devoid of any 魔力 effect, it will certainly 提升 your 防御.
+ITEM_20150317_001395	生命 重型 手环
 ITEM_20150317_001396	For 装备的 requi环型 little to no 魔力 effect, 费迪南 items are reputed to have a 久远 history of great craftsmanship and quality.
 ITEM_20150317_001397	Magi 重型 手环
 ITEM_20150317_001398	Arcurus 重型 手环
@@ -1459,7 +1459,7 @@ ITEM_20150317_001458	It was made with elegance for the royal ball and formal eve
 ITEM_20150317_001459	Peltasta 外衣
 ITEM_20150317_001460	Peltastas prefer a fancy outfit because they care more about flaunting their 战斗 actions to their allies than the dangers of being spotted by an enemy.
 ITEM_20150317_001461	Hoplite 外衣s
-ITEM_20150317_001462	A 外衣 made for versatile leg 移动 such as jumping and throwing a 矛. Also appropriate for events requi环型 formal attire.
+ITEM_20150317_001462	A 外衣 made for versatile leg 移动 such as jumping and thro羽翼 a 矛. Also appropriate for events requi环型 formal attire.
 ITEM_20150317_001463	Centurion 外衣
 ITEM_20150317_001464	This 外衣 inherits a traditional look that has continued for a thousand years.
 ITEM_20150317_001465	Barbarian 外衣
@@ -1484,13 +1484,13 @@ ITEM_20150317_001483	Pyromancers believe their 外衣 represents their i魔导 a
 ITEM_20150317_001484	Cryomancer 外衣
 ITEM_20150317_001485	Crafted to withstand not only a cool breeze but freezing cold temperatures. The 外衣 has been modified to be extremely practical reflecting the current 大师的 personality.
 ITEM_20150317_001486	Psychokino 外衣
-ITEM_20150317_001487	Despite its neat look, the 外衣 is very loose when worn. This is because Psychokinos hate being confined, whether it is their soul or their body.
+ITEM_20150317_001487	Despite its neat look, the 外衣 is very loose when worn. This is because Psychokinos hate being confined, whether it is their 灵魂 or their body.
 ITEM_20150317_001488	Alchemist 外衣
 ITEM_20150317_001489	This multilaye红色 外衣 is designed in such a way that it can be taken off layer by layer du环型 an emergency.
 ITEM_20150317_001490	Sorcerer 外衣
 ITEM_20150317_001491	For a spellcaster 外袍, it is quite 战斗-optimized. If one thinks about the creatures they have to deal with, however, it的 very much justified.
 ITEM_20150317_001492	Linker 外衣
-ITEM_20150317_001493	Due to their nature of pursuing connections among things, Linkers prefer a simple and plain outfit that will remind one of nothing at all. They say they do this so that people will not have a standardized view of Linkers.
+ITEM_20150317_001493	Due to their nature of pursuing connections among things, Linkers prefer a simple and plain outfit that will re意志 one of nothing at all. They say they do this so that people will not have a standardized view of Linkers.
 ITEM_20150317_001494	Chronomancer 外衣
 ITEM_20150317_001495	Chronomancers claim that their 外衣 was Agailla Flurry的 favorite style.
 ITEM_20150317_001496	Necromancer 外衣
@@ -1530,7 +1530,7 @@ ITEM_20150317_001529	Priests believe they are the most neutral and traditional a
 ITEM_20150317_001530	Krivis 外衣
 ITEM_20150317_001531	The Krivis proudly claim that they are the 监护人s of the 老旧的est traditional faith. Their 外衣 dates back to the Great King Zachariel的 rule.
 ITEM_20150317_001532	Bokor 外衣
-ITEM_20150317_001533	A 外衣 fitting for any activity, whether it的 for looking into a 水晶球, for knitting, or for swinging a 武器.
+ITEM_20150317_001533	A 外衣 fitting for any activity, whether it的 for looking into a 水晶球, for knitting, or for s羽翼ing a 武器.
 ITEM_20150317_001534	Druid 外衣
 ITEM_20150317_001535	The 久远 drape used in this 外衣 is said to be helpful for ourdoor living.
 ITEM_20150317_001536	Sadhu 外衣
@@ -1538,7 +1538,7 @@ ITEM_20150317_001537	This outfit was heavily influenced by the location of origi
 ITEM_20150317_001538	Dievdirbys 外衣
 ITEM_20150317_001539	Needless to say, 布甲es uncomfortable for sculpting are not even conside红色. 
 ITEM_20150317_001540	Oracle 外衣
-ITEM_20150317_001541	Soft and light, this 外衣 is said to comfort and calm your body and soul.
+ITEM_20150317_001541	Soft and light, this 外衣 is said to comfort and calm your body and 灵魂.
 ITEM_20150317_001542	Monk 外衣
 ITEM_20150317_001543	A 外衣 emphasizing the solemnity of a cleric while being comfortable enough for physical training.
 ITEM_20150317_001544	Pardoner 外衣
@@ -1564,30 +1564,30 @@ ITEM_20150317_001563	Lepus Bunny Headband
 ITEM_20150317_001564	Headgear based on the ears of a Lepus Bunny. Using this won't improve your hea环型.
 ITEM_20150317_001565	Ginkgo 树叶
 ITEM_20150317_001566	Easily found du环型 autumn. It may smell like the Ginkgo fruit.
-ITEM_20150317_001567	Tiger Swal短小tail
-ITEM_20150317_001568	Experience the sensation of Tiger Swal短小tail landing on your head.
-ITEM_20150317_001569	Eagle 羽毛
-ITEM_20150317_001570	Can be used as a writing tool if needed.
-ITEM_20150317_001571	Muscharia Hat
-ITEM_20150317_001572	A mushroom might grow on your head.
-ITEM_20150317_001573	Crown
-ITEM_20150317_001574	With great power comes great responsibility.
-ITEM_20150317_001575	White F短小er Hairpin
-ITEM_20150317_001576	Be careful not to be mistaken for being mentally sick.
-ITEM_20150317_001577	Tiger Mask
-ITEM_20150317_001578	A mask with a silly tiger face on it.
-ITEM_20150317_001579	Teeny Doll
-ITEM_20150317_001580	If you face the real Teeny, it will be very different from a doll.
-ITEM_20150317_001581	Wing 头盔
-ITEM_20150317_001582	A 头盔 with a wing decoration.
-ITEM_20150317_001583	Wing Decoration
-ITEM_20150317_001584	Inspi红色 by a Goddess' wing.
-ITEM_20150317_001585	Nesting Egg
-ITEM_20150317_001586	Nobody knows why the egg was nested on someone的 head.
+ITEM_20150317_001567	老虎的燕尾服
+ITEM_20150317_001568	体验身披老虎的燕尾服的感觉.
+ITEM_20150317_001569	老鹰 羽毛
+ITEM_20150317_001570	如果需要的话可以当文具用.
+ITEM_20150317_001571	蘑菇帽子
+ITEM_20150317_001572	你的头上可能长出一个蘑菇哦.
+ITEM_20150317_001573	皇冠
+ITEM_20150317_001574	巨大的力量意味着巨大的责任.
+ITEM_20150317_001575	白花发卡
+ITEM_20150317_001576	要小心不要被当成神经病患者.
+ITEM_20150317_001577	老虎面具
+ITEM_20150317_001578	面具上画着傻乎乎的老虎脸.
+ITEM_20150317_001579	苍蝇娃娃
+ITEM_20150317_001580	如果你面对真正的苍蝇, 它和娃娃可完全不一样.
+ITEM_20150317_001581	羽翼 头盔
+ITEM_20150317_001582	一个有羽翼装饰的头盔.
+ITEM_20150317_001583	羽翼 饰品
+ITEM_20150317_001584	灵感来源于女神的翅膀.
+ITEM_20150317_001585	蛋巢
+ITEM_20150317_001586	没有人知道为什么有的人头上顶着一个蛋巢.
 ITEM_20150317_001587	Nesting Chick
 ITEM_20150317_001588	If you don't feed it properly, you might become bald due to the hungry chick.
 ITEM_20150317_001589	Nesting Chicken
-ITEM_20150317_001590	Now you'll always have eggs for breakfast.
+ITEM_20150317_001590	Now you'll always have 蛋s for breakfast.
 ITEM_20150317_001591	Campaign Hat
 ITEM_20150317_001592	A hat used for a special event or when marching.
 ITEM_20150317_001593	Gentleman的 Dignity
@@ -1599,26 +1599,26 @@ ITEM_20150317_001598	Very good when you have a fever or for cooling your head.
 ITEM_20150317_001599	Rosa Rugosa
 ITEM_20150317_001600	Smells very pleasant.
 ITEM_20150317_001601	羽毛 Hat
-ITEM_20150317_001602	Don't mind the 羽毛 being larger than the hat.
+ITEM_20150317_001602	Don't 意志 the 羽毛 being larger than the hat.
 ITEM_20150317_001603	Maple 树叶
-ITEM_20150317_001604	Head decoration made to look like a maple 树叶. Keep away from fire.
+ITEM_20150317_001604	Head 饰品 made to look like a maple 树叶. Keep away from fire.
 ITEM_20150317_001605	红色 Tassel Hat
 ITEM_20150317_001606	An ornate hat with tassels. Used sometimes by a high ranking official or by reputable people.
 ITEM_20150317_001607	Nurse Headband
 ITEM_20150317_001608	Wea环型 this won't give you any healing powers.
-ITEM_20150317_001609	Katyn F短小er Decoration
-ITEM_20150317_001610	Headband made with f短小ers from the Katyn 森林. Eminates a faint blue light.
+ITEM_20150317_001609	Katyn Flower 饰品
+ITEM_20150317_001610	Headband made with Flowers from the Katyn 森林. Eminates a faint blue light.
 ITEM_20150317_001611	Dog Ears
 ITEM_20150317_001612	Become cuter with this.
 ITEM_20150317_001613	Cow Headband
 ITEM_20150317_001614	Moooo mooooo mooo moo moooo.
-ITEM_20150317_001615	Small Lion Mask
-ITEM_20150317_001616	In some regions people dance while wea环型 this mask to cast away evil spirits.
-ITEM_20150317_001617	Big Lion Mask
-ITEM_20150317_001618	Tengu Mask
+ITEM_20150317_001615	Small Lion 面具
+ITEM_20150317_001616	In some regions people dance while wea环型 this 面具 to cast away evil spirits.
+ITEM_20150317_001617	Big Lion 面具
+ITEM_20150317_001618	Tengu 面具
 ITEM_20150317_001619	Based on a folk tale creature from a faraway land.
-ITEM_20150317_001620	Fox Mask
-ITEM_20150317_001621	Made to look like the face of a fox. People say this mask used to be worn by some assassins.
+ITEM_20150317_001620	Fox 面具
+ITEM_20150317_001621	Made to look like the face of a fox. People say this 面具 used to be worn by some assassins.
 ITEM_20150317_001622	Glasses from the Otherworld
 ITEM_20150317_001623	If you wear this, you will enjoy a better depth perception.
 ITEM_20150317_001624	Goat Horn
@@ -1627,30 +1627,30 @@ ITEM_20150317_001626	恶魔 翅膀
 ITEM_20150317_001627	Wea环型 this won't give you any special powers against 恶魔s or vice-versa.
 ITEM_20150317_001628	秘银 Tiara
 ITEM_20150317_001629	Sometimes the bride will wear this du环型 her wedding.
-ITEM_20150317_001630	Bear Eyemask
+ITEM_20150317_001630	Bear Eye面具
 ITEM_20150317_001631	防御 the light so you can sleep better.
 ITEM_20150317_001632	Symbol of Wealth
 ITEM_20150317_001633	Show them the meaning of 'wealth.'
-ITEM_20150317_001634	黄金质 Rabbit Hairpin
+ITEM_20150317_001634	黄金质 Rabbit 发卡
 ITEM_20150317_001635	Don't lose it, it的 made of solid g老旧的.
 ITEM_20150317_001636	Antler Horns
-ITEM_20150317_001637	Towing a sled while wea环型 this might not be a bad idea.
+ITEM_20150317_001637	To羽翼 a sled while wea环型 this might not be a bad idea.
 ITEM_20150317_001638	Officer 头盔
-ITEM_20150317_001639	Decorations are attached to this 头盔 to demand respect.
+ITEM_20150317_001639	饰品s are attached to this 头盔 to demand respect.
 ITEM_20150317_001640	Gilt 头盔
 ITEM_20150317_001641	The metal of this 头盔 has been gilded with g老旧的 精金.
 ITEM_20150317_001642	不锈钢 头盔
 ITEM_20150317_001643	A 头盔 made of 力量 精金 metal. Often worn by 骑士s.
 ITEM_20150317_001644	Black Rabbit Ears
 ITEM_20150317_001645	Connoisseurs often get into disputes regarding the cuteness factor of a straight ear versus a f老旧的ed ear.
-ITEM_20150317_001646	口帕 Doll
+ITEM_20150317_001646	口帕 娃娃
 ITEM_20150317_001647	Hat crafted to represent a 口帕.
 ITEM_20150317_001648	Pink Bunny
 ITEM_20150317_001649	Flaunt your pink-pink-ish attractiveness and cuteness at the same time.
 ITEM_20150317_001650	Stake
-ITEM_20150317_001651	It is said to be a mask used in a faraway land.
-ITEM_20150317_001652	White Tiger Mask
-ITEM_20150317_001653	A mask based on the white tiger, a very rare animal.
+ITEM_20150317_001651	It is said to be a 面具 used in a faraway land.
+ITEM_20150317_001652	White 老虎 面具
+ITEM_20150317_001653	A 面具 based on the white 老虎, a very rare animal.
 ITEM_20150317_001654	Glasses
 ITEM_20150317_001655	Helps your eyesight.
 ITEM_20150317_001656	Unicorn Horn
@@ -1674,26 +1674,26 @@ ITEM_20150317_001673	A 头盔 that is symbolic of the Wugushis.
 ITEM_20150317_001674	Earplugs
 ITEM_20150317_001675	防御 out noise.
 ITEM_20150317_001676	It completely cuts you off from any external sound, including Mandragoras' screams.
-ITEM_20150317_001677	Luxury Hairpin
+ITEM_20150317_001677	Luxury 发卡
 ITEM_20150317_001678	羽毛 头盔
-ITEM_20150317_001679	Shaman Mask
+ITEM_20150317_001679	Shaman 面具
 ITEM_20150317_001680	Sprout
-ITEM_20150317_001681	Fried Egg
+ITEM_20150317_001681	Fried 蛋
 ITEM_20150317_001682	Party Cone
-ITEM_20150317_001683	Cat Hairpin
+ITEM_20150317_001683	Cat 发卡
 ITEM_20150317_001684	Imperial Helm
 ITEM_20150317_001685	Ball from Another World
 ITEM_20150317_001686	Burdensome Ribbon
 ITEM_20150317_001687	Paper Crane
 ITEM_20150317_001688	Ghost Headband
-ITEM_20150317_001689	Carnival Mask
+ITEM_20150317_001689	Carnival 面具
 ITEM_20150317_001690	Peacock 羽毛
 ITEM_20150317_001691	战争 Bonnet
 ITEM_20150317_001692	Pineapple
 ITEM_20150317_001693	Desert Outlaw
 ITEM_20150317_001694	C短小n Cap
 ITEM_20150317_001695	猫头鹰
-ITEM_20150317_001696	Crown Headband
+ITEM_20150317_001696	皇冠 Headband
 ITEM_20150317_001697	Pudding
 ITEM_20150317_001698	Bride Coronet
 ITEM_20150317_001699	Polka Dot Ribbon
@@ -1711,8 +1711,8 @@ ITEM_20150317_001710	Confusion Flag
 ITEM_20150317_001711	Confuses the enemy.
 ITEM_20150317_001712	Imperial Fan
 ITEM_20150317_001713	B短小s the enemy away.
-ITEM_20150317_001714	恶魔bane Charm
-ITEM_20150317_001715	红色uces the defense of the 黛妃l-type 魔物s.
+ITEM_20150317_001714	恶魔bane 妩媚
+ITEM_20150317_001715	红色uces the 防御 of the 黛妃l-type 魔物s.
 ITEM_20150317_001716	Bronze Compass
 ITEM_20150317_001717	Provides resistance against the Confusion status.
 ITEM_20150317_001718	Bubble Stick
@@ -1726,7 +1726,7 @@ ITEM_20150317_001725	Aggro 药剂
 ITEM_20150317_001726	Money Bag
 ITEM_20150317_001727	Medal
 ITEM_20150317_001728	Four-树叶 Clover
-ITEM_20150317_001729	Charm
+ITEM_20150317_001729	妩媚
 ITEM_20150317_001730	提升 your 暴击 Hit chance.
 ITEM_20150317_001731	Alchemy 1
 ITEM_20150317_001732	Alchemy 2
@@ -1768,11 +1768,11 @@ ITEM_20150317_001767	Top
 ITEM_20150317_001768	体力 +5 提升药剂
 ITEM_20150317_001769	右键点击使用.
 ITEM_20150317_001770	Small HP 药剂
-ITEM_20150317_001771	恢复 192 HP. {nl}Health 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
+ITEM_20150317_001771	恢复 192 HP. {nl}生命 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150317_001772	HP 药剂
-ITEM_20150317_001773	恢复 320 HP. {nl}Health 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 45 秒.
+ITEM_20150317_001773	恢复 320 HP. {nl}生命 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 45 秒.
 ITEM_20150317_001774	Large HP 药剂
-ITEM_20150317_001775	恢复 640 HP. {nl}Health 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 60 秒.
+ITEM_20150317_001775	恢复 640 HP. {nl}生命 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 60 秒.
 ITEM_20150317_001776	Small SP 药剂
 ITEM_20150317_001777	恢复 144 SP. {nl}SP 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150317_001778	恢复 240 SP. {nl}SP 得到恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 45 秒.
@@ -1785,11 +1785,11 @@ ITEM_20150317_001784	恢复 30 体力. {nl}右键点击使用. 冷却 45 秒.
 ITEM_20150317_001785	STA Pill (Large)
 ITEM_20150317_001786	恢复 40 体力. {nl}右键点击使用. 冷却 60 秒.
 ITEM_20150317_001787	Small Recovery 药剂
-ITEM_20150317_001788	恢复 244 HP and SP. {nl}Health and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
+ITEM_20150317_001788	恢复 244 HP and SP. {nl}生命 and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150317_001789	Recovery 药剂
-ITEM_20150317_001790	恢复 373 HP and SP. {nl}Health and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
+ITEM_20150317_001790	恢复 373 HP and SP. {nl}生命 and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150317_001791	Large Recovery 药剂
-ITEM_20150317_001792	恢复 744 HP and SP. {nl}Health and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
+ITEM_20150317_001792	恢复 744 HP and SP. {nl}生命 and SP are 恢复 每 2 秒 for 15 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150317_001793	STA + 5 提升药剂
 ITEM_20150317_001794	提升 体力 by 5
 ITEM_20150317_001795	红色 口帕 Piece
@@ -1808,9 +1808,9 @@ ITEM_20150317_001807	恢复 Velhider的 体力 by 30.
 ITEM_20150317_001808	Varnalesa
 ITEM_20150317_001809	恢复 32~35 SP. 右键点击使用.
 ITEM_20150317_001810	Valerijonas
-ITEM_20150317_001811	A f短小er that can be used as a herb.
+ITEM_20150317_001811	A Flower that can be used as a herb.
 ITEM_20150317_001812	Ciobrelis
-ITEM_20150317_001813	A purple colo红色 f短小er that has regenerative effects when boiled. 恢复 8 体力.  右键点击使用.
+ITEM_20150317_001813	A purple colo红色 Flower that has regenerative effects when boiled. 恢复 8 体力.  右键点击使用.
 ITEM_20150317_001814	Uosis
 ITEM_20150317_001815	A herb that grows in sunny fields.
 ITEM_20150317_001816	Amalas
@@ -1833,7 +1833,7 @@ ITEM_20150317_001832	Nukella
 ITEM_20150317_001833	Acorn
 ITEM_20150317_001834	Truffle
 ITEM_20150317_001835	恢复 350~400 SP. A well-known delicacy among food connoisseurs. 右键点击使用.
-ITEM_20150317_001836	F短小er Bun
+ITEM_20150317_001836	Flower Bun
 ITEM_20150317_001837	Pine Mushroom
 ITEM_20150317_001838	Bezoar
 ITEM_20150317_001839	You can obtain this from the Mission Glassmole and Mission Wood Spirit from a Lv50 Mission.
@@ -1917,12 +1917,12 @@ ITEM_20150317_001916	Basic Large Recovery 药剂
 ITEM_20150317_001917	Basic 移动 提升药剂 
 ITEM_20150317_001918	STR 提升药剂
 ITEM_20150317_001919	Permanently 提升 Strength by 1. 右键点击使用.
-ITEM_20150317_001920	DEX 提升药剂
-ITEM_20150317_001921	Permanently 提升 Dexterity by 1. 右键点击使用.
+ITEM_20150317_001920	灵巧 提升药剂
+ITEM_20150317_001921	Permanently 提升 灵巧terity by 1. 右键点击使用.
 ITEM_20150317_001922	HP 提升药剂
-ITEM_20150317_001923	Permanently 提升 Health by 1. 右键点击使用.
+ITEM_20150317_001923	Permanently 提升 生命 by 1. 右键点击使用.
 ITEM_20150317_001924	INT 提升药剂
-ITEM_20150317_001925	Permanently 提升 Intelligence by 1. 右键点击使用.
+ITEM_20150317_001925	Permanently 提升 智力ligence by 1. 右键点击使用.
 ITEM_20150317_001926	SPR 提升药剂
 ITEM_20150317_001927	Permanently 提升 Spirit by 1. 右键点击使用.
 ITEM_20150317_001928	Ability 提升药剂
@@ -1942,9 +1942,9 @@ ITEM_20150317_001941	攻击 强度 +5
 ITEM_20150317_001942	增加s +5 伤害 to a 武器. Can be 增加ed and used from the quickslot.
 ITEM_20150317_001943	攻击 强度 +14
 ITEM_20150317_001944	增加s +14 伤害 to a 武器. Can be 增加ed and used from the quickslot.
-ITEM_20150317_001945	Defense 强度 +4
+ITEM_20150317_001945	防御 强度 +4
 ITEM_20150317_001946	红色uces 伤害 taken by 4. Can be 增加ed and used from the quickslot.
-ITEM_20150317_001947	Defense 强度 +8
+ITEM_20150317_001947	防御 强度 +8
 ITEM_20150317_001948	红色uces 伤害 taken by 8. Can be 增加ed and used from the quickslot.
 ITEM_20150317_001949	Condensed HP 药剂
 ITEM_20150317_001950	Condensed HP 药剂
@@ -1954,8 +1954,8 @@ ITEM_20150317_001953	魔物 Specimen Set
 ITEM_20150317_001954	An 老旧的 relic found in a well. 右键点击使用.
 ITEM_20150317_001955	Ore Collection
 ITEM_20150317_001956	A collection where you can register your items. You can register an item by right-clicking it.
-ITEM_20150317_001957	F短小er Collection
-ITEM_20150317_001958	Bone Collection
+ITEM_20150317_001957	Flower Collection
+ITEM_20150317_001958	骨质 Collection
 ITEM_20150317_001959	水晶 Collection
 ITEM_20150317_001960	Royal 古墓 Collection
 ITEM_20150317_001961	Cockatrice Collection
@@ -1979,7 +1979,7 @@ ITEM_20150317_001978	Glass Mole 卡片
 ITEM_20150317_001979	Ginklas 卡片
 ITEM_20150317_001980	Netherbovine 卡片
 ITEM_20150317_001981	Necrovanter 卡片
-ITEM_20150317_001982	Deadbone 卡片
+ITEM_20150317_001982	Dead骨质 卡片
 ITEM_20150317_001983	黛妃lglove 卡片
 ITEM_20150317_001984	Denoptic 卡片
 ITEM_20150317_001985	Ravinepede 卡片
@@ -2089,7 +2089,7 @@ ITEM_20150317_002088	A quest item obtained from 魔物s.
 ITEM_20150317_002089	A dark 魔力 stone obtainable only from 乌波s that have been exposed to 水晶s for a 久远 period of time.
 ITEM_20150317_002090	Hanaming Petal 
 ITEM_20150317_002091	Ing红色ient of a consumable item. {nl} Tradeable with NPCs.
-ITEM_20150317_002092	A sweet-smelling f短小er 树叶. Obtained from Hanamings.
+ITEM_20150317_002092	A sweet-smelling Flower 树叶. Obtained from Hanamings.
 ITEM_20150317_002093	LV2 Treasure Chest Key
 ITEM_20150317_002094	Key
 ITEM_20150317_002095	A key to open a LV2 Treasure Chest.
@@ -2121,7 +2121,7 @@ ITEM_20150317_002120	The 水晶 formation found inside the plant comes from the 
 ITEM_20150317_002121	Large 魔物 树叶
 ITEM_20150317_002122	Material obtained from 魔物s. Used for crafting.
 ITEM_20150317_002123	Proof of 乌波
-ITEM_20150317_002124	A charm carried by 乌波s. It的 very 粗糙的ly made. Obtained from 乌波s.
+ITEM_20150317_002124	A 妩媚 carried by 乌波s. It的 very 粗糙的ly made. Obtained from 乌波s.
 ITEM_20150317_002125	Stone Orca Core
 ITEM_20150317_002126	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Stone Orcas.
 ITEM_20150317_002127	水晶 Spider Feelers
@@ -2132,30 +2132,30 @@ ITEM_20150317_002131	歌剧 Horn
 ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. Obtained from 歌剧s.
 ITEM_20150317_002133	Zignuts 花茎
 ITEM_20150317_002134	The 花茎 can be processed into fabric. Not suitable for eating. Obtained from Zignuts.
-ITEM_20150317_002135	Butterfly Wing
+ITEM_20150317_002135	Butterfly 羽翼
 ITEM_20150317_002136	Care is required as it的 very brittle.
 ITEM_20150317_002137	Seed的 Seed
-ITEM_20150317_002138	Firent F短小er
-ITEM_20150317_002139	A 红色 f短小er that only blooms on Firent. It has noticeably large petals. Obtained from Firent.
+ITEM_20150317_002138	Firent Flower
+ITEM_20150317_002139	A 红色 Flower that only blooms on Firent. It has noticeably large petals. Obtained from Firent.
 ITEM_20150317_002140	Egnome Core
 ITEM_20150317_002141	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Egnomes.
 ITEM_20150317_002142	Yognome Core
 ITEM_20150317_002143	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Yognomes.
 ITEM_20150317_002144	Violet 树叶
-ITEM_20150317_002145	Rafflet F短小er
+ITEM_20150317_002145	Rafflet Flower
 ITEM_20150317_002146	Tanu 花茎
 ITEM_20150317_002147	Thick, 荆棘y 花茎. Not suitable for eating. Obtained from Tanus.
 ITEM_20150317_002148	Beetow Feeler
-ITEM_20150317_002149	Green 魔物 feeler. Its 皮革like toughness makes it useful as st环型. Obtained from Beetows.
+ITEM_20150317_002149	Green 魔物 feeler. Its 皮革like toughness makes it useful as 串串. Obtained from Beetows.
 ITEM_20150317_002150	Maize Spore Pocket
 ITEM_20150317_002151	Ultanun 羽毛
 ITEM_20150317_002152	羽毛 of a common bird. Obtained from Ultanuns.
 ITEM_20150317_002153	Karkash Mushroom
 ITEM_20150317_002154	Mushroom that only grows on Karkash. Unpopular due to its nasty taste. Obtained from Karkashs.
-ITEM_20150317_002155	Elravine Bone
+ITEM_20150317_002155	Elravine 骨质
 ITEM_20150317_002156	Woopent Bark
 ITEM_20150317_002157	久远 木质的 bark. It has many uses. Obtained from Woopents.
-ITEM_20150317_002158	Mantiwood Wing
+ITEM_20150317_002158	Mantiwood 羽翼
 ITEM_20150317_002159	Unlike other 昆虫 翅膀, it is smooth and flexible. Obtained from Mantiwoods.
 ITEM_20150317_002160	荆棘ball 荆棘
 ITEM_20150317_002161	It is light and fragile due to its empty core. Obtained from 荆棘balls.
@@ -2167,10 +2167,10 @@ ITEM_20150317_002166	Trifelli 水晶
 ITEM_20150317_002167	This 水晶 formation found inside the plant comes from the solidification of its sap. Obtained from Trifellis.
 ITEM_20150317_002168	Mesium 花茎
 ITEM_20150317_002169	People sometimes boil this 花茎 to make a drink that curbs hunger. Obtained from Mesiums.
-ITEM_20150317_002170	Merog Heart
+ITEM_20150317_002170	Merog 心脏
 ITEM_20150317_002171	Not used as a food, but often used for 魔力 研究. Obtained from Merogs.
-ITEM_20150317_002172	Chafperor Wing
-ITEM_20150317_002173	A transparent wing. Obtained from Chafperors.
+ITEM_20150317_002172	Chafperor 羽翼
+ITEM_20150317_002173	A transparent 羽翼. Obtained from Chafperors.
 ITEM_20150317_002174	Catacomb 树叶bug 外壳
 ITEM_20150317_002175	Thin back 外壳. A faint pattern is visible. Obtained from Catacomb 树叶bugs.
 ITEM_20150317_002176	Candle
@@ -2224,14 +2224,14 @@ ITEM_20150317_002223	Cemetery Golem Core
 ITEM_20150317_002224	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Cemetary Golems.
 ITEM_20150317_002225	Hal短小venter Spirit Matter
 ITEM_20150317_002226	A physical manifestation of a 力量 spirit. You might become possessed if you handle it without a safety 黛妃ce. Obtained from Hal短小venters.
-ITEM_20150317_002227	Big Cockatrice Heart
-ITEM_20150317_002228	The heart of a beast. Similar physiological layout to the human heart. Obtained from Big Cockatrices.
+ITEM_20150317_002227	Big Cockatrice 心脏
+ITEM_20150317_002228	The 心脏 of a beast. Similar physiological layout to the human 心脏. Obtained from Big Cockatrices.
 ITEM_20150317_002229	Drake Meat
 ITEM_20150317_002230	Must be cooked for a very 久远 time due to its resistance to fire. Because of this s短小cooking, however, it is extremely delicious. Obtained from Drakes.
 ITEM_20150317_002231	Phyracon 树叶
 ITEM_20150317_002232	红色 colo红色 树叶. Obtained from Phyracon.
-ITEM_20150317_002233	Shaman Doll Core
-ITEM_20150317_002234	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Shaman Dolls.
+ITEM_20150317_002233	Shaman 娃娃 Core
+ITEM_20150317_002234	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Shaman 娃娃s.
 ITEM_20150317_002235	Slime Piece
 ITEM_20150317_002236	Due to its soft, spongy texture, it has no use except for 魔力 研究. Obtained from Slimes.
 ITEM_20150317_002237	Arma 荆棘
@@ -2242,11 +2242,11 @@ ITEM_20150317_002241	Flask Piece
 ITEM_20150317_002242	Always be careful of broken glass shards. Obtained from Flasks.
 ITEM_20150317_002243	红色 Hook
 ITEM_20150317_002244	If you don't need a hook, you can melt this to make something else. Obtained from 红色 Nudock Hooks.
-ITEM_20150317_002245	Black Shaman Doll Core
+ITEM_20150317_002245	Black Shaman 娃娃 Core
 ITEM_20150317_002246	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelesly. Obtained from Tama.
 ITEM_20150317_002247	Dimmer Marble
-ITEM_20150317_002248	The fiery color makes this very popular as a decoration. Obtained from Dimmers.
-ITEM_20150317_002249	Black Drake Heart
+ITEM_20150317_002248	The fiery color makes this very popular as a 饰品. Obtained from Dimmers.
+ITEM_20150317_002249	Black Drake 心脏
 ITEM_20150317_002250	Still beating, as if trying to prove its resilience. Obtained from Black Drakes.
 ITEM_20150317_002251	Rocktor 外皮
 ITEM_20150317_002252	Usually used as a material for 盔甲. Obtained from Rocktors.
@@ -2260,10 +2260,10 @@ ITEM_20150317_002259	Lizardman 牙齿
 ITEM_20150317_002260	If you can handle the 野蛮人 Lizardmen, this 牙齿 can be a worthy trophy. Obtained from Lizardmen.
 ITEM_20150317_002261	Hook
 ITEM_20150317_002262	If you don't need a hook, you can melt this to make something else. Obtained from Nudock Hooks.
-ITEM_20150317_002263	Winged Frog Core
-ITEM_20150317_002264	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from Winged Frogs.
-ITEM_20150317_002265	Cockatrice Bone
-ITEM_20150317_002266	This is not a leftover chicken bone. Obtained from Cockatrices.
+ITEM_20150317_002263	羽翼ed Frog Core
+ITEM_20150317_002264	A mutant variation of the Nucl, the power source of mutant 魔物s. Contains highly condensed 魔力 that might explode if handled carelessly. Obtained from 羽翼ed Frogs.
+ITEM_20150317_002265	Cockatrice 骨质
+ITEM_20150317_002266	This is not a leftover chicken 骨质. Obtained from Cockatrices.
 ITEM_20150317_002267	Drake Horn
 ITEM_20150317_002268	The hardness of this horn makes it suitable to be used as a 武器. Obtained from Drakes.
 ITEM_20150317_002269	Groll Horn
@@ -2280,8 +2280,8 @@ ITEM_20150317_002279	乌波 镐axe
 ITEM_20150317_002280	A 镐axe used in 矿石s. Can be used as a 武器 when needed. Obtained from 乌波 矿工s.
 ITEM_20150317_002281	乌波 Hood
 ITEM_20150317_002282	According to a theory, 乌波s wear these to look fancy. Obtained from 乌波 魔导s and 乌波 Shamans.
-ITEM_20150317_002283	Dandel Wing
-ITEM_20150317_002284	Looks similar to a bat wing, but is actually a plant 花茎. Obtained from Dandels.
+ITEM_20150317_002283	Dandel 羽翼
+ITEM_20150317_002284	Looks similar to a bat 羽翼, but is actually a plant 花茎. Obtained from Dandels.
 ITEM_20150317_002285	歌剧 Eyebrow
 ITEM_20150317_002286	歌剧 矛 Shaft
 ITEM_20150317_002287	矛 used by the 歌剧. Obtained from 歌剧 矛men.
@@ -2299,7 +2299,7 @@ ITEM_20150317_002298	Sul柔毛
 ITEM_20150317_002299	A 矿工al that burns blue.
 ITEM_20150317_002300	Cinnabar
 ITEM_20150317_002301	A 红色 ore, the principal ing红色ient of Mercury.
-ITEM_20150317_002302	Bat Wing
+ITEM_20150317_002302	Bat 羽翼
 ITEM_20150317_002303	A very frequently used ing红色ient for Alchemy.
 ITEM_20150317_002304	Glass 碎片
 ITEM_20150317_002305	A broken glass 碎片 of no use. Obtained from Flasks.
@@ -2313,8 +2313,8 @@ ITEM_20150317_002312	Processed lumber used as a material for crafting.
 ITEM_20150317_002313	Ash Lumber
 ITEM_20150317_002314	Pine Lumber
 ITEM_20150317_002315	Cedar Lumber
-ITEM_20150317_002316	Caulif短小er 花茎
-ITEM_20150317_002317	Very difficult to process due to abundance of 荆棘s on the 花茎. Obtained from Caulif短小ers.
+ITEM_20150317_002316	CauliFlower 花茎
+ITEM_20150317_002317	Very difficult to process due to abundance of 荆棘s on the 花茎. Obtained from CauliFlowers.
 ITEM_20150317_002318	Alte红色 Sauga Core
 ITEM_20150317_002319	Core that has been modified for greater output. Obtained from Sau气体.
 ITEM_20150317_002320	Dandel 水晶
@@ -2332,7 +2332,7 @@ ITEM_20150317_002331	An intact Wendigo Fang that can fetch a great price. Obtain
 ITEM_20150317_002332	G老旧的 Bar
 ITEM_20150317_002333	A bar of g老旧的. It is obviously worth a lot.
 ITEM_20150317_002334	Mercury
-ITEM_20150317_002335	A strange 宝石stone sometimes found in 魔物s. Attracted by its mysterious color, many collectors seek this 宝石.
+ITEM_20150317_002335	A 古怪的 宝石stone sometimes found in 魔物s. Attracted by its mysterious color, many collectors seek this 宝石.
 ITEM_20150317_002336	口帕 外皮
 ITEM_20150317_002337	Advanced Materials
 ITEM_20150317_002338	口帕 水晶
@@ -2342,13 +2342,13 @@ ITEM_20150317_002341	Shiny 外皮
 ITEM_20150317_002342	Hanaming Aroma
 ITEM_20150317_002343	Hanaming 水晶
 ITEM_20150317_002344	Chinency Root
-ITEM_20150317_002345	Infro Rocktor Bone
+ITEM_20150317_002345	Infro Rocktor 骨质
 ITEM_20150317_002346	It的 not only the 外壳 that的 sturdy, but also the insides. Obtained from Infro Rocktors.
 ITEM_20150317_002347	Talt
-ITEM_20150317_002348	A strange 宝石stone sometimes found in 魔物s. Attracted by its mysterious color, many collectors seek this 宝石.
+ITEM_20150317_002348	A 古怪的 宝石stone sometimes found in 魔物s. Attracted by its mysterious color, many collectors seek this 宝石.
 ITEM_20150317_002349	Chupacabra 外皮
 ITEM_20150317_002350	Chupacabra Eyeball
-ITEM_20150317_002351	Popolion Bone
+ITEM_20150317_002351	Popolion 骨质
 ITEM_20150317_002352	Popolion 树叶
 ITEM_20150317_002353	Weaver 外皮
 ITEM_20150317_002354	Weaver Venom
@@ -2360,11 +2360,11 @@ ITEM_20150317_002359	红色 口帕 花茎
 ITEM_20150317_002360	乌波 矛 Head
 ITEM_20150317_002361	乌波 Blood
 ITEM_20150317_002362	Green in color, this blood is obtained from 乌波s.
-ITEM_20150317_002363	Raf短小er Root
-ITEM_20150317_002364	Raf短小er 水晶
+ITEM_20150317_002363	RaFlower Root
+ITEM_20150317_002364	RaFlower 水晶
 ITEM_20150317_002365	Stone Orca Piece
 ITEM_20150317_002366	Bat 牙齿
-ITEM_20150317_002367	Bats use their teeth to suck blood from their target. Obtained from Bats.
+ITEM_20150317_002367	Bats use their 利齿 to suck blood from their target. Obtained from Bats.
 ITEM_20150317_002368	Sh红色ded Piece of 布甲
 ITEM_20150317_002369	An 老旧的 piece of 布甲. Obtained from Sh红色deds.
 ITEM_20150317_002370	Sh红色ded Spirit Matter
@@ -2380,15 +2380,15 @@ ITEM_20150317_002379	乌波 斗士 Blood
 ITEM_20150317_002380	乌波 blood that is thicker and more viscous than normal. Obtained from 乌波 斗士s.
 ITEM_20150317_002381	Zignuts Fruit
 ITEM_20150317_002382	Zignuts Seed
-ITEM_20150317_002383	歌剧 树叶 Decoration
-ITEM_20150317_002384	Hummingbird Wing
-ITEM_20150317_002385	A wing that has the shape of a f短小er petal. Obtained from Hummingbirds.
+ITEM_20150317_002383	歌剧 树叶 饰品
+ITEM_20150317_002384	Hummingbird 羽翼
+ITEM_20150317_002385	A 羽翼 that has the shape of a Flower petal. Obtained from Hummingbirds.
 ITEM_20150317_002386	Hummingbird Feeler
-ITEM_20150317_002387	Hummingbird Wing Power
-ITEM_20150317_002388	树叶ly Wing
+ITEM_20150317_002387	Hummingbird 羽翼 Power
+ITEM_20150317_002388	树叶ly 羽翼
 ITEM_20150317_002389	Always be careful with the 翅膀 of an 昆虫. Obtained from 树叶lies.
 ITEM_20150317_002390	树叶ly Feeler
-ITEM_20150317_002391	树叶ly Egg
+ITEM_20150317_002391	树叶ly 蛋
 ITEM_20150317_002392	Seedmia Seed
 ITEM_20150317_002393	What is it like to grow a Seedmia? Obtained from Seedmias.
 ITEM_20150317_002394	Seedmia Pollen
@@ -2398,19 +2398,19 @@ ITEM_20150317_002397	It looks similar to a normal tree. Obtained from Firents.
 ITEM_20150317_002398	Broken 歌剧剑
 ITEM_20150317_002399	It might be usable if repai红色. Obtained from 歌剧 斗士s.
 ITEM_20150317_002400	歌剧 Hoof
-ITEM_20150317_002401	歌剧 Shaman 法杖 Decoration
+ITEM_20150317_002401	歌剧 Shaman 法杖 饰品
 ITEM_20150317_002402	Mallardu Meat
 ITEM_20150317_002403	A good source of protein. Obtained from Mallardus.
 ITEM_20150317_002404	Mallardu 羽毛
 ITEM_20150317_002405	Mallardu Beak
-ITEM_20150317_002406	Violet F短小er
+ITEM_20150317_002406	Violet Flower
 ITEM_20150317_002407	Violet 水晶
 ITEM_20150317_002408	Obtained from Yognomes.
 ITEM_20150317_002409	Yognome 碎片
 ITEM_20150317_002410	Obtained from Egnomes.
 ITEM_20150317_002411	Egnome 碎片
 ITEM_20150317_002412	A piece of metal haunted by an evil spirit. Obtained from Egnomes.
-ITEM_20150317_002413	手棒elin Wing
+ITEM_20150317_002413	手棒elin 羽翼
 ITEM_20150317_002414	手棒elin 布甲 Piece
 ITEM_20150317_002415	Fonde Hair
 ITEM_20150317_002416	Fonde 弓
@@ -2420,10 +2420,10 @@ ITEM_20150317_002419	Because the metal is crafted by 魔力, it usually disinteg
 ITEM_20150317_002420	Galok 皮革
 ITEM_20150317_002421	The 皮革of a very 力量 恶魔 that has very high 耐久性. Obtained from Galoks.
 ITEM_20150317_002422	Galok Claw
-ITEM_20150317_002423	Glizardon Bone
+ITEM_20150317_002423	Glizardon 骨质
 ITEM_20150317_002424	You need to face great danger to obtain this. Obtained from Glizardons.
-ITEM_20150317_002425	Glizardon Heart
-ITEM_20150317_002426	This heart is blessed with great life force but cursed with a powerful evil aura. Obtained from Glizardons.
+ITEM_20150317_002425	Glizardon 心脏
+ITEM_20150317_002426	This 心脏 is blessed with great life force but cursed with a powerful evil aura. Obtained from Glizardons.
 ITEM_20150317_002427	Glizardon Tail
 ITEM_20150317_002428	Pure 水晶
 ITEM_20150317_002429	A 宝石stone carried by many powerful 魔物s in the 水晶 矿石s. Obtained from Carapaces and Specter Lords.
@@ -2465,16 +2465,16 @@ ITEM_20150317_002464	Penol
 ITEM_20150317_002465	Arah
 ITEM_20150317_002466	Chromabo 树叶
 ITEM_20150317_002467	A flat 树叶. Obtained from Chromabos.
-ITEM_20150317_002468	Gigantic Shinbone
-ITEM_20150317_002469	A very large shinbone. Obtained from 厚格玛 战争riors.
+ITEM_20150317_002468	Gigantic Shin骨质
+ITEM_20150317_002469	A very large shin骨质. Obtained from 厚格玛 战争riors.
 ITEM_20150317_002470	Black Desmodus 牙齿
 ITEM_20150317_002471	Black Big Grivar Bamboo Hat
-ITEM_20150317_002472	Egg
-ITEM_20150317_002473	A chicken egg often used in cooking.
+ITEM_20150317_002472	蛋
+ITEM_20150317_002473	A chicken 蛋 often used in cooking.
 ITEM_20150317_002474	Oxygen Pocket
 ITEM_20150317_002475	Obtained from Codomors.
 ITEM_20150317_002476	Groll 牙齿
-ITEM_20150317_002477	Grolls usually 攻击 with their horns, but sometimes will also use their teeth. Obtained from Grolls.
+ITEM_20150317_002477	Grolls usually 攻击 with their horns, but sometimes will also use their 利齿. Obtained from Grolls.
 ITEM_20150317_002478	Grivar Bamboo Hat
 ITEM_20150317_002479	Obtained from 红色 Grivars.
 ITEM_20150317_002480	Grivaru Bamboo Hat
@@ -2498,7 +2498,7 @@ ITEM_20150317_002497	Lafsave 树叶
 ITEM_20150317_002498	Obtained from Lafsaves.
 ITEM_20150317_002499	Rafflesia Poison Extract
 ITEM_20150317_002500	Obtained from Black Rafflesias.
-ITEM_20150317_002501	Rambear Bone
+ITEM_20150317_002501	Rambear 骨质
 ITEM_20150317_002502	Ravinelarvae Acid Sap
 ITEM_20150317_002503	Obtained from Ravinelarvae.
 ITEM_20150317_002504	Rubblem 碎片
@@ -2509,20 +2509,20 @@ ITEM_20150317_002508	Lemur Tail
 ITEM_20150317_002509	Lemuria Tail
 ITEM_20150317_002510	Lepus Bunny Hair
 ITEM_20150317_002511	Luxodon Ivory
-ITEM_20150317_002512	A very rare material, used often in handicrafts and decorations. Obtained from Luxodons.
-ITEM_20150317_002513	Luxodon Backbone
-ITEM_20150317_002514	A very large bone from the back of a beast. Obtained from Luxodons.
+ITEM_20150317_002512	A very rare material, used often in handicrafts and 饰品s. Obtained from Luxodons.
+ITEM_20150317_002513	Luxodon Back骨质
+ITEM_20150317_002514	A very large 骨质 from the back of a beast. Obtained from Luxodons.
 ITEM_20150317_002515	Rubabos 皮革
 ITEM_20150317_002516	Obtained from Rubaboses.
 ITEM_20150317_002517	Lizardman Claw
 ITEM_20150317_002518	This bent claw is useful for climbing trees. Obtained from Lizardmen.
 ITEM_20150317_002519	Lizardman Fang
 ITEM_20150317_002520	Obtained from Lizardmen.
-ITEM_20150317_002521	树叶nut Wing
+ITEM_20150317_002521	树叶nut 羽翼
 ITEM_20150317_002522	Obtained from 树叶nuts.
 ITEM_20150317_002523	Specter Hood
 ITEM_20150317_002524	Obtained from Specters.
-ITEM_20150317_002525	Medakia Metal Decoration
+ITEM_20150317_002525	Medakia Metal 饰品
 ITEM_20150317_002526	Engraved with an emblem only seen in royal 古墓s. Obtained from Medakias.
 ITEM_20150317_002527	Medakia Horn
 ITEM_20150317_002528	Horn made of stone. Obtained from Medakias.
@@ -2532,7 +2532,7 @@ ITEM_20150317_002531	Meleech Foreleg
 ITEM_20150317_002532	Obtained from Meleeches.
 ITEM_20150317_002533	Moglan Meat
 ITEM_20150317_002534	Obtained from Moglans.
-ITEM_20150317_002535	Moyabu Bone
+ITEM_20150317_002535	Moyabu 骨质
 ITEM_20150317_002536	Obtained from Moyabus.
 ITEM_20150317_002537	Minivern 外皮
 ITEM_20150317_002538	It is 力量 enough to deflect arrows. Obtained from Miniverns.
@@ -2547,7 +2547,7 @@ ITEM_20150317_002546	Unbelievably lightweight. Obtained from Banshees.
 ITEM_20150317_002547	Velwriggler 羽毛
 ITEM_20150317_002548	Violet 树叶
 ITEM_20150317_002549	Obtained from Rafflies.
-ITEM_20150317_002550	红色 乌波 Token
+ITEM_20150317_002550	红色 乌波 象征
 ITEM_20150317_002551	Obtained from 红色 乌波 Raiders.
 ITEM_20150317_002552	Beeteros 树叶
 ITEM_20150317_002553	Obtained from Beeteroses.
@@ -2567,17 +2567,17 @@ ITEM_20150317_002566	Resin
 ITEM_20150317_002567	A viscous, sticky liquid found in trees.
 ITEM_20150317_002568	Schtaim 碎片
 ITEM_20150317_002569	It looks like a plain rock.  Obtained from Schtaims.
-ITEM_20150317_002570	Stoulet Heart
+ITEM_20150317_002570	Stoulet 心脏
 ITEM_20150317_002571	Obtained from Stoulets.
 ITEM_20150317_002572	腐尸 Hand
 ITEM_20150317_002573	It smells extremely foul due to its decay. Obtained from Green Apparitions.
 ITEM_20150317_002574	盔甲y 精金
 ITEM_20150317_002575	A black metal that can only be processed at extremely high temperature. Obtained from 盔甲ies.
-ITEM_20150317_002576	Ammon Backbone
-ITEM_20150317_002577	Each spine bone has a horn. Obtained from Ammons.
+ITEM_20150317_002576	Ammon Back骨质
+ITEM_20150317_002577	Each spine 骨质 has a horn. Obtained from Ammons.
 ITEM_20150317_002578	G短小Spore
 ITEM_20150317_002579	Obtained from 红色 Medewsas.
-ITEM_20150317_002580	Ultanun Bone
+ITEM_20150317_002580	Ultanun 骨质
 ITEM_20150317_002581	The anatomy doesn't seem too different from that of birds. Obtained from Ultanuns.
 ITEM_20150317_002582	Ellogua Petal
 ITEM_20150317_002583	Obtained from Elloguas.
@@ -2586,16 +2586,16 @@ ITEM_20150317_002585	Obtained from Ellomagos.
 ITEM_20150317_002586	Ellom Bell
 ITEM_20150317_002587	Obtained from Elloms.
 ITEM_20150317_002588	Ellom 水晶
-ITEM_20150317_002589	Infro H老旧的er Bone
+ITEM_20150317_002589	Infro H老旧的er 骨质
 ITEM_20150317_002590	Obtained from Infro H老旧的ers.
-ITEM_20150317_002591	Nymph 法杖 Decoration
+ITEM_20150317_002591	Nymph 法杖 饰品
 ITEM_20150317_002592	Obtained from Teraimps.
 ITEM_20150317_002593	Geppetto 树叶
 ITEM_20150317_002594	A small, arrowhead shaped 树叶. Obtained from Geppettos.
 ITEM_20150317_002595	Shackle
 ITEM_20150317_002596	Usually found cuffed to a criminal, but it seems like there are also other uses for it.  Obtained from Dumaros.
-ITEM_20150317_002597	Shaman Doll Cotton
-ITEM_20150317_002598	Cotton with good heat retention properties. Obtained from Shaman Dolls.
+ITEM_20150317_002597	Shaman 娃娃 Cotton
+ITEM_20150317_002598	Cotton with good heat retention properties. Obtained from Shaman 娃娃s.
 ITEM_20150317_002599	Green Ellom Bell
 ITEM_20150317_002600	Obtained from Green Elloms.
 ITEM_20150317_002601	Chupaluka Meat
@@ -2611,39 +2611,39 @@ ITEM_20150317_002610	Cockatrice 皮革
 ITEM_20150317_002611	Suitable for crafting 盔甲 due to its stiffness. Obtained from Cockatrices.
 ITEM_20150317_002612	Cockatrice 羽毛
 ITEM_20150317_002613	A shiny 羽毛. Obtained from Cockatrices.
-ITEM_20150317_002614	Colimen F短小er
+ITEM_20150317_002614	Colimen Flower
 ITEM_20150317_002615	Obtained from Colimens.
 ITEM_20150317_002616	Colitile Feeler
 ITEM_20150317_002617	Obtained from Colitiles.
 ITEM_20150317_002618	Cronewt 皮革
 ITEM_20150317_002619	Obtained from Cronewts.
-ITEM_20150317_002620	Chromadog Bone
-ITEM_20150317_002621	A very solid, dense bone. Obtained from Chromadogs.
-ITEM_20150317_002622	Tanu F短小er
-ITEM_20150317_002623	A white f短小er with fragrant smell. Obtained from Tanus.
+ITEM_20150317_002620	Chromadog 骨质
+ITEM_20150317_002621	A very solid, dense 骨质. Obtained from Chromadogs.
+ITEM_20150317_002622	Tanu Flower
+ITEM_20150317_002623	A white Flower with fragrant smell. Obtained from Tanus.
 ITEM_20150317_002624	Tama 外皮
-ITEM_20150317_002625	Unlike other eggs, it has a very thick 外壳. Obtained from Tamas.
+ITEM_20150317_002625	Unlike other 蛋s, it has a very thick 外壳. Obtained from Tamas.
 ITEM_20150317_002626	Tontulia 荆棘
 ITEM_20150317_002627	A 荆棘 that widely varies in its size. Obtained from Tontulia.
 ITEM_20150317_002628	Tuken 外皮
 ITEM_20150317_002629	Due to its shininess and stiffness, people often mistake it for metal.
-ITEM_20150317_002630	Tiken Bone
-ITEM_20150317_002631	Surprisingly, this bone is very elastic. Obtained from Tikens.
+ITEM_20150317_002630	Tiken 骨质
+ITEM_20150317_002631	Surprisingly, this 骨质 is very elastic. Obtained from Tikens.
 ITEM_20150317_002632	Pipe
 ITEM_20150317_002633	Obtained from Hounds.
 ITEM_20150317_002634	Pokuborn 皮革
-ITEM_20150317_002635	Pokuborn Backbone
-ITEM_20150317_002636	Blue 乌波 斗士 Token
+ITEM_20150317_002635	Pokuborn Back骨质
+ITEM_20150317_002636	Blue 乌波 斗士 象征
 ITEM_20150317_002637	Flibo 花茎
 ITEM_20150317_002638	Obtained from Flibos.
 ITEM_20150317_002639	Pino 花茎
 ITEM_20150317_002640	Not recommended for consumption. Obtained from Pinos.
 ITEM_20150317_002641	Hamming 树叶
 ITEM_20150317_002642	High 乌波 Cross Stick
-ITEM_20150317_002643	High 乌波 Token
+ITEM_20150317_002643	High 乌波 象征
 ITEM_20150317_002644	Obtained from High 乌波s.
-ITEM_20150317_002645	Hal短小venter Hand Bone
-ITEM_20150317_002646	More like a 武器 than a hand bone. Obtained from Hal短小venters.
+ITEM_20150317_002645	Hal短小venter Hand 骨质
+ITEM_20150317_002646	More like a 武器 than a hand 骨质. Obtained from Hal短小venters.
 ITEM_20150317_002647	厚格玛 战斗 Boss Fang
 ITEM_20150317_002648	A lot bigger than other 厚格玛的 fangs. Obtained from 厚格玛 Captains.
 ITEM_20150317_002649	Gray Yukopus 树叶
@@ -2655,7 +2655,7 @@ ITEM_20150317_002654	Black Market 封印
 ITEM_20150317_002655	White Mucus
 ITEM_20150317_002656	Florr
 ITEM_20150317_002657	Used for crafting items.
-ITEM_20150317_002658	Coarse Bone Powder
+ITEM_20150317_002658	Coarse 骨质 Powder
 ITEM_20150317_002659	Tendon
 ITEM_20150317_002660	Hardening Agent
 ITEM_20150317_002661	Tough Tendon
@@ -2667,19 +2667,19 @@ ITEM_20150317_002666	Chafer Material
 ITEM_20150317_002667	Lush Jewel
 ITEM_20150317_002668	Might fetch a good price from merchants.
 ITEM_20150317_002669	Spell Enginee环型 Engine
-ITEM_20150317_002670	Tormented Soul
+ITEM_20150317_002670	Tormented 灵魂
 ITEM_20150317_002671	Obtained from 亡者.
 ITEM_20150317_002672	Biteregina的 荆棘
 ITEM_20150317_002673	Obtained from Biteregina.
 ITEM_20150317_002674	Cerberus' Canine
 ITEM_20150317_002675	Obtained from Cerberus.
-ITEM_20150317_002676	恰帕瑞森的 Soul Matter
+ITEM_20150317_002676	恰帕瑞森的 灵魂 Matter
 ITEM_20150317_002677	Obtained from 恰帕瑞森.
 ITEM_20150317_002678	Siela
 ITEM_20150317_002679	Obtained from Level 80 missions.
 ITEM_20150317_002680	Vejo 长靴 皮革
 ITEM_20150317_002681	
-ITEM_20150317_002682	Vejo 长靴 St环型
+ITEM_20150317_002682	Vejo 长靴 串串
 ITEM_20150317_002683	
 ITEM_20150317_002684	Saphie 锁链
 ITEM_20150317_002685	A material required for crafting the Saphie 项链. Obtained from Poata at the Gate Route.
@@ -2705,7 +2705,7 @@ ITEM_20150317_002704	Aging Relic
 ITEM_20150317_002705	An 老旧的 relic found in a well. 右键点击使用.
 ITEM_20150317_002706	Charcoal Stone
 ITEM_20150317_002707	Ore
-ITEM_20150317_002708	Unicorn Bone
+ITEM_20150317_002708	Unicorn 骨质
 ITEM_20150317_002709	
 ITEM_20150317_002710	Reaverpede 皮革
 ITEM_20150317_002711	
@@ -2717,10 +2717,10 @@ ITEM_20150317_002716	Parchment
 ITEM_20150317_002717	Luxurious parchment. You can write anything on it. Purchasable from the Pardoner 大师.
 ITEM_20150317_002718	Synthetic Stone
 ITEM_20150317_002719	A material used for item synthesis.
-ITEM_20150317_002720	St环型 Amulet
+ITEM_20150317_002720	串串 Amulet
 ITEM_20150317_002721	魔力 Amulet
 ITEM_20150317_002722	Skull Amulet
-ITEM_20150317_002723	Bone Amulet
+ITEM_20150317_002723	骨质 Amulet
 ITEM_20150317_002724	Crave Amulet
 ITEM_20150317_002725	Emoticon: 口帕 (Joy)
 ITEM_20150317_002726	增加 this emoticon to the list.
@@ -2775,7 +2775,7 @@ ITEM_20150317_002774	Ore made by iusing the properties of metal into a Cryostone
 ITEM_20150317_002775	Diamond
 ITEM_20150317_002776	A colorless, transparent 宝石stone. Harder than metals and very rare even amongst 宝石stones.
 ITEM_20150317_002777	Sapphire
-ITEM_20150317_002778	Beautiful blue 宝石stone. Its price 提升 relative to the shade of blue of the stone.
+ITEM_20150317_002778	Beautiful blue 宝石stone. Its price 提升 relative to the 暗影 of blue of the stone.
 ITEM_20150317_002779	图书 Name
 ITEM_20150317_002780	Right-click to read
 ITEM_20150317_002781	Lydia Schaffen and the Fletcher
@@ -2810,8 +2810,8 @@ ITEM_20150317_002809	A stone that will transport you to Klaipeda. 右键点击�
 ITEM_20150317_002810	水晶 矿石 Un封印ing Scroll 1
 ITEM_20150317_002811	Quest Item
 ITEM_20150317_002812	水晶 矿石 Un封印ing Scroll 2
-ITEM_20150317_002813	Bokor Doll
-ITEM_20150317_002814	魔力 catalyst used by the Bokors. Bokors craft their own Bokor doll for a better spi仪式 魔力 effect.
+ITEM_20150317_002813	Bokor 娃娃
+ITEM_20150317_002814	魔力 catalyst used by the Bokors. Bokors craft their own Bokor 娃娃 for a better spi仪式 魔力 effect.
 ITEM_20150317_002815	Pyromancer的 老旧的 Scroll
 ITEM_20150317_002816	An 老旧的 scroll hidden by the Pyromancer. Illegible hieroglyphs and symbols are written over it.
 ITEM_20150317_002817	Messenger Bag
@@ -2835,11 +2835,11 @@ ITEM_20150317_002834	Booty gathe红色 by 乌波s. As for the sorting??
 ITEM_20150317_002835	Supplies Looted by 乌波s
 ITEM_20150317_002836	Supplies looted and gathe红色 by 乌波s. You can see that some of them have been used.
 ITEM_20150317_002837	乌波 弓
-ITEM_20150317_002838	羽毛 decorations adorn the 乌波s' arrows. Useful for 魔物 研究.
+ITEM_20150317_002838	羽毛 饰品s adorn the 乌波s' arrows. Useful for 魔物 研究.
 ITEM_20150317_002839	Moody的 Supplementary Report 
 ITEM_20150317_002840	Report written by Moody. It details the 攻击s from 魔物s.
-ITEM_20150317_002841	Diligent 猫头鹰 Statue的 wing 碎片. It is blessed with holy power.
-ITEM_20150317_002842	Wing 碎片 the Fearful 猫头鹰 Statue的 friend. It has become an ordinary piece of wood.
+ITEM_20150317_002841	Diligent 猫头鹰 Statue的 羽翼 碎片. It is blessed with holy power.
+ITEM_20150317_002842	羽翼 碎片 the Fearful 猫头鹰 Statue的 friend. It has become an ordinary piece of wood.
 ITEM_20150317_002843	水晶 Sphere
 ITEM_20150317_002844	Unpolished 宝石 ore. The 宝石 within the stone is also dull as it hasn't been polished yet.
 ITEM_20150317_002845	乌波 Serum
@@ -2854,7 +2854,7 @@ ITEM_20150317_002853	Key to King 古墓 33
 ITEM_20150317_002854	Part of the Slab (1)
 ITEM_20150317_002855	Part of the Slab (2)
 ITEM_20150317_002856	Stonemason Pipoti的 Treasure Map
-ITEM_20150317_002857	A map showing the location of something. Treasure, maybe?
+ITEM_20150317_002857	A map sho羽翼 the location of something. Treasure, maybe?
 ITEM_20150317_002858	Varkis' Exploration Journal
 ITEM_20150317_002859	Varkis dedicated his life to writing this journal. It is very important to him.
 ITEM_20150317_002860	Create a Memorial Rock
@@ -2921,7 +2921,7 @@ ITEM_20150317_002920	Minotaur的 Essence
 ITEM_20150317_002921	A 恶魔ic essence requested by the Psychokino 大师. It emanates a sinister evil aura.
 ITEM_20150317_002922	恰帕瑞森的 Essence
 ITEM_20150317_002923	A 恶魔ic essence requested by the Psychokino 大师. If you 星星e at it for too 久远 you might be possessed.
-ITEM_20150317_002924	Strange Map
+ITEM_20150317_002924	古怪的 Map
 ITEM_20150317_002925	This might be a map marked with the location of the Fletcher的 Secret Manual. Why would the Quarrel 射手 大师 want the Fletcher的...?
 ITEM_20150317_002926	布甲 Piece with a Peculiar Scent
 ITEM_20150317_002927	A piece of 布甲 suspected to be from Evoniphon.
@@ -2971,8 +2971,8 @@ ITEM_20150317_002970	A water bottle hidden by the Supply Officer.{nl}It smells �
 ITEM_20150317_002971	口帕 Raider Juice
 ITEM_20150317_002972	An indispensable material for captu环型 Gaigalas. It smells musty.
 ITEM_20150317_002973	An indispensable material for captu环型 Gaigalas. It的 full of moss.
-ITEM_20150317_002974	Statue Wing 碎片
-ITEM_20150317_002975	Statue Wing Piece
+ITEM_20150317_002974	Statue 羽翼 碎片
+ITEM_20150317_002975	Statue 羽翼 Piece
 ITEM_20150317_002976	Statue Pedestal
 ITEM_20150317_002977	Statue Leg 碎片
 ITEM_20150317_002978	Statue Leg Piece
@@ -2999,7 +2999,7 @@ ITEM_20150317_002998	Woodman 碎片
 ITEM_20150317_002999	A 碎片 of Woodman that sometimes wiggles creepily.
 ITEM_20150317_003000	Scatt的 Report
 ITEM_20150317_003001	A report on suspicious activities written by Scatt, member of the joint investigation team.
-ITEM_20150317_003002	Scroll of Soul Collection
+ITEM_20150317_003002	Scroll of 灵魂 Collection
 ITEM_20150317_003003	A scroll that al短小s you to collect spirits. Only usable on certain 魔物s.
 ITEM_20150317_003004	Spirit of the 红色 乌波 射手
 ITEM_20150317_003005	An orb that has a 红色 乌波 射手的 spirit 封印ed within.
@@ -3013,7 +3013,7 @@ ITEM_20150317_003012	A special oil to burn the 猫头鹰 statue which has unfort
 ITEM_20150317_003013	Wheat Box
 ITEM_20150317_003014	A wheat box containing a small number of grains. The box has been ripped apart.
 ITEM_20150317_003015	Dumbleball Pouch
-ITEM_20150317_003016	A pouch full of strange 药丸. These  fills 乌波s with courage but cause diarrhea in humans.
+ITEM_20150317_003016	A pouch full of 古怪的 药丸. These  fills 乌波s with courage but cause diarrhea in humans.
 ITEM_20150317_003017	星星 Tower Lens
 ITEM_20150317_003018	A telescope lens used at the 星星 Tower.
 ITEM_20150317_003019	Bat Poison Sample
@@ -3054,12 +3054,12 @@ ITEM_20150317_003053	Ing红色ient for a tool that chases away road-防御ing Se
 ITEM_20150317_003054	Spirit 水晶s from 猫头鹰 statues that have been swal短小ed by 魔物s.
 ITEM_20150317_003055	Spirit Essence
 ITEM_20150317_003056	战争rior的 Essence. It is very necessary to give Sequoia the very best bit.
-ITEM_20150317_003057	Blue Soul Stone
-ITEM_20150317_003058	The first soul stone. It harbors the 力量 grudge of a corrupt individual.
-ITEM_20150317_003059	红色 Soul Stone
-ITEM_20150317_003060	The second soul stone. It harbors the 力量 grudge of a corrupt individual.
-ITEM_20150317_003061	Evil Soul Stone
-ITEM_20150317_003062	The third soul stone. It harbors the 力量 grudge of a corrupt individual.
+ITEM_20150317_003057	Blue 灵魂 Stone
+ITEM_20150317_003058	The first 灵魂 stone. It harbors the 力量 grudge of a corrupt individual.
+ITEM_20150317_003059	红色 灵魂 Stone
+ITEM_20150317_003060	The second 灵魂 stone. It harbors the 力量 grudge of a corrupt individual.
+ITEM_20150317_003061	Evil 灵魂 Stone
+ITEM_20150317_003062	The third 灵魂 stone. It harbors the 力量 grudge of a corrupt individual.
 ITEM_20150317_003063	A sign of the Spirit-Leading 猫头鹰
 ITEM_20150317_003064	A sign that the Angry 猫头鹰 Statue had.
 ITEM_20150317_003065	Spi仪式 Stick
@@ -3075,9 +3075,9 @@ ITEM_20150317_003074	Burned Branch
 ITEM_20150317_003075	The branch that was burned when the Sequoia made a disturbance.
 ITEM_20150317_003076	Cursed Stick
 ITEM_20150317_003077	This stick was made by upgrading a Spi仪式 Stick. It h老旧的s the grudges of the 猫头鹰 statues.
-ITEM_20150317_003078	Keepsake from dead s老旧的iers killed by 魔物s. It seems that the keepsake can comfort the s老旧的iers' victimized souls.
+ITEM_20150317_003078	Keepsake from dead s老旧的iers killed by 魔物s. It seems that the keepsake can comfort the s老旧的iers' victimized 灵魂s.
 ITEM_20150317_003079	Butterfly Scent
-ITEM_20150317_003080	This smell reminds me of my hometown. I miss my home.
+ITEM_20150317_003080	This smell re意志s me of my hometown. I miss my home.
 ITEM_20150317_003081	Abnormally Scented Ridimed 树叶.
 ITEM_20150317_003082	Abnormally smelling juices are oozing from it.
 ITEM_20150317_003083	Purified Urn
@@ -3098,7 +3098,7 @@ ITEM_20150317_003097	Supply Bag
 ITEM_20150317_003098	Portable supplies to be sent first to Danyus' squad. 
 ITEM_20150317_003099	Puragi的 Hook
 ITEM_20150317_003100	A hook that s老旧的ier Roy has to collect. He can return to his troops as soon as he collects it.
-ITEM_20150317_003101	Nagging 猫头鹰的 Soul
+ITEM_20150317_003101	Nagging 猫头鹰的 灵魂
 ITEM_20150317_003102	A bloodstained page from a report.
 ITEM_20150317_003103	The contents are illegible.
 ITEM_20150317_003104	Haming 花茎
@@ -3111,20 +3111,20 @@ ITEM_20150317_003110	Reinforcements Request
 ITEM_20150317_003111	Training Certificates
 ITEM_20150317_003112	A certificate that is a战争ded to s老旧的iers who have safely completed their training.
 ITEM_20150317_003113	Plantain Grass
-ITEM_20150317_003114	The soft parts of Plantain Grass gathe红色 up. It tastes bitter when chewed.
+ITEM_20150317_003114	The soft 部件 of Plantain Grass gathe红色 up. It tastes bitter when chewed.
 ITEM_20150317_003115	Tini Meat
-ITEM_20150317_003116	Meat is definitely the right choice for growing one的 strength.
+ITEM_20150317_003116	Meat is definitely the right choice for gro羽翼 一个人的 strength.
 ITEM_20150317_003117	Empty 药剂 Bottle
 ITEM_20150317_003118	Empty 药剂 bottle stolen by a 乌波. It sparkles as if it has been vigorously cleaned.
 ITEM_20150317_003119	Beetle的 外壳
-ITEM_20150317_003120	Soul Reamins
+ITEM_20150317_003120	灵魂 Reamins
 ITEM_20150317_003121	Sac红色 Force Sculpture
 ITEM_20150317_003122	Gateway Key
 ITEM_20150317_003123	A pouch that a 乌波 has been keeping to spread evil spirits.
 ITEM_20150317_003124	Criby Relic
 ITEM_20150317_003125	A precious relic that Cribys keep them to symbolize their faithfulness.
-ITEM_20150317_003126	Stone Orca Heart 
-ITEM_20150317_003127	An item that proves one的 ability to the剑 大师. It的 the heart of Stone Orca.
+ITEM_20150317_003126	Stone Orca 心脏 
+ITEM_20150317_003127	An item that proves 一个人的 ability to the剑 大师. It的 the 心脏 of Stone Orca.
 ITEM_20150317_003128	Torn Bat 翅膀
 ITEM_20150317_003129	Green Ointment
 ITEM_20150317_003130	A 乌波 ointment that is used to treat their inju红色. It的 not possible to use it as is.
@@ -3140,8 +3140,8 @@ ITEM_20150317_003139	Active Stone
 ITEM_20150317_003140	Overusing the inhibitor can cause it to overheat and break.
 ITEM_20150317_003141	Blazing 魔力 Circle
 ITEM_20150317_003142	A 魔力 Circle that shows the locations of the Royal 古墓的 监护人s.
-ITEM_20150317_003143	Wheelen Token
-ITEM_20150317_003144	A token of Wheelens. Collecting them gives the power to defeat enemies.
+ITEM_20150317_003143	Wheelen 象征
+ITEM_20150317_003144	A 象征 of Wheelens. Collecting them gives the power to defeat enemies.
 ITEM_20150317_003145	Brother的 Diary
 ITEM_20150317_003146	A diary that Coven asked you to find.
 ITEM_20150317_003147	Cockatrice Fat
@@ -3159,7 +3159,7 @@ ITEM_20150317_003158	Grita的 Absorbing 宝石
 ITEM_20150317_003159	A 宝石 that absorbs a 魔物的 life force. It absorbs the life force of 魔物s defeated near it.
 ITEM_20150317_003160	Un封印 Scroll
 ITEM_20150317_003161	A scroll required to solve the 封印 of King Zachariel. It is the first 封印.
-ITEM_20150317_003162	Canyon Bomb F短小er
+ITEM_20150317_003162	Canyon Bomb Flower
 ITEM_20150317_003163	An ing红色ient to make a 水晶 宝石.
 ITEM_20150317_003164	Oil-Stained Fuse
 ITEM_20150317_003165	Flame Source
@@ -3182,8 +3182,8 @@ ITEM_20150317_003181	Bag of Graverobbing Tools
 ITEM_20150317_003182	There are various tools inside, like a dowsing 手棒 to check for underground 古墓s.
 ITEM_20150317_003183	Loot Bag
 ITEM_20150317_003184	The Sau气体 store their loot in bags. They share their loot equally.
-ITEM_20150317_003185	Archaeologist Token
-ITEM_20150317_003186	A very ancient looking token of an Archaeologist.
+ITEM_20150317_003185	Archaeologist 象征
+ITEM_20150317_003186	A very ancient looking 象征 of an Archaeologist.
 ITEM_20150317_003187	Woodfung Poison
 ITEM_20150317_003188	The highly toxic poison of a Woodfung. It releases this poison into the air when frightened.
 ITEM_20150317_003189	Bucket
@@ -3200,8 +3200,8 @@ ITEM_20150317_003199	A sack h老旧的ing a 魔物的 hand
 ITEM_20150317_003200	Lizardman Blood
 ITEM_20150317_003201	Cockatrice Blood
 ITEM_20150317_003202	Lizardman Blood is used in experiments conducted by necromancers. 
-ITEM_20150317_003203	Soul Jar
-ITEM_20150317_003204	A soul jar given by the necromancer Drasyus. It will inhale 魔物s who are on the verge of death.
+ITEM_20150317_003203	灵魂 Jar
+ITEM_20150317_003204	A 灵魂 jar given by the necromancer Drasyus. It will inhale 魔物s who are on the verge of death.
 ITEM_20150317_003205	First Clue of the Great King
 ITEM_20150317_003206	A clue to undo the 封印 at the entrance of Royal 古墓.
 ITEM_20150317_003207	Second Clue of the Great King
@@ -3219,7 +3219,7 @@ ITEM_20150317_003218	Wood 镐ed from the wood pile by Cahill.
 ITEM_20150317_003219	力量 Flying Frog 皮革.
 ITEM_20150317_003220	This is used for various 皮革p手棒ucts. 
 ITEM_20150317_003221	Mose Diesel的 Letter
-ITEM_20150317_003222	A letter containing the heart of Mose Diesel.
+ITEM_20150317_003222	A letter containing the 心脏 of Mose Diesel.
 ITEM_20150317_003223	Mose Diesel的 Crutches 
 ITEM_20150317_003224	Mose Diesel made these crutches for the village youngster Cahill
 ITEM_20150317_003225	Shining Tree Sap
@@ -3257,19 +3257,19 @@ ITEM_20150317_003256	A 魔力 black powder made from coal that makes ink stick c
 ITEM_20150317_003257	Eternal Ember
 ITEM_20150317_003258	A material needed to open the 封印ed manual. Doesn't go out no matter how much you try.
 ITEM_20150317_003259	Piece of the Holy Ark
-ITEM_20150317_003260	The Holy Ark for h老旧的ing souls has been broken. Will collecting its pieces be enough?
+ITEM_20150317_003260	The Holy Ark for h老旧的ing 灵魂s has been broken. Will collecting its pieces be enough?
 ITEM_20150317_003261	Small 魔物 水晶
 ITEM_20150317_003262	A 魔物的 Small 水晶 that the Suspicious Chair asked you to collect. To call it a 水晶 is a stretch, though.
 ITEM_20150317_003263	Voice of 封印ed Stone
-ITEM_20150317_003264	The voice of the soul 封印ed within the 封印ed Stone. You can hear a faint whisper from it.
+ITEM_20150317_003264	The voice of the 灵魂 封印ed within the 封印ed Stone. You can hear a faint whisper from it.
 ITEM_20150317_003265	水晶 of Restriction
-ITEM_20150317_003266	A 水晶 infused with 魔力 to prevent the 封印ed soul from escaping.
+ITEM_20150317_003266	A 水晶 infused with 魔力 to prevent the 封印ed 灵魂 from escaping.
 ITEM_20150317_003267	Variation Mediator
 ITEM_20150317_003268	The Variation Mediator substance that the Variation 大法师 柔毛ry Odd asked you to collect.
 ITEM_20150317_003269	Hardened Black 水晶 
 ITEM_20150317_003270	A 水晶 that has been carelessly burnt.
-ITEM_20150317_003271	Flame Charm
-ITEM_20150317_003272	A burning charm. Because it was in a 魔物的 stomach, it is wet and smells bad.
+ITEM_20150317_003271	Flame 妩媚
+ITEM_20150317_003272	A burning 妩媚. Because it was in a 魔物的 stomach, it is wet and smells bad.
 ITEM_20150317_003273	秘银 Dye for 魔力 Tattoo
 ITEM_20150317_003274	秘银 dye used for Simon Shaw的 tattoo. It is relatively easy to get.
 ITEM_20150317_003275	Cordelier的 Parchment
@@ -3279,7 +3279,7 @@ ITEM_20150317_003278
 ITEM_20150317_003279	Flame 水晶
 ITEM_20150317_003280	Needed to stabilize the Flame 宝石.
 ITEM_20150317_003281	
-ITEM_20150317_003282	Material needed to make a Bokor doll.
+ITEM_20150317_003282	Material needed to make a Bokor 娃娃.
 ITEM_20150317_003283	
 ITEM_20150317_003284	Memo Paper of Believer
 ITEM_20150317_003285	A method for removing 荆棘y vines is written on the paper.
@@ -3303,10 +3303,10 @@ ITEM_20150317_003302	Operer Spit
 ITEM_20150317_003303	An Operor的 saliva that has the power to purify corrupted 魔力 水晶s.
 ITEM_20150317_003304	Refined Spell 水晶
 ITEM_20150317_003305	A completely purified 魔力 水晶. It can remove the 荆棘y vines 防御ing the path.
-ITEM_20150317_003306	Caulif短小er Sap
+ITEM_20150317_003306	CauliFlower Sap
 ITEM_20150317_003307	Highly volatile sap. Essential for burning away wet 荆棘y vines.
 ITEM_20150317_003308	Stimulants
-ITEM_20150317_003309	A medicine effective in resto环型 one的 mind.
+ITEM_20150317_003309	A medicine effective in resto环型 一个人的 意志.
 ITEM_20150317_003310	Power 水晶
 ITEM_20150317_003311	A 水晶 of power gotten from defeating Cholirus. It is used to make a 水晶 of light.
 ITEM_20150317_003312	魔力 Enchantment 水晶 
@@ -3321,8 +3321,8 @@ ITEM_20150317_003320	Gear
 ITEM_20150317_003321	A metal part shaped like a wheel that 魔物s had stolen. It is clearly a part of the cable car.
 ITEM_20150317_003322	精金au Sugar Beets
 ITEM_20150317_003323	Sweet tasting 精金au specialty sugar beets. Young animals love them.
-ITEM_20150317_003324	Cable Car Parts
-ITEM_20150317_003325	Parts acqui红色 from around the broken cable car
+ITEM_20150317_003324	Cable Car 部件
+ITEM_20150317_003325	部件 acqui红色 from around the broken cable car
 ITEM_20150317_003326	荆棘 Pollen Stimulant
 ITEM_20150317_003327	Good medicine for when the atmosphere becomes contaminated and hazy.
 ITEM_20150317_003328	Blue Fragaras Petal
@@ -3335,8 +3335,8 @@ ITEM_20150317_003334	Scripture Verses
 ITEM_20150317_003335	A legendary verse used to defeat Gesti. Seems like it的 not the right time to use this.
 ITEM_20150317_003336	A legendary verse used to defeat Gesti. It needs to be recharged before it can be used.
 ITEM_20150317_003337	A legendary verse used to defeat Gesti. It的 ready to be used.
-ITEM_20150317_003338	Purification Voodoo Doll Summon Scroll
-ITEM_20150317_003339	A catalyst containing a Voodoo Doll. Activates the Voodoo Doll when used.
+ITEM_20150317_003338	Purification Voodoo 娃娃 Summon Scroll
+ITEM_20150317_003339	A catalyst containing a Voodoo 娃娃. Activates the Voodoo 娃娃 when used.
 ITEM_20150317_003340	Igniter
 ITEM_20150317_003341	An igniter found in a beacon mound.
 ITEM_20150317_003342	Counterfeit Goods
@@ -3350,14 +3350,14 @@ ITEM_20150317_003349	When used, you become invisible to 恶魔s for 10 秒. The 
 ITEM_20150317_003350	Lesser Bead of the Divine Spirit
 ITEM_20150317_003351	When used, a Divine Spirit appears and provokes nearby 恶魔s.
 ITEM_20150317_003352	Revelator的 Proof
-ITEM_20150317_003353	An index describing how to obtain the Legendary Key from the West Barrier.
+ITEM_20150317_003353	An in灵巧 describing how to obtain the Legendary Key from the West Barrier.
 ITEM_20150317_003354	Spatial Crest
 ITEM_20150317_003355	A special key for finding revelations and hidden places.
 ITEM_20150317_003356	Merog Spittle
-ITEM_20150317_003357	It creates an awakening effect if it is mixed with 荆棘 F短小er Powder Stimulant.
-ITEM_20150317_003358	Enhanced 荆棘 F短小er Stimulant
-ITEM_20150317_003359	It has a better effect than the 荆棘 F短小er Powder 
-ITEM_20150317_003360	荆棘 F短小er Fluid
+ITEM_20150317_003357	It creates an awakening effect if it is mixed with 荆棘 Flower Powder Stimulant.
+ITEM_20150317_003358	Enhanced 荆棘 Flower Stimulant
+ITEM_20150317_003359	It has a better effect than the 荆棘 Flower Powder 
+ITEM_20150317_003360	荆棘 Flower Fluid
 ITEM_20150317_003361	It has an awakening effect if mixed with a Merog的 spit.
 ITEM_20150317_003362	
 ITEM_20150317_003363	
@@ -3365,9 +3365,9 @@ ITEM_20150317_003364
 ITEM_20150317_003365	
 ITEM_20150317_003366	Dew Recepticle
 ITEM_20150317_003367	A vessel to h老旧的 water enchanted with spi仪式 power.
-ITEM_20150317_003368	Flimsy Charm
+ITEM_20150317_003368	Flimsy 妩媚
 ITEM_20150317_003369	Altar Base Material.
-ITEM_20150317_003370	An enemy that dies with this charm attached to it is supposed to be under our 控制 but.. It seems kind of shabby.
+ITEM_20150317_003370	An enemy that dies with this 妩媚 attached to it is supposed to be under our 控制 but.. It seems kind of shabby.
 ITEM_20150317_003371	Full Spirit Pot
 ITEM_20150317_003372	A pot filled with the 魔力 energy that f短小s through the Royal 古墓s.
 ITEM_20150317_003373	Black Maize Poison 
@@ -3426,7 +3426,7 @@ ITEM_20150317_003425	A jewel suffe环型 from a very powerful curse. It seems to
 ITEM_20150317_003426	Mo花茎 Fire Jar
 ITEM_20150317_003427	Jar of fire obtained from  Mo花茎s. Mo花茎s treasure them.
 ITEM_20150317_003428	
-ITEM_20150317_003429	Blue 渔夫 Bone. 
+ITEM_20150317_003429	Blue 渔夫 骨质. 
 ITEM_20150317_003430	
 ITEM_20150317_003431	Feels terrible
 ITEM_20150317_003432	Harpeia Beak
@@ -3436,7 +3436,7 @@ ITEM_20150317_003435	Used to easily escape from enemies du环型 a crisis. Bang!
 ITEM_20150317_003436	Orb of Provocation
 ITEM_20150317_003437	An orb very useful for taunting enemies 
 ITEM_20150317_003438	Lasso
-ITEM_20150317_003439	A rope with a noose attached to it. Used for throwing and tying up enemies.
+ITEM_20150317_003439	A rope with a noose attached to it. Used for thro羽翼 and tying up enemies.
 ITEM_20150317_003440	Sapper 大师的 Int手棒uction Letter
 ITEM_20150317_003441	Letter of int手棒uction that Sapper 大师 wrote to the Highlander 大师
 ITEM_20150317_003442	Highlander 大师的 Proof
@@ -3458,8 +3458,8 @@ ITEM_20150317_003457	Jewel of 红色 Flames
 ITEM_20150317_003458	宝石 containing an aura of fire. It will be helpful to the Goddess Gabija.
 ITEM_20150317_003459	Languid Herb
 ITEM_20150317_003460	A herb that makes one feel languid
-ITEM_20150317_003461	力量ly Scented Soul F短小er
-ITEM_20150317_003462	A f短小er with a powerful fragrance. There is a rumor that souls inhabit this f短小er.
+ITEM_20150317_003461	力量ly Scented 灵魂 Flower
+ITEM_20150317_003462	A Flower with a powerful fragrance. There is a rumor that 灵魂s inhabit this Flower.
 ITEM_20150317_003463	Useful Bomb 
 ITEM_20150317_003464	Explosives made to prevent 魔物s from advancing into Andail Village.
 ITEM_20150317_003465	Languid Herb Bomb 
@@ -3478,18 +3478,18 @@ ITEM_20150317_003477	Toolbox
 ITEM_20150317_003478	Full of tools used to 修理 the scarecrow.
 ITEM_20150317_003479	Death Marker
 ITEM_20150317_003480	A marker found from 恰帕瑞森. The voices of the killed innocents echo from it.
-ITEM_20150317_003481	A 项链 that a ghost asked you to take to his younger brother. A modest pendant is attached to it.
+ITEM_20150317_003481	A 项链 that a ghost asked you to take to his younger brother. A modest 坠饰 is attached to it.
 ITEM_20150317_003482	A bag full of money. What was the Reaper doing with this?
 ITEM_20150317_003483	Messenger的 Note
 ITEM_20150317_003484	A messenger的 hastily scribbled note. It describes a great threat.
 ITEM_20150317_003485	Ancient Writings 
-ITEM_20150317_003486	There are verses on it to appease the souls of those who died while 研究ing the Royal 古墓s.
+ITEM_20150317_003486	There are verses on it to appease the 灵魂s of those who died while 研究ing the Royal 古墓s.
 ITEM_20150317_003487	巫师的 Torn Page
 ITEM_20150317_003488	A page torn from a 图书. It looks like the author is Shaman Show. 
 ITEM_20150317_003489	Mark of a Pilgrim
 ITEM_20150317_003490	A pilgrim的 mark swal短小ed by a 魔物. The owner is nowhere to be found.
-ITEM_20150317_003491	Cathedral Marble Parts
-ITEM_20150317_003492	Marble Parts found attached to the 魔物s in the Cathedral.
+ITEM_20150317_003491	Cathedral Marble 部件
+ITEM_20150317_003492	Marble 部件 found attached to the 魔物s in the Cathedral.
 ITEM_20150317_003493	Storyteller的 图书
 ITEM_20150317_003494	A 图书 that Koven hid in a box.
 ITEM_20150317_003495	Secret Box Key
@@ -3512,16 +3512,16 @@ ITEM_20150317_003511	Unstable Holy 矛. It cannot be used in its current state.
 ITEM_20150317_003512	Huge Fang
 ITEM_20150317_003513	
 ITEM_20150317_003514	Natural Agate Stone
-ITEM_20150317_003515	Parts needed for a new trap 黛妃sed by the Sapper 大师.
+ITEM_20150317_003515	部件 needed for a new trap 黛妃sed by the Sapper 大师.
 ITEM_20150317_003516	
 ITEM_20150317_003517	
-ITEM_20150317_003518	丽格红酒家族 Decoration
+ITEM_20150317_003518	丽格红酒家族 饰品
 ITEM_20150317_003519	A trinket be久远ing to the 老旧的 丽格红酒家族
 ITEM_20150317_003520	An ing红色ient of a drug required to cure the patient
 ITEM_20150317_003521	Holy Relic
 ITEM_20150317_003522	A holy relic used by Krivises as a symbol of their faith. Lost in the city by someone.
 ITEM_20150317_003523	Stone Whale Essense
-ITEM_20150317_003524	An essense filled with the resentment of many souls.
+ITEM_20150317_003524	An essense filled with the resentment of many 灵魂s.
 ITEM_20150317_003525	Dense Hardwood 
 ITEM_20150317_003526	Material requested by the sculptor Tesla
 ITEM_20150317_003527	
@@ -3530,8 +3530,8 @@ ITEM_20150317_003529	Lost Indulgence Offe环型
 ITEM_20150317_003530	Offe环型 envelope embossed with the Pardoner的 Crest
 ITEM_20150317_003531	Mali Seeds
 ITEM_20150317_003532	Mali seeds obtained from killing Malis.
-ITEM_20150317_003533	Destructive Shaman Doll Summoning Scroll
-ITEM_20150317_003534	A scroll to summon a Destructive Shaman Doll
+ITEM_20150317_003533	Destructive Shaman 娃娃 Summoning Scroll
+ITEM_20150317_003534	A scroll to summon a Destructive Shaman 娃娃
 ITEM_20150317_003535	Destroyed Piece of Barrier
 ITEM_20150317_003536	Part of a broken enchantment used to 保护 Mazas' nest. Can it be 恢复?
 ITEM_20150317_003537	Mallardu Fat
@@ -3542,8 +3542,8 @@ ITEM_20150317_003541	Spi仪式ly Enchanted Sap
 ITEM_20150317_003542	It must be gathe红色 from the Nepenthes while it的 alive for it to have any effect.
 ITEM_20150317_003543	昆虫 Secretion
 ITEM_20150317_003544	Secretion that can be used to attract Biteregina
-ITEM_20150317_003545	老旧的 Talisman
-ITEM_20150317_003546	An enemy killed with this charm attached to them will join your side!
+ITEM_20150317_003545	老旧的 护符
+ITEM_20150317_003546	An enemy killed with this 妩媚 attached to them will join your side!
 ITEM_20150317_003547	First revelation found from the 水晶 矿石
 ITEM_20150317_003548	Eye of Madness
 ITEM_20150317_003549	手棒elin的 eye. It is said to be able to erase an enemy的 senses.
@@ -3562,10 +3562,10 @@ ITEM_20150317_003561	Shabby-Looking 项链
 ITEM_20150317_003562	On the back "To ...oved Rukl..s, Lydia." is visible.
 ITEM_20150317_003563	Small 恶魔的 短裙 Hem
 ITEM_20150317_003564	A 短裙 hem obtained by defeating Pawndel and Pawnd. An ing红色ient needed to make the 恶魔 Transformation Scroll.
-ITEM_20150317_003565	Soul of Pawnd 
-ITEM_20150317_003566	A soul of a 恶魔 collected in order to identify 恶魔 魔物s
-ITEM_20150317_003567	Soul of Pawndel 
-ITEM_20150317_003568	Soul of Corylus 
+ITEM_20150317_003565	灵魂 of Pawnd 
+ITEM_20150317_003566	A 灵魂 of a 恶魔 collected in order to identify 恶魔 魔物s
+ITEM_20150317_003567	灵魂 of Pawndel 
+ITEM_20150317_003568	灵魂 of Corylus 
 ITEM_20150317_003569	Bucket 
 ITEM_20150317_003570	Bucket used to h老旧的 water. Seems like a rope can be tied to it.
 ITEM_20150317_003571	久远 Rope 
@@ -3621,9 +3621,9 @@ ITEM_20150317_003620	Experimental Ing红色ients
 ITEM_20150317_003621	Experimental materials requested by necromancer Drashus. Take it to Drashus.
 ITEM_20150317_003622	Waterweed
 ITEM_20150317_003623	Waterweed that grows in the Clearawl Brook. Drashus uses it when summoning powerful spirits. 
-ITEM_20150317_003624	Lizardman Mind 控制 Stone
+ITEM_20150317_003624	Lizardman 意志 控制 Stone
 ITEM_20150317_003625	If you defeat a Lizardman after using this stone, it will fol短小you.
-ITEM_20150317_003626	Infrobuck Mind 控制 Stone
+ITEM_20150317_003626	Infrobuck 意志 控制 Stone
 ITEM_20150317_003627	If you defeat a Infrobuck after using this stone, it will fol短小you.
 ITEM_20150317_003628	Rubbing Tool
 ITEM_20150317_003629	A tool given to you by Hunter Talas to make rubbings of the Lydia Schaffen Monmuments.
@@ -3644,8 +3644,8 @@ ITEM_20150317_003643	Empty Beehive
 ITEM_20150317_003644	A beehive that has had all its honey sucked out of it, leaving the beeswax.
 ITEM_20150317_003645	Cork Stopper
 ITEM_20150317_003646	A cork stopper that was 封印ing the oil barrel.
-ITEM_20150317_003647	Brewing Tools
-ITEM_20150317_003648	Tools used for brewing
+ITEM_20150317_003647	Bre羽翼 Tools
+ITEM_20150317_003648	Tools used for bre羽翼
 ITEM_20150317_003649	Royal Jelly
 ITEM_20150317_003650	Highly nutritious Royal Jelly!
 ITEM_20150317_003651	魔物的 Claw (Temporary)
@@ -3674,10 +3674,10 @@ ITEM_20150317_003673	Food Scraps
 ITEM_20150317_003674	Unidentifiable food scraps. Can be used as 魔物 bait. When a 魔物 comes into sight, you can throw it by pressing the V key.
 ITEM_20150317_003675	
 ITEM_20150317_003676	
-ITEM_20150317_003677	Soul Reagent
+ITEM_20150317_003677	灵魂 Reagent
 ITEM_20150317_003678	
 ITEM_20150317_003679	
-ITEM_20150317_003680	Altar F短小er Offe环型
+ITEM_20150317_003680	Altar Flower Offe环型
 ITEM_20150317_003681	
 ITEM_20150317_003682	
 ITEM_20150317_003683	Pilgrim的 Lost Scripture Page
@@ -3705,13 +3705,13 @@ ITEM_20150317_003704	A purifier that the Pardoner 大师 sells. It is used when 
 ITEM_20150317_003705	古墓stone Dew
 ITEM_20150317_003706	Dew gathe红色 from a 古墓stone early in the morning. One might have qualms against it, but it can be drunk.
 ITEM_20150317_003707	
-ITEM_20150317_003708	A lantern that lights one的 surroundings.
+ITEM_20150317_003708	A lantern that lights 一个人的 surroundings.
 ITEM_20150317_003709	Medicine
 ITEM_20150317_003710	Medicine created by the pilgrim, Teopilis. He claims it will 战争d off curses.
 ITEM_20150317_003711	
 ITEM_20150317_003712	
 ITEM_20150317_003713	
-ITEM_20150317_003714	A small, portable portrait with someone的 face drawn on it.
+ITEM_20150317_003714	A small, portable portrait with some一个人的 face drawn on it.
 ITEM_20150317_003715	
 ITEM_20150317_003716	A handkerchief given to a son leaving on a pilgrim魔导 from his loving mother.
 ITEM_20150317_003717	Sap
@@ -3735,8 +3735,8 @@ ITEM_20150317_003734	A piece of honeycomb that is sweet to the tongue.
 ITEM_20150317_003735	The 水晶 of a spirit filled with a holy aura.
 ITEM_20150317_003736	Complete Scriptures
 ITEM_20150317_003737	A scripture containing the power of sac红色 texts.
-ITEM_20150317_003738	Scriptures of the Soul
-ITEM_20150317_003739	Scriptures containing a bishop的 soul. It is able to call up the bishop at any time.
+ITEM_20150317_003738	Scriptures of the 灵魂
+ITEM_20150317_003739	Scriptures containing a bishop的 灵魂. It is able to call up the bishop at any time.
 ITEM_20150317_003740	Relic of Mercy
 ITEM_20150317_003741	A teardrop-shaped jewel. required to find Mayburn的 key.
 ITEM_20150317_003742	Relic of Salvation
@@ -3766,7 +3766,7 @@ ITEM_20150317_003765	Tool used to make a rubbing of the petrified 图书 found o
 ITEM_20150317_003766	Time Magnifier
 ITEM_20150317_003767	Tool used to find out the past disaster of Ruklys Street 
 ITEM_20150317_003768	
-ITEM_20150317_003769	Talisman attached by an unknown pilgrim to 封印 the power of the Tree Root 水晶.
+ITEM_20150317_003769	护符 attached by an unknown pilgrim to 封印 the power of the Tree Root 水晶.
 ITEM_20150317_003770	碎片ed Symbol of Austeza
 ITEM_20150317_003771	
 ITEM_20150317_003772	Symbol of Austeza
@@ -3774,9 +3774,9 @@ ITEM_20150317_003773	A symbol containing Goddess Austeza的 power, it has the ab
 ITEM_20150317_003774	Merchant Item Parcel
 ITEM_20150317_003775	
 ITEM_20150317_003776	Bee Honey Jelly
-ITEM_20150317_003777	A sweet-smelling jelly that can bring the Sp环型 F短小er out from hiding.
-ITEM_20150317_003778	Sp环型 F短小er
-ITEM_20150317_003779	Mysterious f短小er that rises from the ground when it smells honey.
+ITEM_20150317_003777	A sweet-smelling jelly that can bring the Sp环型 Flower out from hiding.
+ITEM_20150317_003778	Sp环型 Flower
+ITEM_20150317_003779	Mysterious Flower that rises from the ground when it smells honey.
 ITEM_20150317_003780	Maven的 Second Key
 ITEM_20150317_003781	Maven的 Third Key
 ITEM_20150317_003782	Maven的 Fourth Key
@@ -3821,7 +3821,7 @@ ITEM_20150317_003820	Elixir Ing红色ient
 ITEM_20150317_003821	An ing红色ient requested by Bokor Edita in order to call forth spirits.
 ITEM_20150317_003822	Elixir of Release
 ITEM_20150317_003823	An elixer that, when used on petrified people, summons their spirits.
-ITEM_20150317_003824	Petrification Thawing Liquid 
+ITEM_20150317_003824	Petrification Tha羽翼 Liquid 
 ITEM_20150317_003825	When used on a 魔物 that is being petrified, it thaws them out.
 ITEM_20150317_003826	Petrified Sample
 ITEM_20150317_003827	A petrified sample of a 魔物 in the process of being petrified.
@@ -3833,32 +3833,32 @@ ITEM_20150317_003832	Flame Spirit Jewel
 ITEM_20150317_003833	A jewel that h老旧的s an unstable flame spirit.
 ITEM_20150317_003834	矿石 Compass
 ITEM_20150317_003835	A mysterious compass that teaches you how to 修理 the Purifiers.
-ITEM_20150317_003836	Purifier Cooling Parts
-ITEM_20150317_003837	1st Floor Entrance Purifier Parts
-ITEM_20150317_003838	Purifier Operating Parts
-ITEM_20150317_003839	Purifier Pipe Parts
-ITEM_20150317_003840	1st Floor Center Purifier parts
-ITEM_20150317_003841	Passage Purifier Parts
-ITEM_20150317_003842	1st Floor Passage Purifier Parts
+ITEM_20150317_003836	Purifier Cooling 部件
+ITEM_20150317_003837	1st Floor Entrance Purifier 部件
+ITEM_20150317_003838	Purifier Operating 部件
+ITEM_20150317_003839	Purifier Pipe 部件
+ITEM_20150317_003840	1st Floor Center Purifier 部件
+ITEM_20150317_003841	Passage Purifier 部件
+ITEM_20150317_003842	1st Floor Passage Purifier 部件
 ITEM_20150317_003843	Selection Item
 ITEM_20150317_003844	An item that shows you possible choices.
 ITEM_20150317_003845	矿石 Lubricant
 ITEM_20150317_003846	Lubricant for the machinery in the 矿石
 ITEM_20150317_003847	Torn-out Purifier Pipe
-ITEM_20150317_003848	Parts of the 2nd Floor的 初级ry Purifier that was broken by 魔物s.
-ITEM_20150317_003849	Parts of the 初级ry Purifier  
-ITEM_20150317_003850	Parts of the 2nd Floor的 初级ry Purifier that was broken by the Petrified Whale.
+ITEM_20150317_003848	部件 of the 2nd Floor的 初级ry Purifier that was broken by 魔物s.
+ITEM_20150317_003849	部件 of the 初级ry Purifier  
+ITEM_20150317_003850	部件 of the 2nd Floor的 初级ry Purifier that was broken by the Petrified Whale.
 ITEM_20150317_003851	碎片 of Gaudegi Altar 魔力 Stone 
 ITEM_20150317_003852	
 ITEM_20150317_003853	Honey liqueur that shows the craftsmanship of the brewer.
 ITEM_20150317_003854	Absorption Scroll
 ITEM_20150317_003855	A 魔力 scroll that can absorb weak petrification frost.
-ITEM_20150317_003856	Petrified F短小er
+ITEM_20150317_003856	Petrified Flower
 ITEM_20150317_003857	
 ITEM_20150317_003858	Lesser Ice Wall Scroll
 ITEM_20150317_003859	Casts Ice Wall when used.
 ITEM_20150317_003860	Sparkling Stone
-ITEM_20150317_003861	Inside it might contain a Silk Token!
+ITEM_20150317_003861	Inside it might contain a Silk 象征!
 ITEM_20150317_003862	Stolen Supplies
 ITEM_20150317_003863	Military supplies stolen from the Kingdom Army的 守卫s by Dico Doguldan.
 ITEM_20150317_003864	Petrified Cargo Rubbings
@@ -3893,7 +3893,7 @@ ITEM_20150317_003892	皮革Back 精金
 ITEM_20150317_003893	皮革Chest 保护or
 ITEM_20150317_003894	力量 Roots
 ITEM_20150317_003895	
-ITEM_20150317_003896	口帕 Teeth
+ITEM_20150317_003896	口帕 利齿
 ITEM_20150317_003897	
 ITEM_20150317_003898	Yokopus 皮革
 ITEM_20150317_003899	
@@ -3904,21 +3904,21 @@ ITEM_20150317_003903
 ITEM_20150317_003904	
 ITEM_20150317_003905	Scripture
 ITEM_20150317_003906	The Scripture that anyone calling themselves a Pilgrim of the Cathedral would carry with them.
-ITEM_20150317_003907	Test Soul Reagent
-ITEM_20150317_003908	Reagent for soul testing that Graschius gave you. The key is to secretly spray it without drawing the 魔物的 attention.
+ITEM_20150317_003907	Test 灵魂 Reagent
+ITEM_20150317_003908	Reagent for 灵魂 testing that Graschius gave you. The key is to secretly spray it without dra羽翼 the 魔物的 attention.
 ITEM_20150317_003909	cold 魔物 Fluid
 ITEM_20150317_003910	
 ITEM_20150317_003911	
 ITEM_20150317_003912	
 ITEM_20150317_003913	
-ITEM_20150317_003914	A piece of paper swal短小ed by a 魔物. It looks like someone的 portrait.
+ITEM_20150317_003914	A piece of paper swal短小ed by a 魔物. It looks like some一个人的 portrait.
 ITEM_20150317_003915	
 ITEM_20150317_003916	S老旧的iers' Relics
 ITEM_20150317_003917	The relics of s老旧的iers who died 保护ing the 矿工s' Village.
 ITEM_20150317_003918	矿工s' Village Food
 ITEM_20150317_003919	Food that the 乌波s plunde红色 in the 矿工s' Village. Some of it has been eaten.
 ITEM_20150317_003920	
-ITEM_20150317_003921	盾牌 parts needed to convince the Peltasta to join your side.
+ITEM_20150317_003921	盾牌 部件 needed to convince the Peltasta to join your side.
 ITEM_20150317_003922	
 ITEM_20150317_003923	Scriptural Relic
 ITEM_20150317_003924	Orb of Divine Detection
@@ -3959,8 +3959,8 @@ ITEM_20150323_003958	Material required for the Sapper 大师的 expermients. It 
 ITEM_20150323_003959	厚格玛 Shaman的 Canine
 ITEM_20150323_003960	厚格玛 战争den的 Canine 
 ITEM_20150323_003961	A 水晶 needed to release the 封印 of Ramstis Ridge
-ITEM_20150323_003962	Pondel Soul 水晶
-ITEM_20150323_003963	Pond Mind 水晶
+ITEM_20150323_003962	Pondel 灵魂 水晶
+ITEM_20150323_003963	Pond 意志 水晶
 ITEM_20150323_003964	A map that shows all of Sirdgela 森林. There are marks interspersed across the map.
 ITEM_20150323_003965	厚格玛 Shaman的 Blood
 ITEM_20150323_003966	Material requested by Elementalist 大师 to prove your qualification
@@ -3970,9 +3970,9 @@ ITEM_20150323_003969	Paralysis powder that can stun the Black Maize in the Vieta
 ITEM_20150323_003970	Whistling Wood
 ITEM_20150323_003971	渔夫的 Fishing 手棒
 ITEM_20150323_003972	A fishing 手棒 made from a 渔夫的 prized wood, from which you can hear a whistling sound. Check it out by breaking it open.
-ITEM_20150323_003973	Blue Pondel Bone
+ITEM_20150323_003973	Blue Pondel 骨质
 ITEM_20150323_003974	Black Pond Entrails
-ITEM_20150323_003975	Report recording the strange phenomena in Paupys Port
+ITEM_20150323_003975	Report recording the 古怪的 phenomena in Paupys Port
 ITEM_20150323_003976	Giant canine obtained from the Minotaurus of Roxona Marketplace
 ITEM_20150323_003977	Flammable Stone
 ITEM_20150323_003978	A stone that the Fletcher 大师 requested in exchange for his teaching.
@@ -3991,7 +3991,7 @@ ITEM_20150323_003990
 ITEM_20150323_003991	Holy water gained from the Priest 大师 to purify the polluted sanctuary in the 森林 of Prayer.
 ITEM_20150323_003992	Plaster powder used to 修理 the broken Goddess Statue in the 森林 of Prayer.
 ITEM_20150323_003993	
-ITEM_20150323_003994	Reed f短小er cut from reeds in the 森林 of Prayer.
+ITEM_20150323_003994	Reed Flower cut from reeds in the 森林 of Prayer.
 ITEM_20150323_003995	Reed Sap 水晶
 ITEM_20150323_003996	水晶 that solidified from the sap that the parasitic Treearmb短小sucked out of reeds.
 ITEM_20150323_003997	Small Portrait
@@ -4033,21 +4033,21 @@ ITEM_20150323_004032	恶魔 大师 of Curses, Naktis
 ITEM_20150323_004033	Literature regarding curses and the 恶魔 大师 who 控制s them. It covers Naktis in depth.
 ITEM_20150323_004034	Dorzen的 大师pice
 ITEM_20150323_004035	Material requested by the Peltasta 大师
-ITEM_20150323_004036	A stone f短小er that was exposed to the petrification frost in the petrified town of Verkti Square. It的 supposedly very expensive outside the town.
+ITEM_20150323_004036	A stone Flower that was exposed to the petrification frost in the petrified town of Verkti Square. It的 supposedly very expensive outside the town.
 ITEM_20150323_004037	
 ITEM_20150323_004038	
 ITEM_20150323_004039	
 ITEM_20150323_004040	
 ITEM_20150323_004041	
 ITEM_20150323_004042	Sleeping Houberg的 封印 碎片
-ITEM_20150323_004043	A portion of the torn soul of the 恶魔 大师 Houberg.
-ITEM_20150323_004044	Evening 星星 Key
+ITEM_20150323_004043	A portion of the torn 灵魂 of the 恶魔 大师 Houberg.
+ITEM_20150323_004044	黄昏之星钥匙
 ITEM_20150323_004045	
 ITEM_20150323_004046	Houberg的 灵魂碎片
 ITEM_20150323_004047	A jewel made by Houberg to give a portion of his power to his minions.
-ITEM_20150323_004048	Evening 星星 Spectral Sphere
+ITEM_20150323_004048	黄昏之星 Spectral Sphere
 ITEM_20150323_004049	
-ITEM_20150323_004050	Evening 星星 符文
+ITEM_20150323_004050	黄昏之星 符文
 ITEM_20150323_004051	
 ITEM_20150323_004052	
 ITEM_20150323_004053	
@@ -4057,19 +4057,19 @@ ITEM_20150323_004056
 ITEM_20150323_004057	
 ITEM_20150323_004058	Traces of Transference
 ITEM_20150323_004059	
-ITEM_20150323_004060	Empty Soul
+ITEM_20150323_004060	Empty 灵魂
 ITEM_20150323_004061	
 ITEM_20150323_004062	
 ITEM_20150323_004063	
-ITEM_20150323_004064	星星 Token
+ITEM_20150323_004064	星星的象征
 ITEM_20150323_004065	
 ITEM_20150323_004066	
-ITEM_20150323_004067	恶魔 Teeth
+ITEM_20150323_004067	恶魔的利齿
 ITEM_20150323_004068	
-ITEM_20150323_004069	For矿石 盔甲 parts. The part that 保护s the front of one的 chest.
-ITEM_20150323_004070	For矿石 盔甲 parts. It 保护s one的 shoulders.
-ITEM_20150323_004071	For矿石 盔甲 parts. It is used to pad one的 back.
-ITEM_20150323_004072	For矿石 盔甲 parts. The part that wraps around one的 waist.
+ITEM_20150323_004069	矿工用 盔甲部件. 这个部件保护一个人的胸部正面.
+ITEM_20150323_004070	矿工用 盔甲部件. 它保护一个人的肩膀.
+ITEM_20150323_004071	矿工用 盔甲部件. 它用来保护一个人的后面.
+ITEM_20150323_004072	矿工用 盔甲部件. 这部分环绕一个人的腰部.
 ITEM_20150323_004073	Kindling
 ITEM_20150323_004074	Kindling that was carried by 魔物s. The wood was dried out more than usual and is useful for maintaining a fire.
 ITEM_20150323_004075	A rare, cold body fluid that can be found from 魔物s. Use it to cool the altar.
@@ -4078,8 +4078,8 @@ ITEM_20150323_004077	Picture 碎片
 ITEM_20150323_004078	Empty frame
 ITEM_20150323_004079	Pemidian Out短裙 战争p Scroll
 ITEM_20150323_004080	
-ITEM_20150323_004081	力量 st环型
-ITEM_20150323_004082	A 力量 st环型 obtained from 魔物. It is useful to tie something.
+ITEM_20150323_004081	力量 串串
+ITEM_20150323_004082	A 力量 串串 obtained from 魔物. It is useful to tie something.
 ITEM_20150323_004083	
 ITEM_20150323_004084	Scorpio Venom
 ITEM_20150323_004085	
@@ -4094,7 +4094,7 @@ ITEM_20150323_004093
 ITEM_20150323_004094	
 ITEM_20150323_004095	
 ITEM_20150323_004096	Well-Grown White Radish
-ITEM_20150323_004097	A fully grown white radish freshly 镐ed from the fields. It looks healthy, without blemish.
+ITEM_20150323_004097	A fully grown white radish freshly 镐ed from the fields. It looks 生命y, without blemish.
 ITEM_20150323_004098	Roughly Chopped Wood
 ITEM_20150323_004099	
 ITEM_20150323_004100	
@@ -4120,7 +4120,7 @@ ITEM_20150323_004119	Small Stone Statue的 Upper Body
 ITEM_20150323_004120	
 ITEM_20150323_004121	Small Stone Statue的 短小er Body
 ITEM_20150323_004122	
-ITEM_20150323_004123	Small Stone Statue的 Wing
+ITEM_20150323_004123	Small Stone Statue的 羽翼
 ITEM_20150323_004124	
 ITEM_20150323_004125	Blunt 木质的 Piece
 ITEM_20150323_004126	A blunt piece of wood that used to be the head of a wood 双手锤
@@ -4177,7 +4177,7 @@ ITEM_20150323_004176	Priest Prozit的 研究
 ITEM_20150323_004177	A 研究 report written by Priest Prozit. It contains 研究 on the effects of curses.
 ITEM_20150323_004178	A relic that is treasu红色 by the Church. Unfortunately it的 been dis卡片ed across the Cathedral.
 ITEM_20150323_004179	An orb that can detect holy power. It can help the user find the Graceful Relic.
-ITEM_20150323_004180	Colifly Wing
+ITEM_20150323_004180	Colifly 羽翼
 ITEM_20150323_004181	A 恶魔 sample needed to reveal the secret of curses
 ITEM_20150323_004182	Ropetelem Core
 ITEM_20150323_004183	Priest Yosana的 研究 Data
@@ -4236,7 +4236,7 @@ ITEM_20150323_004235
 ITEM_20150323_004236	Black Ridimed Sap
 ITEM_20150323_004237	魔物 sample requested by 研究er Gareth
 ITEM_20150323_004238	Tough Vermilion Sharkmolly 花茎
-ITEM_20150323_004239	Pink Chupaluka Heart
+ITEM_20150323_004239	Pink Chupaluka 心脏
 ITEM_20150323_004240	Pyromancer的 Requested 魔物 Sample
 ITEM_20150323_004241	Pyromancer的 研究 Material
 ITEM_20150323_004242	
@@ -4439,7 +4439,7 @@ ITEM_20150401_004438	优良的 长靴
 ITEM_20150401_004439	Ronesa的 木质的 项链
 ITEM_20150401_004440	Ronesa的 铁质的 项链
 ITEM_20150401_004441	Ronesa的 不锈钢 项链
-ITEM_20150401_004442	Ronesa的 Talisman
+ITEM_20150401_004442	Ronesa的 护符
 ITEM_20150401_004443	Ronesa Klaipeda的 锁链
 ITEM_20150401_004444	仪式 项链
 ITEM_20150401_004445	优良的 仪式 项链
@@ -4506,7 +4506,7 @@ ITEM_20150401_004505	Rotten Bread
 ITEM_20150401_004506	Rotten Snack Bread
 ITEM_20150401_004507	Fresh Bread
 ITEM_20150401_004508	A loaf of snack bread that is still fresh.
-ITEM_20150401_004509	魔力 doll that Rimas gave to Arunas. It removes unusual energies when burned in a 魔力 circle.
+ITEM_20150401_004509	魔力 娃娃 that Rimas gave to Arunas. It removes unusual energies when burned in a 魔力 circle.
 ITEM_20150401_004510	
 ITEM_20150401_004511	
 ITEM_20150401_004512	
@@ -4579,8 +4579,8 @@ ITEM_20150406_004578	Farm 装备的 for removing stones. It is well made.
 ITEM_20150406_004579	Farm 装备的 for separating fields. It has a lot of sharp points.
 ITEM_20150406_004580	Fresh Meat
 ITEM_20150406_004581	魔力 Stone of Blessing
-ITEM_20150406_004582	Orange Dandel Wingpice
-ITEM_20150406_004583	Wing of an Orange Dandel. Seems flammable.
+ITEM_20150406_004582	Orange Dandel 羽翼pice
+ITEM_20150406_004583	羽翼 of an Orange Dandel. Seems flammable.
 ITEM_20150406_004584	Varkis' 研究 Material (1)
 ITEM_20150406_004585	Varkis' 研究 Material
 ITEM_20150406_004586	Varkis' 研究 Material (2)
@@ -4613,7 +4613,7 @@ ITEM_20150414_004612	Cotton 手套
 ITEM_20150414_004613	Cotton 长靴
 ITEM_20150414_004614	Cotton 胖次
 ITEM_20150414_004615	Cotton 礼服
-ITEM_20150414_004616	Don't test this 盔甲的 魔力 Defense by intentionally getting hit.
+ITEM_20150414_004616	Don't test this 盔甲的 魔力 防御 by intentionally getting hit.
 ITEM_20150414_004617	守望者 手套
 ITEM_20150414_004618	装备的 used by watchmen.
 ITEM_20150414_004619	守望者 长靴
@@ -4643,10 +4643,10 @@ ITEM_20150414_004642	An angular, hardened 外壳. Obtained from 红色 Infro Roc
 ITEM_20150414_004643	Obtained from Black Desmoduses.
 ITEM_20150414_004644	Phlogistone
 ITEM_20150414_004645	A mysterious stone with the power of fire. Purchased from the Fletcher 大师.
-ITEM_20150414_004646	Infro Rocktor Bone
+ITEM_20150414_004646	Infro Rocktor 骨质
 ITEM_20150414_004647	The 骨头 of an Infro Rocktor are just as sturdy as the 外壳. Obtained from Infro Rocktors.
-ITEM_20150414_004648	Yekubite Teeth
-ITEM_20150414_004649	Teeth that developed to grind meat. Obtained from Yekubites.
+ITEM_20150414_004648	Yekubite 利齿
+ITEM_20150414_004649	利齿 that developed to grind meat. Obtained from Yekubites.
 ITEM_20150414_004650	Yekubite 水晶
 ITEM_20150414_004651	A 水晶 that only grows on the tail of Yekubite, it grows in size as the 魔物 ages. Obtained from Yekubites.
 ITEM_20150414_004652	Infro H老旧的er 骨头
@@ -4672,15 +4672,15 @@ ITEM_20150414_004671	Lizard Man 骨头
 ITEM_20150414_004672	Tama 树叶
 ITEM_20150414_004673	短Timber
 ITEM_20150414_004674	Sest Needle
-ITEM_20150414_004675	Melatinun Heart
+ITEM_20150414_004675	Melatinun 心脏
 ITEM_20150414_004676	Gribaru Bell
 ITEM_20150414_004677	Siaulamb 柔毛 树叶
-ITEM_20150414_004678	Pendinmire Mask
+ITEM_20150414_004678	Pendinmire 面具
 ITEM_20150414_004679	Levi 柔毛
 ITEM_20150414_004680	Honeybin 尾刺
 ITEM_20150414_004681	Fan 树叶
 ITEM_20150414_004682	Honeymeli 尾刺
-ITEM_20150414_004683	Siaulamb Mask
+ITEM_20150414_004683	Siaulamb 面具
 ITEM_20150414_004684	Big Siaulamb Sinew 
 ITEM_20150414_004685	Blood Eyeball
 ITEM_20150414_004686	Moyabu 水晶
@@ -4695,14 +4695,14 @@ ITEM_20150414_004694	口帕ri Flesh
 ITEM_20150414_004695	A piece of a 口帕ri的 flesh torn off while 狩猎. The disgusting smell make it impossible to eat.
 ITEM_20150414_004696	An energy source sprinkled by the Tree Root 水晶. These need to be collected to remove the contamination.
 ITEM_20150414_004697	Reveals 魔物s that killed Pilgrims with the Curse of Rage when sprayed on them.
-ITEM_20150414_004698	Unnamed F短小er
-ITEM_20150414_004699	A f短小er to be offe红色 on the altar to soothe angry souls.
+ITEM_20150414_004698	Unnamed Flower
+ITEM_20150414_004699	A Flower to be offe红色 on the altar to soothe angry 灵魂s.
 ITEM_20150414_004700	森林 of Prayer Sanctuary Map
 ITEM_20150414_004701	A map that shows all the Sanctuaries of Blessing in the 森林 of Prayer. {nl}Left-click to open the map. Please return the map when done explo环型 the 森林 of Prayer for other Pilgrims. {nl}Return Location: Road to Apsimesti Crossroad
 ITEM_20150414_004702	Water for cleaning plaster powder off theafter repai环型 the Goddess Statue. It is very clean.
 ITEM_20150414_004703	An imprint that Naktis placed on 魔物s as a way to 控制 them.
 ITEM_20150414_004704	Water from a small brook in the 森林 of Prayer. It looks potable.
-ITEM_20150414_004705	Reed F短小er
+ITEM_20150414_004705	Reed Flower
 ITEM_20150414_004706	Lantern
 ITEM_20150414_004707	Amulet
 ITEM_20150414_004708	Fresh Meat
@@ -4714,15 +4714,15 @@ ITEM_20150414_004713	Necromantic Orb of A符文
 ITEM_20150414_004714	An orb that Kyupol A符文 used to interrogate 恶魔s. Hauberk的 aid is needed.
 ITEM_20150414_004715	A 水晶 blessed with spatial powers by Goddess Vakarine. It has been modified so that the Gid铁质的e people can use it.
 ITEM_20150414_004716	A spectrum sphere created by Kyupol Daiba to keep watch on 恶魔s. It can be used to find the hiding Hauberk.
-ITEM_20150414_004717	A 符文 containing the Goddess Vakarine的 power. It absorbs the souls of 恶魔s.
-ITEM_20150414_004718	封印ing Token
+ITEM_20150414_004717	A 符文 containing the Goddess Vakarine的 power. It absorbs the 灵魂s of 恶魔s.
+ITEM_20150414_004718	封印ing 象征
 ITEM_20150414_004719	A sign of 封印ing that the Kyupol put on vicious 恶魔s in the 恶魔 Prison.
-ITEM_20150414_004720	A 封印ed 碎片 of Hauberk的 sh红色ded soul.
+ITEM_20150414_004720	A 封印ed 碎片 of Hauberk的 sh红色ded 灵魂.
 ITEM_20150414_004721	A shard that Noirelle planted in 恶魔s to ensure their obedience.
 ITEM_20150414_004722	Traces left by 恶魔s that passed through the transitional gap.
-ITEM_20150414_004723	An empty soul needed to 恢复 迪奥nis as quickly as possible.
+ITEM_20150414_004723	An empty 灵魂 needed to 恢复 迪奥nis as quickly as possible.
 ITEM_20150414_004724	A trinket left by adventurers who ente红色 the 恶魔 Prison. It seems they were killed by 恶魔s.
-ITEM_20150414_004725	A token 碎片 dropped from the Lada 封印. Evidence that 迪奥nis spread riots after he lost his ego.
+ITEM_20150414_004725	A 象征 碎片 dropped from the Lada 封印. Evidence that 迪奥nis spread riots after he lost his ego.
 ITEM_20150414_004726	A claw found stuck in a 恶魔. It looks like it was 攻击ed by 迪奥nis.
 ITEM_20150414_004727	Kyupol Sigita says that other 恶魔s will take this 牙齿 as a 战争ning.
 ITEM_20150414_004728	The tough root of a 红色 Large 口帕. An ing红色ient needed for the abdominal section of a front 精金.
@@ -4744,7 +4744,7 @@ ITEM_20150414_004743	A bottle fully filled with the evil aura of an Ellum.
 ITEM_20150414_004744	A bottle one third of the way filled with the evil aura of a Keposeed. It must be fully filled.
 ITEM_20150414_004745	A bottle two thirds of the way filled with the evil aura of a Keposeed. It is nearly full.
 ITEM_20150414_004746	The head of a small statue. What kind of statue could it be?
-ITEM_20150414_004747	The torso of a small statue. Its hands are clasped together.
+ITEM_20150414_004747	The torso of a small statue. Its 之手 are clasped together.
 ITEM_20150414_004748	The 短小er half of a small statue. It is hard to identify due to its 碎片ation.
 ITEM_20150414_004749	The 翅膀 of a small statue. The 翅膀 don't seem avian.
 ITEM_20150414_004750	木质的 双手锤
@@ -4754,7 +4754,7 @@ ITEM_20150414_004753	皮革obtained from 魔物s. It can be used to create a var
 ITEM_20150414_004754	A jar used to collect the poisons of various 魔物s. It looks very 老旧的.
 ITEM_20150414_004755	Sickle
 ITEM_20150414_004756	Rake(Unused)
-ITEM_20150414_004757	A letter written by Horatius for borrowing the farming tool.
+ITEM_20150414_004757	A letter written by Horatius for borro羽翼 the farming tool.
 ITEM_20150414_004758	A Neolle pulled out to its rots. The root and 树叶 are used for consumption.
 ITEM_20150414_004759	Thoroughly Dried Jerky
 ITEM_20150414_004760	A 魔力 stone made by Yonas. They say it can be used to destroy the 魔力 circle.
@@ -4771,11 +4771,11 @@ ITEM_20150414_004770	Body fluid extracted from an Orange Tama. It is used in the
 ITEM_20150414_004771	A small box found with seedlings. It的 full of seeds.
 ITEM_20150414_004772	Tama Remains
 ITEM_20150414_004773	The remains of a Tama from when it died. It is needed by a 研究er.
-ITEM_20150414_004774	The root of a grape vine requested by 研究er Monahan. It looks healthy, unlike its 花茎.
+ITEM_20150414_004774	The root of a grape vine requested by 研究er Monahan. It looks 生命y, unlike its 花茎.
 ITEM_20150414_004775	The horn of a 短Tree Sheep. The manager of the farm said he must have it.
 ITEM_20150414_004776	An antidote that can heal the poisoned farmers. Get it to them as soon as possible.
 ITEM_20150414_004777	A special stone 弓 used du环型 the Druid的 仪式.
-ITEM_20150414_004778	A stone 弓 filled with water. The strange aura it emits seems to attract 魔物s.
+ITEM_20150414_004778	A stone 弓 filled with water. The 古怪的 aura it emits seems to attract 魔物s.
 ITEM_20150414_004779	Veiss Seed Pouch
 ITEM_20150414_004780	A valuable seed pouch stolen by Veiss without alerting the attention of the s老旧的iers.
 ITEM_20150414_004781	A 黄金质 项链 carved with the symbol of the Chatten 家族. It的 spatte红色 with blood.
@@ -4892,7 +4892,7 @@ ITEM_20150428_004891	丽格红酒家族 精金 胖次
 ITEM_20150428_004892	丽格红酒家族 精金 盔甲
 ITEM_20150428_004893	Abomination 项链
 ITEM_20150428_004894	Abomination 腕镯
-ITEM_20150428_004895	F短小er Branch
+ITEM_20150428_004895	Flower Branch
 ITEM_20150428_004896	Soup Set
 ITEM_20150428_004897	提升移动速度 2 点持续 180 秒. {nl}右键点击使用. 冷却 30 秒.
 ITEM_20150428_004898	这水果有一种甜而酸的味道. {nl}恢复 HP 每 2 秒. 180 HP 得到恢复持续 15 秒. {nl}右键点击使用.
@@ -5029,7 +5029,7 @@ ITEM_20150428_005028	提升移动速度 by 4 for 250 秒. {nl}右键点击使用
 ITEM_20150428_005029	大师 Genie 卡片
 ITEM_20150428_005030	Merregina 卡片
 ITEM_20150428_005031	Temple射手 卡片
-ITEM_20150428_005032	歌剧大法师 手杖 Decoration
+ITEM_20150428_005032	歌剧大法师 手杖 饰品
 ITEM_20150428_005033	If you forgot which direction of the 手杖 it was installed on, it will be heading to战争ds you.
 ITEM_20150428_005034	Wire
 ITEM_20150428_005035	Hard to see because it is so thin.
@@ -5060,7 +5060,7 @@ ITEM_20150428_005059	Ceremonial ropes that the 歌剧 大法师 was carrying aro
 ITEM_20150428_005060	Mallardu Fat
 ITEM_20150428_005061	The fat of a Mallardu that was well preserved and will burn easily. Wake Nepenthes with it.
 ITEM_20150428_005062	The first revelation found in the 水晶 矿石. Readable.
-ITEM_20150428_005063	Pondel Soul
+ITEM_20150428_005063	Pondel 灵魂
 ITEM_20150428_005064	The second revelation found in the Tenet Cathedral. Readable.
 ITEM_20150428_005065	Lump of Kepo Meat
 ITEM_20150428_005066	Meat Loaf that can be easily obtained from Kepo. However, you can't eat it as is.
@@ -5068,7 +5068,7 @@ ITEM_20150428_005067	The third revelation found in the 荆棘 森林. Readable.
 ITEM_20150428_005068	The fourth revelation found in the Royal 古墓. Readable.
 ITEM_20150428_005069	The sixth revelation found in the Cathedral. Readable.
 ITEM_20150428_005070	There are claims that the voice of the King can be heard at the Royal 古墓 Chapel.
-ITEM_20150428_005071	Experimental soul reagents that Grachius gave to you.
+ITEM_20150428_005071	Experimental 灵魂 reagents that Grachius gave to you.
 ITEM_20150428_005072	Experimental Reagent
 ITEM_20150428_005073	Said to reveal 魔物s that have killed pilgrims under the Curse of Rage when sprayed on them. However, this is still experimental.
 ITEM_20150428_005074	The fifth revelation found in the Cathedral. Readable.
@@ -5086,7 +5086,7 @@ ITEM_20150511_005085	Scouting report of the Sunset Flag 森林. The scratched wr
 ITEM_20150511_005086	File f老旧的er that contains the 研究 records of the Royal 古墓s. Readable.
 ITEM_20150511_005087	An archive that Jonas devoted his lifetime to create. Readable.
 ITEM_20150511_005088	A report by Joint Investigation Unit member Scott regarding suspicious activity in the area. Readable.
-ITEM_20150511_005089	Parts of it are cove红色 in blood and unable to be read. Some parts are legible.
+ITEM_20150511_005089	部件 of it are cove红色 in blood and unable to be read. Some 部件 are legible.
 ITEM_20150511_005090	A certification a战争ded to s老旧的iers who have safely completed training. Read it proudly.
 ITEM_20150511_005091	皮革that can be used in a variety of ways. The age of the 皮革means that it 会立即生效.
 ITEM_20150511_005092	A 研究 report lost by the newbie Royal 古墓s 研究er. Someone has stepped on it  and blur红色 the characters. It的 just barely readable.
@@ -5099,7 +5099,7 @@ ITEM_20150511_005098	Third rubbing of Lydia Schaffen的 古墓stone. Read what�
 ITEM_20150511_005099	Fourth rubbing of Lydia Schaffen的 古墓stone. Read what的 inside.
 ITEM_20150511_005100	Fifth rubbing of Lydia Schaffen的 古墓stone. Read what的 inside.
 ITEM_20150511_005101	老旧的 documents that describe how one can turn into a 恶魔. Read what的 inside.
-ITEM_20150511_005102	The letter Horacious wrote for borrowing the farm 装备的. Readable.
+ITEM_20150511_005102	The letter Horacious wrote for borro羽翼 the farm 装备的. Readable.
 ITEM_20150511_005103	Part 2 of Vakis的 研究 found in the Dykyne Crossroads. Readable.
 ITEM_20150511_005104	Part 3 of Vakis的 研究 found in the 蛇形 Neck Bluffs. Readable.
 ITEM_20150511_005105	Part 4 of Vakis的 研究 found in the Ipati Cliffs. Readable.
@@ -5291,7 +5291,7 @@ ITEM_20150714_005290	Varb Hard 外壳
 ITEM_20150714_005291	Zinutekases Tail 碎片s
 ITEM_20150714_005292	Boowook Activiation Core
 ITEM_20150714_005293	Scent Stone Powder
-ITEM_20150714_005294	condensed 柔毛y of pilgrims.
+ITEM_20150714_005294	condensed 愤怒 of pilgrims.
 ITEM_20150714_005295	Petrified the advanced team的 relics
 ITEM_20150714_005296	Tasty Tablets
 ITEM_20150714_005297	A tasty candy ball made for the workers at the petrifed city in Kalis
@@ -5303,9 +5303,9 @@ ITEM_20150714_005302	A mysterious jewel can lead to correct way.
 ITEM_20150714_005303	A truth eye 碎片
 ITEM_20150714_005304	Truth Eye的 broken pieces. It is only available to collect all 碎片s.
 ITEM_20150714_005305	Truth Eyes
-ITEM_20150714_005306	al短小s you to see the reality of the soul. Let的 try to insubstantial 魔物.
-ITEM_20150714_005307	Soul 水晶
-ITEM_20150714_005308	法杖e环型 pulling force can pull the soul. It is necessary to find a condensed wanted.
+ITEM_20150714_005306	al短小s you to see the reality of the 灵魂. Let的 try to insubstantial 魔物.
+ITEM_20150714_005307	灵魂 水晶
+ITEM_20150714_005308	法杖e环型 pulling force can pull the 灵魂. It is necessary to find a condensed wanted.
 ITEM_20150714_005309	Left to click to use
 ITEM_20150714_005310	A memo written by Hones about a teacher的 said. You can know how to release the 黛妃ce installed at Ritnis catacombs. Cab read
 ITEM_20150714_005311	Contract Space 魔力 Stone
@@ -5333,7 +5333,7 @@ ITEM_20150714_005332	Processed Bomb
 ITEM_20150714_005333	Hardened Explosives
 ITEM_20150714_005334	Kingdom Army Propaganda
 ITEM_20150714_005335	A propaganda to encourage the surrender sprayed by Kingdom army when the rebellion, 600 years ago
-ITEM_20150714_005336	part of the soul of a town torn monarch Howe buck.
+ITEM_20150714_005336	part of the 灵魂 of a town torn monarch Howe buck.
 ITEM_20150714_005337	
 ITEM_20150714_005338	the ground of the fort built at the time, was hustle and explosives used. Complaints can be easily attaching to burst.
 ITEM_20150714_005339	that the 古墓 building can hear the voice of the king in the chapel Here is rumo红色 Jar.
@@ -5365,7 +5365,7 @@ ITEM_20150714_005364	Burly Brush
 ITEM_20150714_005365	A brush can clean the dusts.
 ITEM_20150714_005366	Kraut Grass Juice
 ITEM_20150714_005367	A juice obtained from the Kraut grass. 魔物s like it.
-ITEM_20150714_005368	Coarse Bone Powder
+ITEM_20150714_005368	Coarse 骨质 Powder
 ITEM_20150714_005369	 
 ITEM_20150714_005370	Special Ink
 ITEM_20150714_005371	An ink obtained from Alchemist 大师.
@@ -5394,7 +5394,7 @@ ITEM_20150714_005393	Gathe红色 the bush. It seems better to burn.
 ITEM_20150714_005394	
 ITEM_20150714_005395	Oil obtained from 魔物s.
 ITEM_20150714_005396	A journal written about the Itebaras的 records. Collection of the 古墓stons at the Namyu Temple Site.
-ITEM_20150714_005397	Bone
+ITEM_20150714_005397	骨质
 ITEM_20150714_005398	
 ITEM_20150714_005399	A metal 精金
 ITEM_20150714_005400	A metal 精金 that the Eustass are looking for.
@@ -5442,20 +5442,20 @@ ITEM_20150714_005441
 ITEM_20150714_005442	Deceased Elm. It is sticky.
 ITEM_20150714_005443	Odd kkwemi
 ITEM_20150714_005444	
-ITEM_20150714_005445	Eyes of the Soul
+ITEM_20150714_005445	Eyes of the 灵魂
 ITEM_20150714_005446	
 ITEM_20150714_005447	
 ITEM_20150714_005448	
 ITEM_20150714_005449	
 ITEM_20150714_005450	Not a security cordon wrongfully dead 大师 was prepa红色 to comfort Dale villagers.
 ITEM_20150714_005451	
-ITEM_20150714_005452	Completely filled with beads up. You can not unjustly over the dead villagers Dale soul.
+ITEM_20150714_005452	Completely filled with beads up. You can not unjustly over the dead villagers Dale 灵魂.
 ITEM_20150714_005453	Modification of power 
 ITEM_20150714_005454	To cleanse the 荆棘 森林 that contains the power of Saul Les loan modification
 ITEM_20150714_005455	cold 水晶
 ITEM_20150714_005456	
 ITEM_20150714_005457	冰冻的 灵魂碎片
-ITEM_20150714_005458	Soul shards came from a 冰冻的 魔物 in the cold.
+ITEM_20150714_005458	灵魂 shards came from a 冰冻的 魔物 in the cold.
 ITEM_20150714_005459	determination of pure cold
 ITEM_20150714_005460	Materials required for the experiment.
 ITEM_20150714_005461	Beads of jeubek
@@ -5466,7 +5466,7 @@ ITEM_20150714_005465
 ITEM_20150714_005466	Materials needed to create an explosive shot 
 ITEM_20150714_005467	It is used to create the explosion burnt.
 ITEM_20150714_005468	Explosive shot
-ITEM_20150714_005469	explosive bombs that loud sounds great, but is reminded
+ITEM_20150714_005469	explosive bombs that loud sounds great, but is re意志ed
 ITEM_20150714_005470	
 ITEM_20150714_005471	Explosion discove红色 in the Outpost area. It seems doeseo did not succeed.
 ITEM_20150714_005472	
@@ -5497,8 +5497,8 @@ ITEM_20150714_005496
 ITEM_20150714_005497	
 ITEM_20150714_005498	
 ITEM_20150714_005499	Somehow secretions of wood and Le punggineun a sweet smell. You can soften the hard honeycomb.
-ITEM_20150714_005500	Liverwort Shade
-ITEM_20150714_005501	large freshly depends on the head of liverworts. It smells strange smell.
+ITEM_20150714_005500	Liverwort 暗影
+ITEM_20150714_005501	large freshly depends on the head of liverworts. It smells 古怪的 smell.
 ITEM_20150714_005502	
 ITEM_20150714_005503	testosterone is broken naekon remaining 残骸. It seems a little twitching stand.
 ITEM_20150714_005504	老旧的图书
