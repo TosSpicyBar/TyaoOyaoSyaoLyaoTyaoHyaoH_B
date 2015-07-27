@@ -1,10 +1,10 @@
-QUEST_JOBSTEP_20150317_000001	The Bokor. 你选择了一条艰难的道路. {nl}参阅《冒险者手册》制作自己的人偶.
-QUEST_JOBSTEP_20150317_000002	你只能依靠自己. {nl}查看你的《冒险者手册》 它会告诉你如何制作一个人偶. 
-QUEST_JOBSTEP_20150317_000003	恭喜, 一个新的<妖术师>诞生了. {nl}通过制作属于自己的人偶, 我踏上了成为一名<妖术师>的道路. 
-QUEST_JOBSTEP_20150317_000004	<轻盾兵大师>
+QUEST_JOBSTEP_20150317_000001	The Bokor. You chose a difficult path. {nl}Refer to the instructions in Adventure Journal and make your own doll.
+QUEST_JOBSTEP_20150317_000002	You can only get it by yourself. {nl}Check your Adventure Journal on how you can make the doll. 
+QUEST_JOBSTEP_20150317_000003	Congratulations, a new Bokor is born. {nl}When I first chose the path of Bokor, I started by creating a doll of my own. 
+QUEST_JOBSTEP_20150317_000004	Peltasta Master
 QUEST_JOBSTEP_20150317_000005	
-QUEST_JOBSTEP_20150317_000006	如果你连这样的问题都处理不了,如何能承担起<轻盾兵>之名? 
-QUEST_JOBSTEP_20150317_000007	做的不错. {nl}我希望你的成长最终能使你拯救世界. 
+QUEST_JOBSTEP_20150317_000006	How can you bear the name of Peltasta if you can't even handle that? 
+QUEST_JOBSTEP_20150317_000007	Good. {nl}I hope your new growth leads to you saving the world. 
 QUEST_JOBSTEP_20150317_000008	Highland Master
 QUEST_JOBSTEP_20150317_000009	
 QUEST_JOBSTEP_20150317_000010	Hurry. {nl} It's a simple challenge, but Vubbes are a threat to the Miner's Village.
@@ -97,22 +97,22 @@ QUEST_JOBSTEP_20150317_000096	Did the Quarrel Shooter send this? {nl}Thanks. I'l
 QUEST_JOBSTEP_20150317_000097	Bring the book quickly. {nl}I can't hold it. 
 QUEST_JOBSTEP_20150317_000098	Great, it's this one! {nl}I'll teach you the skills of Quarrel Shooter as promised. {nl}
 QUEST_JOBSTEP_20150317_000099	This rock will be useful in repairing the wall. {nl}Bring it to the Archer Master quickly. 
-QUEST_JOBSTEP_20150317_000100	如果你想要学习我更多的技能,需要满足一个条件. {nl}我需要你帮助我找到4本Lydia Schaffen的书. 
-QUEST_JOBSTEP_20150317_000101	我听说在 Vubbes 袭击Miner's Village之前,第一本书住在一位居民那里. {nl}我所以我想它应该在 Vubbe 的聚集地. 
-QUEST_JOBSTEP_20150317_000102	你能这么快找到它实在是令我太惊讶了! {nl}这本书依然保存完好. {nl}
-QUEST_JOBSTEP_20150317_000103	我觉得你大概可以从<猎人大师>那里买到下一本书..{nl}修完墙我就破产了. 哈哈..
-QUEST_JOBSTEP_20150317_000104	你是指Lydia Schaffen的第二本书吗? {nl}我会以5000银币的价格卖给你. 
-QUEST_JOBSTEP_20150317_000105	我想5000银币就够了. {nl}我听说这本书就这个价. 
+QUEST_JOBSTEP_20150317_000100	If you want to learn more of my skills, there is a condition. {nl}I want you to help me find the four books of Lydia Schaffen. 
+QUEST_JOBSTEP_20150317_000101	I heard the first book was with a resident in Miner's Village before the Vubbes attacked. {nl}So I think it could be in the Vubbe Outpost. 
+QUEST_JOBSTEP_20150317_000102	I'm surprised you found it so fast! {nl}And it's in a good state. {nl}
+QUEST_JOBSTEP_20150317_000103	I think you might be able to buy the next book from the Hunter Master..{nl}I'm broke after fixing the wall with my money. Haha..
+QUEST_JOBSTEP_20150317_000104	You mean the second book of Lydia Schaffen? {nl}I'll hand it over for 5000 silver. 
+QUEST_JOBSTEP_20150317_000105	I think around 5000 silver will do. {nl}I heard that's the book's value. 
 QUEST_JOBSTEP_20150317_000106	
 QUEST_JOBSTEP_20150317_000107	
 QUEST_JOBSTEP_20150317_000108	
-QUEST_JOBSTEP_20150317_000109	质量还不错. <弓箭手大师>一定也会很高兴的. {nl}来这里, 我已经给自己准备了一个副本, 你把它拿走吧. 
-QUEST_JOBSTEP_20150317_000110	现在还剩一本书没有拿到. {nl}把这个袋子交给<游侠大师> ,把书拿回来. {nl}
-QUEST_JOBSTEP_20150317_000111	<游侠大师> 他有没有给你? {nl}干的不错. 我会按照约定把书给你. 
-QUEST_JOBSTEP_20150317_000112	拿到全部的书了吗? {nl}我需要尽快见到那4本Lydia Schaffen的书..
-QUEST_JOBSTEP_20150317_000113	终于都在这里了. {nl}我会按照约定教给你我的技能. 
-QUEST_JOBSTEP_20150317_000114	我有些书需要收集. 是Lydia Schaffen的书. {nl}如果你收集齐了书，我就教给你我的技能. 你同意吗? 
-QUEST_JOBSTEP_20150317_000115	第一本书原先在Miner's Village那里,但是在 Vubbes 袭击之后就丢失了. {nl}我猜这本书应该在 Vubbe 的聚集地? 
+QUEST_JOBSTEP_20150317_000109	The quality is fine enough. The Archer Master must also be pleased. {nl}Here, I've prepared a copy, so take it. 
+QUEST_JOBSTEP_20150317_000110	Now there is one book left. {nl}Give this pouch to the Ranger Master and get the book. {nl}
+QUEST_JOBSTEP_20150317_000111	Did the Archer Master send you? {nl}Well, good work. I'll give you the book as promised. 
+QUEST_JOBSTEP_20150317_000112	Isn't the book ready yet? {nl}I want to see all of Lydia Schaffen's book ASAP..
+QUEST_JOBSTEP_20150317_000113	Finally it's all here. {nl}I'll teach you my skills as promised. 
+QUEST_JOBSTEP_20150317_000114	I have some books to collect. It's Lydia Schaffen's books. {nl}I'll teach you my skills if you collect the books. What do you say? 
+QUEST_JOBSTEP_20150317_000115	The first book was in the Miner's Village but it was gone after the Vubbes attacked. {nl}I assume the book is in the Vubbe Outpost? 
 QUEST_JOBSTEP_20150317_000116	Oh, that's pretty good. {nl}It will he helpful for you to read it too. 
 QUEST_JOBSTEP_20150317_000117	The problem is the Hunter Master. I really don't want to see her face. {nl}So you go and get the next book from her. 
 QUEST_JOBSTEP_20150317_000118	You mean the book I have? {nl}Well, okay. I'll hand it over for 5000 silver. 
