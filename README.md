@@ -65,8 +65,9 @@ A更新时，对比AB差异，优先汉化A的更新部分
 <img src="http://imgchr.com/images/tos1.jpg" border="0">
 <img src="http://imgchr.com/images/tos2.jpg" border="0">
 <img src="http://imgchr.com/images/tos4.jpg" border="0">
+<img src="http://imgchr.com/images/QQ20150810152850.jpg" border="0">
 
-<img src="http://imgchr.com/images/tos3.jpg" border="0">
+<a href="http://imgchr.com/image/CG2"><img src="http://imgchr.com/images/tos3.jpg" border="0"></a>
 <img src="http://imgchr.com/images/672fad.jpg" border="0">
 
 ### EN Game Screenshots
