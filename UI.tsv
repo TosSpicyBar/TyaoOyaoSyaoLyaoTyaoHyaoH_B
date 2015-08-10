@@ -1,0 +1,1772 @@
+UI_20150317_000001	{@st41b}各种大师职业类别{nl}你可以了解的特点.{/}
+UI_20150317_000002	{@st43}属性列表{/}
+UI_20150317_000003	{@st59}关闭属性列表{/}
+UI_20150317_000004	{@st43}学习属性{/}
+UI_20150317_000005	{@st59}关闭属性窗口{/}
+UI_20150317_000006	{@st41b}银{/}
+UI_20150317_000007	我的成就
+UI_20150317_000008	服务器排名
+UI_20150317_000009	{@st59}你未预见的事件{/}
+UI_20150317_000010	{@st59}有小贴士{/}
+UI_20150317_000011	{@st41}你确定要制作箭吗?{/}
+UI_20150317_000012	{@st41b}仅一次{/}
+UI_20150317_000013	{@st41b}所有{/}
+UI_20150317_000014	{@st41b}停止{/}
+UI_20150317_000015	{@st43}冒险日志{/}
+UI_20150317_000016	{@st43}拍卖行{/}
+UI_20150317_000017	{@st59}关闭拍卖行{/}
+UI_20150317_000018	{@st41b}出售道具 : %s个,  流标物品 : %s个{/}
+UI_20150317_000019	{@st43}{s22}拍卖物品{/}
+UI_20150317_000020	{@st59}关闭任务菜单{/}
+UI_20150317_000021	Abe days rest
+UI_20150317_000022	{@st41b}剩余时间
+UI_20150317_000023	3小时 16分钟
+UI_20150317_000024	{@st41b}从
+UI_20150317_000025	{@st41b}可以投标
+UI_20150317_000026	{@st41b}时价
+UI_20150317_000027	{@st41b}投标金
+UI_20150317_000028	{@st41b}至少 {@st57}%s {@st41b}从银币开始投标{/}
+UI_20150317_000029	{@st41b}投标{/}
+UI_20150317_000030	{@st43b}直接购买!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000031	{@st44}设置权限{/}
+UI_20150317_000032	{@st45}名称:%s{/}
+UI_20150317_000033	{@st45}Party仓库{/}
+UI_20150317_000034	{@st49}无
+UI_20150317_000035	{@st49}载入中
+UI_20150317_000036	{@st49}输入
+UI_20150317_000037	{@st45}调查{/}
+UI_20150317_000038	{@st49}创建
+UI_20150317_000039	{@st49}删除
+UI_20150317_000040	{@st44}保存{/}
+UI_20150317_000041	{@st44}取消{/}
+UI_20150317_000042	{@st43}{s22}美容院{/}
+UI_20150317_000043	{@st59}上一个发型{/}
+UI_20150317_000044	{@st59}下一个发型{/}
+UI_20150317_000045	{@st41b}变更{s18}(金币 100 需要){/}
+UI_20150317_000046	{@st59}变更所选发型.{/}
+UI_20150317_000047	{@st41}清除
+UI_20150317_000048	{@st43}黑市{/}
+UI_20150317_000049	书名
+UI_20150317_000050	{@st59}不中断阅读{/}
+UI_20150317_000051	{@st59}上一页{/}
+UI_20150317_000052	{@st59}下一页{/}
+UI_20150317_000053	{@st47}%s 登场!!
+UI_20150317_000054	{@st43}得分{/}
+UI_20150317_000055	受到的伤害
+UI_20150317_000056	技巧奖励
+UI_20150317_000057	回避奖励
+UI_20150317_000058	通关时间
+UI_20150317_000059	总得分
+UI_20150317_000060	{@st42}经过时间
+UI_20150317_000061	10分
+UI_20150317_000062	10秒
+UI_20150317_000063	{@st44}去完成
+UI_20150317_000064	{@st59}关闭营地{/}
+UI_20150317_000065	{@st43}BUFF自动贩卖
+UI_20150317_000066	自动贩卖名称
+UI_20150317_000067	{@st43}注册
+UI_20150317_000068	{@st43}取消
+UI_20150317_000069	BUFF自动贩卖
+UI_20150317_000070	{@st59}关闭BUFF自动贩卖.
+UI_20150317_000071	{@st59}BUFF自动贩卖{nl} - 玩家支付银币可获得BUFF.
+UI_20150317_000072	马车菜单
+UI_20150317_000073	{ol}{s22}向下{/}
+UI_20150317_000074	铸件
+UI_20150317_000075	{@st43}游戏设置{/}
+UI_20150317_000076	{@st64}方向键输入单元选择!
+UI_20150317_000077	{@st43}之前的信息{/}
+UI_20150317_000078	{@st43}选择职业类别
+UI_20150317_000079	Psychokinesist
+UI_20150317_000080	{@st42}%s 社团{/}
+UI_20150317_000081	若干社团
+UI_20150317_000082	这里描述职业类别的简单说明.
+UI_20150317_000083	{@st41b}攻击 {@sti7}%s{/}
+UI_20150317_000084	{@st41b}治疗    {@sti7}%s{/}
+UI_20150317_000085	{@st41b}难度 {@sti7}%s{/}
+UI_20150317_000086	{@st59}关闭职业类别信息{/}
+UI_20150317_000087	前置可能提醒
+UI_20150317_000088	{@st43}前置职业类别
+UI_20150317_000089	{@sti7}{s14}人物{/}
+UI_20150317_000090	{@sti8}{s14}职业类别{/}
+UI_20150317_000091	{@st44}聊天{/}
+UI_20150317_000092	给. WWWWWWWW 以及 1 个另外的
+UI_20150317_000093	一般 : /s 消息{nl}喊叫 : /y 消息{nl}组队 : /p 消息{nl}悄悄话 : /w 玩家名称 消息
+UI_20150317_000094	{@st41}普通聊天{/}
+UI_20150317_000095	{@59}关闭{/}
+UI_20150317_000096	{@59}邀请{/}
+UI_20150317_000097	{@st59}全部{/}
+UI_20150317_000098	{@st59}一般  (/s message){/}
+UI_20150317_000099	{@st59}喊叫  (/y message){/}
+UI_20150317_000100	{@st59}组队  (/p message){/}
+UI_20150317_000101	{@st59}悄悄话   (/w Teamname message){/}
+UI_20150317_000102	{@st59}调整聊天窗口{/}
+UI_20150317_000103	{@st43}{s22}聊天宏{/}
+UI_20150317_000104	{@st43}宏{/}
+UI_20150317_000105	{@st59b}宏{nl}{@st59s} - 如何使用 : {nl} 1. 从顶部列表选择一种手势{nl} 2. 组合聊天内容和手势{nl} 3. 激活热键宏.{/}
+UI_20150317_000106	{@st59}关闭宏窗口{/}
+UI_20150317_000107	{@st41b}保存{/}
+UI_20150317_000108	{@st59}保存宏{/}
+UI_20150317_000109	{@st41b}取消{/}
+UI_20150317_000110	{@st59}取消创建{/}
+UI_20150317_000111	{@st42}聊天设定
+UI_20150317_000112	{@st42}透明度
+UI_20150317_000113	消息泡泡
+UI_20150317_000114	在屏幕顶部显示喇叭
+UI_20150317_000115	{@st43}黑名单{/}
+UI_20150317_000116	{@st42b}  道具  {/}
+UI_20150317_000117	{@st42b}  怪物  {/}
+UI_20150317_000118	{@st42b}  移动地图  {/}
+UI_20150317_000119	{@st42b}  战斗命令  {/}
+UI_20150317_000120	{@st41b}关闭{/}
+UI_20150317_000121	{s16}{b}双击或生成按钮可以创建道具.
+UI_20150317_000122	{s16}{b}个
+UI_20150317_000123	{s16}{b}等级
+UI_20150317_000124	{@st41b}查询{/}
+UI_20150317_000125	{s16}{b}双击或生成按钮可以召唤怪物.
+UI_20150317_000126	{s16}{b}玛丽
+UI_20150317_000127	{s16}{b}选择想要去的区域
+UI_20150317_000128	{s18}{b}查看小地图{/}
+UI_20150317_000129	{@st41b}工具列表{/}
+UI_20150317_000130	Collection {@st59b} {nl} {@st59s} - If you collect the items saved my collection deck games can collect the item {nl} - If you use shortcut keys to activate the collection item collection deck {nl} {/}
+UI_20150317_000131	{@st59}关闭收集窗口{/}
+UI_20150317_000132	{@st43}收集{/}
+UI_20150317_000133	{@st43}彩色喷雾{/}
+UI_20150317_000134	{@st49}彩色喷雾{/}
+UI_20150317_000135	{@st49}颜色{/}
+UI_20150317_000136	{@st49}剩余{/}
+UI_20150317_000137	{@st49}刷{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}绘画{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}保存{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}读档{/}{/}
+UI_20150317_000141	{@st49}关闭{/}
+UI_20150317_000142	{@st43} Companion Adoption
+UI_20150317_000143	{@st59} Enter the name of the pre-sale to receive a companion {/}
+UI_20150317_000144	{@st41b}名称{/}
+UI_20150317_000145	{@st41b}价格 %s{/}
+UI_20150317_000146	{@st59} close companion Moth pre-sale window {/}
+UI_20150317_000147	{@st41b}Adopt
+UI_20150317_000148	{@st59}Confirm adoption {/}
+UI_20150317_000149	{@st43}Companion Shop
+UI_20150317_000150	{@st59}Close Companion Shop{/}
+UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
+UI_20150317_000152	{@st59}Close Character Information{/}
+UI_20150317_000153	{@st41b}Information
+UI_20150317_000154	{@st41b}Record
+UI_20150317_000155	Team Name
+UI_20150317_000156	Character Name
+UI_20150317_000157	{#Ffff00}%s{/}Rank %s {#ffff00}%s{/}Level
+UI_20150317_000158	Fighter
+UI_20150317_000159	Adventure {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
+UI_20150317_000160	Adventure {#ffff00}%s{/} ({#ffff00}Unranked{/})
+UI_20150317_000161	成就 {#ffff00}%s{/}ea
+UI_20150317_000162	Settings
+UI_20150317_000163	Clear the tab title to delete the tab.
+UI_20150317_000164	{@st49}全部{/}
+UI_20150317_000165	{@st49}系统{/}
+UI_20150317_000166	{@st49}对话{/}
+UI_20150317_000167	{@st49}战斗{/}
+UI_20150317_000168	{@st49}道具{/}
+UI_20150317_000169	{@st43}积分{/}
+UI_20150317_000170	{@st43}Target fixed {/}
+UI_20150317_000171	NPC Name
+UI_20150317_000172	Compare
+UI_20150317_000173	Illustration
+UI_20150317_000174	Selection Dialogue
+UI_20150317_000175	帮助文本
+UI_20150317_000176	{@st41}Create Items{/}
+UI_20150317_000177	{@st45tw2}Creating item...
+UI_20150317_000178	%r 秒钟
+UI_20150317_000179	{@st41}取消{/}
+UI_20150317_000180	{@st45tw2}数量 {/}
+UI_20150317_000181	{@st45tw2}制作道具吗?
+UI_20150317_000182	{@st41}결정{/}
+UI_20150317_000183	任务信息
+UI_20150317_000184	{@st59}取消交易{/}
+UI_20150317_000185	{@st43}个人交易{/}
+UI_20150317_000186	我的交易列表
+UI_20150317_000187	银币 : %s
+UI_20150317_000188	输入
+UI_20150317_000189	{@st41}受理
+UI_20150317_000190	{@st41}最终确认
+UI_20150317_000191	对方(%s) 交易列表
+UI_20150317_000192	对方名称
+UI_20150317_000193	{s18}{ol}{gr gradation1}现场活动{/}
+UI_20150317_000194	{s20}{ol}부베족을 물리쳐라! 你想参加吗?
+UI_20150317_000195	{s20}{ol}%s 参加吗?
+UI_20150317_000196	{s20}{ol}参与者 : (1/5)
+UI_20150317_000197	{s20}{ol}参与者 : (%s/%s)
+UI_20150317_000198	{s20}{ol}1秒后游戏开始.
+UI_20150317_000199	{s20}{ol}%s秒后游戏开始.
+UI_20150317_000200	Do not show for the day.
+UI_20150317_000201	Do not show Field Events.
+UI_20150317_000202	Join Game
+UI_20150317_000203	Start game with other players.
+UI_20150317_000204	Do not join the game.
+UI_20150317_000205	Spray Presets
+UI_20150317_000206	{@st49}Select{/}
+UI_20150317_000207	{@st49}Cancel{/}
+UI_20150317_000208	{@st49}Delete{/}
+UI_20150317_000209	Enter the name of file to save.
+UI_20150317_000210	{@st43}Friend List
+UI_20150317_000211	{@st59}Close Friend List{/}
+UI_20150317_000212	{@st59b}Friend List{nl}{@st59s} - Friendships can be created between accounts{nl} - You can check the status of your friends on the List tab{nl} - You can check the Requests and Block list in the Settings tab{/}
+UI_20150317_000213	{@st41b}Online friends{/}
+UI_20150317_000214	{@st41b}List
+UI_20150317_000215	{@st41b}Settings
+UI_20150317_000216	{@st41b}Add Friend
+UI_20150317_000217	{@st41b}Block
+UI_20150317_000218	{@st59}Search{/}
+UI_20150317_000219	{@st44}Guild{/}
+UI_20150317_000220	Guild
+UI_20150317_000221	List
+UI_20150317_000222	News
+UI_20150317_000223	Guild Mission
+UI_20150317_000224	Members Online
+UI_20150317_000225	{@st44}Create Guild{/}
+UI_20150317_000226	{@st42}Create{/}
+UI_20150317_000227	{@st42}Close{/}
+UI_20150317_000228	{@st42}ALL{/}
+UI_20150317_000229	{@st42}Today Rankings{/}
+UI_20150317_000230	{@st42}Weekly Rankings{/}
+UI_20150317_000231	{@st56} rank {/}
+UI_20150317_000232	{@st56}Points{/}
+UI_20150317_000233	{@st56}Class{/}
+UI_20150317_000234	{@st56} name {/}
+UI_20150317_000235	前一页
+UI_20150317_000236	后一页
+UI_20150317_000237	{@st42}搜素 ID{/}
+UI_20150317_000238	输入 ID 来搜索
+UI_20150317_000239	Close the Hall of Fame
+UI_20150317_000240	输入 ID 来搜索
+UI_20150317_000241	{@st59}耐力{/}
+UI_20150317_000242	{@st43}帮助列表{/}
+UI_20150317_000243	{@st59}Close Help List{/}
+UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - Selection of topics about game mechanics{nl} - Select the desired topic to view{/}
+UI_20150317_000245	{@st43}{s22}Help{/}
+UI_20150317_000246	{@st47_b}{b}Help Topics{/}
+UI_20150317_000247	{@st42b}Simple Help Contents{/}
+UI_20150317_000248	{@st59}View details{/}
+UI_20150317_000249	Please enter quantity
+UI_20150317_000250	{@st59}Enter the content{/}
+UI_20150317_000251	{@st41b}OK
+UI_20150317_000252	{@st59}确认 entered information{/}
+UI_20150317_000253	{@st41b}Close
+UI_20150317_000254	{@st59}Cancel Edit{/}
+UI_20150317_000255	{@st43}Warp{/}
+UI_20150317_000256	{@st59}Close Warp Window{/}
+UI_20150317_000257	Warp {@st59b} {nl} {@st59s} - systems that can warp their visit to the region {nl} - When there are more than 2 Warp Warp function is activated {nl} {/}
+UI_20150317_000258	{@st41}Current location : %s{/}
+UI_20150317_000259	{@st43}{s22}传送{/}
+UI_20150317_000260	{@st41b}你真的想移动到这个区域吗?{/}
+UI_20150317_000261	What about Saul ray
+UI_20150317_000262	钱币消耗 : 0
+UI_20150317_000263	Intro
+UI_20150317_000264	{@st43}道具栏{/}
+UI_20150317_000265	{@st59}关闭道具栏菜单 {/}
+UI_20150317_000266	{@st59b}道具栏{nl}{@st59s} - 发型/自定义 : 额外的可视化服装{nl} - 武器 : 单双手武器{nl}   (盾牌可以和单手武器一同使用){nl} - 盔甲 : 胸部, 胖次, 手套, 鞋子{nl} - 饰品 : 项链, 手镯 (最多 2) 以及戒指{nl}{/}
+UI_20150317_000267	{@st59}头部装备 1{/}
+UI_20150317_000268	{@st59}头部装备 2{/}
+UI_20150317_000269	{@st59}手镯 2{/}
+UI_20150317_000270	{@st59}胸部{/}
+UI_20150317_000271	{@st59}顶部{/}
+UI_20150317_000272	{@st59}服装{/}
+UI_20150317_000273	{@st59}项链{/}
+UI_20150317_000274	{@st59}胖次{/}
+UI_20150317_000275	{@st59}鞋子{/}
+UI_20150317_000276	{@st59}手镯 1{/}
+UI_20150317_000277	{@st59}浏览{/}
+UI_20150317_000278	{@st59}盾牌{/}
+UI_20150317_000279	{@st59}戒指{/}
+UI_20150317_000280	{@st59}以名称搜索道具{/}
+UI_20150317_000281	负重
+UI_20150317_000282	{@st43}装备BUFF{/}
+UI_20150317_000283	{@st59}关闭修理界面{/}
+UI_20150317_000284	{@st42}BUFF可用的装备列表
+UI_20150317_000285	{@st42}消耗道具{/}
+UI_20150317_000286	{@st42}执行
+UI_20150317_000287	{@st42}目标物品{/}
+UI_20150317_000288	{@st59}环1{/}
+UI_20150317_000289	{@st43}制作物品{/}
+UI_20150317_000290	{@st42b}只显示材料{/}
+UI_20150317_000291	{@st59}道具制作关闭{/}
+UI_20150317_000292	{@st43}{s22}损坏道具
+UI_20150317_000293	{@st59}请输入你的号码{/}
+UI_20150317_000294	怪物耐力槽
+UI_20150317_000295	{@st44}设置道具获取{/}
+UI_20150317_000296	键盘战士
+UI_20150317_000297	Kiel
+UI_20150317_000298	99分 99秒
+UI_20150317_000299	38000 点
+UI_20150317_000300	速效药水
+UI_20150317_000301	{@st41}确认{/}
+UI_20150317_000302	{@st59b}冒险日志{nl}{@st59s} - Contains the progress information{nl} - Items aquired, monsters, crafting, map exploration, and the content progress{nl}    Main : Sum of all other categories{nl}    Level : 5 points per character and class level{nl}    Item : 装备 : Class X 10 points, Book : 10 points, Other : 1 point{nl}    Monsters : 10 points per monster (Boss : 50 points){nl}    Area exploration : 1 point per 10%{nl}    Quest : 1 point per quest{nl}    Archivements : Varies by archivements{nl}    Cartography : 10 points per piece{nl}    Collection : 5 points for Deck , 45 points for completion{nl} - Obtain rewards from village NPCs in accordance with the Advanture Statistic{/}
+UI_20150317_000303	{@sti7}{s22}{ds}冒险统计{/}
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
+UI_20150317_000305	{@st42b} Average / %s Points {/}
+UI_20150317_000306	1st / %s 点数
+UI_20150317_000307	Rank %s
+UI_20150317_000308	%s 点数
+UI_20150317_000309	职业
+UI_20150317_000310	小队
+UI_20150317_000311	{@st59}关闭冒险日志{/}
+UI_20150317_000312	{@st43}冒险积分{/}
+UI_20150317_000313	{@st43}{s22}积分     
+UI_20150317_000314	{@st43}{s22}名称
+UI_20150317_000315	{@st43}{s22}分数
+UI_20150317_000316	{@st41}更多信息{/}
+UI_20150317_000317	{@st43}开始制作{/}
+UI_20150317_000318	{@st59}开始制作物品.{/}
+UI_20150317_000319	{@st44}键盘{/}
+UI_20150317_000320	{@st42}暂停
+UI_20150317_000321	{@st56}杀死{/}
+UI_20150317_000322	{@st56}超必杀{/}
+UI_20150317_000323	{@st56}撞击{/}
+UI_20150317_000324	{@st56}快嗝屁{/}
+UI_20150317_000325	法术
+UI_20150317_000326	防御
+UI_20150317_000327	魔法抗性
+UI_20150317_000328	暴击率
+UI_20150317_000329	{@st43}插槽管理{/}
+UI_20150317_000330	{@st59}关闭插槽管理{/}
+UI_20150317_000331	强化道具
+UI_20150317_000332	潜力值
+UI_20150317_000333	增加插槽费用 : {#ff9933}%s{/}{nl}取宝石费用 : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}增加插槽
+UI_20150317_000335	{@st41b}取宝石
+UI_20150317_000336	{@st41}制造{/}
+UI_20150317_000337	{@st41}%s  %s 个
+UI_20150317_000338	区域地图
+UI_20150317_000339	探索率 : 95.5%
+UI_20150317_000340	{@st45tw}探索率 %s%{/}
+UI_20150317_000341	{@st59}关闭地图 (M){/}
+UI_20150317_000342	{@st41}地图{/}
+UI_20150317_000343	Shift(clear), Ctrl(Medium Level)
+UI_20150317_000344	{ol}标题
+UI_20150317_000345	{@st41}添加{/}
+UI_20150317_000346	{@st41}删除{/}
+UI_20150317_000347	{@st41}保存{/}
+UI_20150317_000348	{@st41}自动{/}
+UI_20150317_000349	{@st41}初始化{/}
+UI_20150317_000350	{@st59}设置件数.{/}
+UI_20150317_000351	{ol}公会
+UI_20150317_000352	{ol}信息
+UI_20150317_000353	{ol}声音
+UI_20150317_000354	{@st41}迷你地图制作{/}
+UI_20150317_000355	{@st55}区域地图
+UI_20150317_000356	{@st43}{s22}标记地点{/}
+UI_20150317_000357	{@st43}{s24}标记地点{/}
+UI_20150317_000358	{@st42b}Cat.{/}
+UI_20150317_000359	{@st42b}类型{/}
+UI_20150317_000360	{@st42b}所需. Lvl{/}
+UI_20150317_000361	{@st42b}升级{/}
+UI_20150317_000362	{@st42b}名字
+UI_20150317_000363	{@st41b}获得道具%s
+UI_20150317_000364	{@st41b}出售道具
+UI_20150317_000365	{@st41b}搜索
+UI_20150317_000366	{@st59}关闭标记地点菜单{/}
+UI_20150317_000367	{@st42b}命令
+UI_20150317_000368	{@st41b}售卖品
+UI_20150317_000369	{@st43}{s22}接收道具
+UI_20150317_000370	{@st41b}接收全部
+UI_20150317_000371	{@st41b}获得道具
+UI_20150317_000372	{@st43}{s22}出售
+UI_20150317_000373	{@st42b}统计
+UI_20150317_000374	{@st42b}价格
+UI_20150317_000375	{@st42b}私人销售商{/}
+UI_20150317_000376	{@st41b}注册
+UI_20150317_000377	Siege Coin
+UI_20150317_000378	Someone killed someone
+UI_20150317_000379	{@st43}小游戏{/}
+UI_20150317_000380	{@st49}弹射{/}
+UI_20150317_000381	{@st44}调整方向{/}
+UI_20150317_000382	{@st44}射击{/}
+UI_20150317_000383	小游戏
+UI_20150317_000384	{s18}{ol}{gr gradation1}冰叮迷你游戏{/}
+UI_20150317_000385	{s16}你想加入这个迷你游戏吗?
+UI_20150317_000386	{s16}参与者 : (0/5)
+UI_20150317_000387	{s16}参与者 : (%s/%s)
+UI_20150317_000388	{s16}游戏会开始在 1 秒之后.
+UI_20150317_000389	{s16}游戏开始 %s 秒之后.
+UI_20150317_000390	{@st59}缩近{/}
+UI_20150317_000391	{@st59}缩远{/}
+UI_20150317_000392	{@st59}显示地图(M){/}
+UI_20150317_000393	{@st42b}区域地图
+UI_20150317_000394	{@st44}物品合成{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}请选择制造的物品{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}拖动材料道具到格子内
+UI_20150317_000397	{@st42}制造{/}
+UI_20150317_000398	{@st42}退出{/}
+UI_20150317_000399	%s信息
+UI_20150317_000400	Kepa or ...
+UI_20150317_000401	{@st41}{Details}
+UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
+UI_20150317_000403	{@st41} Kill {/}
+UI_20150317_000404	{@st41} Overkill {/}
+UI_20150317_000405	{@st41} Normal Kill {/}
+UI_20150317_000406	{@st41} Area {/}
+UI_20150317_000407	{@st41} Item {/}
+UI_20150317_000408	{@st41} Achievement {/}
+UI_20150317_000409	Object
+UI_20150317_000410	{@st43}死灵书{/}
+UI_20150317_000411	{@st59}关闭死灵书界面{/}
+UI_20150317_000412	{@st59}I我实在懒得去想.{/}
+UI_20150317_000413	召唤体 : {#ffcc33}%s{/}
+UI_20150317_000414	Undead Harpy
+UI_20150317_000415	技能 : %s
+UI_20150317_000416	技能1, 技能2
+UI_20150317_000417	需要碎片 : %s
+UI_20150317_000418	野兽 60 / 昆虫 20 / 变异 10
+UI_20150317_000419	Number of fragments
+UI_20150317_000420	零件1
+UI_20150317_000421	零件2
+UI_20150317_000422	零件3
+UI_20150317_000423	恭喜! 等级提升
+UI_20150317_000424	道具通知
+UI_20150317_000425	{@st64}内容{/}
+UI_20150317_000426	操作教程
+UI_20150317_000427	{@st42b}      Move character up, down, left, right{/}
+UI_20150317_000428	{@st42b}      Launch basic attack{/}
+UI_20150317_000429	{@st42b}Character jumps on the spot or while moving{/}
+UI_20150317_000430	{@st42b}Use two keys together to move diagonally{/}
+UI_20150317_000431	Fog Map Tools
+UI_20150317_000432	Killing monsters tools
+UI_20150317_000433	Minimap making tools
+UI_20150317_000434	Dialogue tools
+UI_20150317_000435	{@st43}Operator Settings{/}
+UI_20150317_000436	{@st59}Close Party Information{/}
+UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Create a Party by tapping on the bottom button{nl} - Make a 右键 on a character to invite him into the party{nl} - Adjust various settings of the current party in real time on the Settings Tab{nl} - The item condition of a party will be reseted to each Acquisition{nl}    when a user joins the party{/}
+UI_20150317_000438	{@st43}Party Information{/}
+UI_20150317_000439	{@st41b}Setup{/}
+UI_20150317_000440	{@st41b}Party Event{/}
+UI_20150317_000441	{@st41b}Settings{/}
+UI_20150317_000442	{@st41}Member{/}
+UI_20150317_000443	{@st41}Party Setup
+UI_20150317_000444	{@st41b}Public
+UI_20150317_000445	{@st41b}Private
+UI_20150317_000446	Level                                       ~
+UI_20150317_000447	{@st41}Item distribution rules
+UI_20150317_000448	{@st41b}Each Acquisition
+UI_20150317_000449	{@st41b}Ordered Acquisition
+UI_20150317_000450	{@st41b}Random Acquisition
+UI_20150317_000451	{@st41}Experience the distribution rules
+UI_20150317_000452	{@st41b}Each Taken
+UI_20150317_000453	{@st41b}Even Share
+UI_20150317_000454	{@st41b}Level Difference
+UI_20150317_000455	{@st41}Share Quest
+UI_20150317_000456	{@st41b}Active
+UI_20150317_000457	{@st41b}Disabled
+UI_20150317_000458	{@st41b}Create Party
+UI_20150317_000459	{@st43}Open Party List{/}
+UI_20150317_000460	{@st59b}Open Party List{nl}{@st59s} - Check the Open Party List for public parties who are searching for players{nl} - Use Search Options to filter all parties by your need{/}
+UI_20150317_000461	{@st59}Close Open Party List{/}
+UI_20150317_000462	Use Filters
+UI_20150317_000463	Quest Share
+UI_20150317_000464	Exp Dist. Rules
+UI_20150317_000465	Item Dist. Rules
+UI_20150317_000466	{@st43}邀请
+UI_20150317_000467	{@st41b}邀请{/}
+UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}
+UI_20150317_000469	{ol}Conditions for applying rules
+UI_20150317_000470	{ol}Action for applying rules
+UI_20150317_000471	Enter a name for the rule
+UI_20150317_000472	{Gr gradation1}Registration{/}
+UI_20150317_000473	Register Rules
+UI_20150317_000474	{Gr gradation1}Cancel{/}
+UI_20150317_000475	Cancel Action
+UI_20150317_000476	{@st43}Companion Info
+UI_20150317_000477	{@st59b} Companion info {nl} {@st59s} - sleep / activity button can be put into a companion minus {nl} - characteristics of a companion, items attached to timers {/}
+UI_20150317_000478	{@st59}关闭同伴信息{/}
+UI_20150317_000479	{@st41b}名字 : {@sti9}%s{/}
+UI_20150317_000480	{@sti9}%s{@st41b}熟悉 : {@sti9}%s {@st41b}级别{/}
+UI_20150317_000481	{@st41b}经验{/}
+UI_20150317_000482	{@st41b} stamina {/}
+UI_20150317_000483	亲密 {@st41b} {/}
+UI_20150317_000484	{@st41b}Attritbutes and Information
+UI_20150317_000485	{@st43}Companion List{/}
+UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on a Companion in the list to view details{/}
+UI_20150317_000487	{@st59}Close Companion List{/}
+UI_20150317_000488	{@st59}Close the Help Window{/}
+UI_20150317_000489	{@st59}Help{nl} - Helpful Information about game mechanics{nl} - Select items from the Help List to see the details{/}
+UI_20150317_000490	{@st43}Help Window{/}
+UI_20150317_000491	帮助提示
+UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed time : %s
+UI_20150317_000493	{@st43}Poison Pot{/}
+UI_20150317_000494	{@st59}Close Poison Pot UI{/}
+UI_20150317_000495	{@st59}Need to write{/}
+UI_20150317_000496	The amount of poison: %s
+UI_20150317_000497	Items that can be used to Craft poison
+UI_20150317_000498	Select All
+UI_20150317_000499	Click again to disable all
+UI_20150317_000500	Crafting
+UI_20150317_000501	shuffle shuffle mix and shuffle
+UI_20150317_000502	{@st43}物品{/}
+UI_20150317_000503	{@st43}我的{/}
+UI_20150317_000504	{@st43}Object{/}
+UI_20150317_000505	{@st43}Level{/}
+UI_20150317_000506	{@st43}资金{/}
+UI_20150317_000507	{@st43}Rate{/}
+UI_20150317_000508	{@st43}PvP승률{/}
+UI_20150317_000509	{@st59}关闭窗口{/}
+UI_20150317_000510	{@sti5}Total purchase amoun t: %s{/}
+UI_20150317_000511	{@sti5}Total amount : %s{/}
+UI_20150317_000512	{@st41b} Purchase
+UI_20150317_000513	{@st43} Acquired ingredients for manufacturing item!
+UI_20150317_000514	{@st43}Magnum Opus{/}
+UI_20150317_000515	{@st41}Delete All
+UI_20150317_000516	{@st42}연금 대상 {@stx1}(%s 소요){/}
+UI_20150317_000517	{@st41}Combination
+UI_20150317_000518	{@st43}Quest{/}
+UI_20150317_000519	{@st59b}Quest{nl}{@st59s} - Quest reminders are available for each quest{nl} - The Main-Quests are Yellow, The Sub-Quest are blue{nl} - The Quest location will be shown with an arrow character around the player{nl} - Instante Travel after completing a quest is possible{nl}  (Push Backspace or click the icon to teleport back to the NPC){nl} - You can activate / deactivate quest alerts infront of the quest name via a check box{/}
+UI_20150317_000520	{@st41b}  Active  {/}
+UI_20150317_000521	{@st41b}  Canceled  {/}
+UI_20150317_000522	{@st43}{s22}Quest Information{/}
+UI_20150317_000523	Mission
+UI_20150317_000524	{@st41}完成{/}
+UI_20150317_000525	任务进展情况信息
+UI_20150317_000526	{s18}{ol}任务信息
+UI_20150317_000527	{s16}剩余时间
+UI_20150317_000528	使用任务物品
+UI_20150317_000529	任务提示
+UI_20150317_000530	{@st41}确认{/}
+UI_20150317_000531	{@st43}{s22}探索完成{/}
+UI_20150317_000532	{@st41b}Complete{/}
+UI_20150317_000533	{@st41}受理{/}
+UI_20150317_000534	{@st41}拒绝{/}
+UI_20150317_000535	{@st44}返回{/}
+UI_20150317_000536	你想返回到任务吗?
+UI_20150317_000537	{@st41b}任务 class 名称{/}
+UI_20150317_000538	{@st59}Expend Slots{/}
+UI_20150317_000539	{@st59}Colapse Slots{/}
+UI_20150317_000540	{@st59}召唤同伴.{/}
+UI_20150317_000541	{@st44}菜单{/}
+UI_20150317_000542	{@st60}选择角色{/}
+UI_20150317_000543	{@st60}登出{/}
+UI_20150317_000544	{@st60}游戏结束{/}
+UI_20150317_000545	{@st60}游戏设置{/}
+UI_20150317_000546	{@st60}返回{/}
+UI_20150317_000547	{@st41}跳过教程{/}
+UI_20150317_000548	{@st41}选择人物{/}
+UI_20150317_000549	{@st41}登出{/}
+UI_20150317_000550	{@st41}游戏结束{/}
+UI_20150317_000551	{@st41}返回{/}
+UI_20150317_000552	{@st43}{s22}Gather Raid!
+UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can solve this problem.
+UI_20150317_000554	{@st43}{s22}游戏设置{/}
+UI_20150317_000555	{@sti7}Searching parties for raid..{/}
+UI_20150317_000556	{@st41b}取消参与
+UI_20150317_000557	{@st41b}我会解决!
+UI_20150317_000558	{@st41b}我考虑考虑...
+UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
+UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
+UI_20150317_000561	{@st41b}Increase the number of selections
+UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
+UI_20150317_000563	shadow_box tentativeremoval
+UI_20150317_000564	{@st43}排行{/}
+UI_20150317_000565	{@st59}关闭排行窗口{/}
+UI_20150317_000566	{@st41}击杀怪物 Top 100{/}
+UI_20150317_000567	{@st41}伤害 Top 100{/}
+UI_20150317_000568	{@st41}钱钱 Top 100{/}
+UI_20150317_000569	{@st41}升级 Top 100{/}
+UI_20150317_000570	{@st41b}菜单{/}
+UI_20150317_000571	{@st43}{s22}道具强化{/}
+UI_20150317_000572	{@st41b}目标物品
+UI_20150317_000573	{@st41b}铁砧
+UI_20150317_000574	{@st41}{s20}铁砧击打次数 :{@st43} %s
+UI_20150317_000575	{@st41}{s20}强化费用 : %s
+UI_20150317_000576	{@st41b}开始强化{/}
+UI_20150317_000577	{@st59}开始强化你的道具.{/}
+UI_20150317_000578	{@st59}关闭强化{/}
+UI_20150317_000579	{@st41b}选 {@sti9}%s개{/} 你确定要强化道具?{/}
+UI_20150317_000580	{@st43}Enhance
+UI_20150317_000581	{@st44}强化道具{/}
+UI_20150317_000582	{s24}{b}{#000000}强化完成!
+UI_20150317_000583	{@st41}继续强化{/}
+UI_20150317_000584	{@st41}关闭{/}
+UI_20150317_000585	{s18}{ol}{gr gradation1}装备修理{/}
+UI_20150317_000586	穿装备
+UI_20150317_000587	拥有装备
+UI_20150317_000588	{gr gradation1}全选{/}
+UI_20150317_000589	全选
+UI_20150317_000590	{gr gradation1}修理{/}
+UI_20150317_000591	{@st43}修理{/}
+UI_20150317_000592	需要修理的道具列表
+UI_20150317_000593	{@st41b}修理费用{/}
+UI_20150317_000594	{@st41b}Expected Balance{/}
+UI_20150317_000595	{@st41b}修理装备{/}
+UI_20150317_000596	修理所选的装备.
+UI_20150317_000597	{@st59}关闭修理物品{/}
+UI_20150317_000598	{@st43}修理物品{/}
+UI_20150317_000599	{@st41}需要修理的物品列表{/}
+UI_20150317_000600	{@st44}修理物品{/}
+UI_20150317_000601	{@st42}修理{/}
+UI_20150317_000602	{@st59}修理 as current settings{/}
+UI_20150317_000603	{@st59}无修理.{/}
+UI_20150317_000604	{@st44}Resume{/}
+UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}
+UI_20150317_000606	{@st41b}从最近点复活{/}
+UI_20150317_000607	{@st41b}原地复活(金币 %s个 需要){/}
+UI_20150317_000608	{@st41b}返回现场{/}
+UI_20150317_000609	{@st41b}放弃并重新开始{/}
+UI_20150317_000610	{@st41b}再尝试{/}
+UI_20150317_000611	复活的避难所(70031)
+UI_20150317_000612	必需物品.
+UI_20150317_000613	Rest Quickslot
+UI_20150317_000614	{@st43}气泡{/}
+UI_20150317_000615	Temporary Name
+UI_20150317_000616	{@st41b}{s18}缺少存储空间
+UI_20150317_000617	库存已满无法取得该物品.{nl}请整理库存.
+UI_20150317_000618	{@st44}设置道具获取!{/}
+UI_20150317_000619	请选择一个道具
+UI_20150317_000620	{@st59b}商店{nl}{@st59s} - 购买大量物品鼠标右击输入数量{nl} - 全部销售物品鼠标双击{/}
+UI_20150317_000621	{@st59}关闭商店{/}
+UI_20150317_000622	{@st59}首页{/}
+UI_20150317_000623	{@st59}下一页{/}
+UI_20150317_000624	{@st59}尾页{/}
+UI_20150317_000625	{@st41b}清空{/}
+UI_20150317_000626	{@st59}清空购物车{/}
+UI_20150317_000627	{@st41b}Confirm{/}
+UI_20150317_000628	{@st59}我决定交易{/}
+UI_20150317_000629	{@st43}商店{/}
+UI_20150317_000630	{@st41b}Shop Items{/}
+UI_20150317_000631	{@st41b}Inv. Items{/}
+UI_20150317_000632	{@st41b}Trade Cost ▶{/}
+UI_20150317_000633	{@st41b}Expected Gold ▶{/}
+UI_20150317_000634	{@st41b}Previous Sold Items{/}
+UI_20150317_000635	{@st41}Empty Slot{/}
+UI_20150317_000636	{@st43}Accept{/}
+UI_20150317_000637	{@st41}Trade Cost{/}
+UI_20150317_000638	{@st41}Expected Gold{/}
+UI_20150317_000639	{@st41}Received Items{/}
+UI_20150317_000640	{@sti1c}시모니
+UI_20150317_000641	{@st41}生产技能
+UI_20150317_000642	{@st42}级别 %s{/}
+UI_20150317_000643	生产成本
+UI_20150317_000644	生产编号
+UI_20150317_000645	大约 %s 秒钟需要消耗
+UI_20150317_000646	{@st41}创建
+UI_20150317_000647	{@st43}Class 技能属性{/}
+UI_20150317_000648	{@st59}关闭 Class 和技能{/}
+UI_20150317_000649	{@st59b}Class {nl}{@st59s}- Increase class circles to acquire skills {nl} - Can select 3 classes when Advancing from 1st to 2nd class {nl} - Can Advance to same class up to 3 times {nl} - Cannot change back to previous class when Advancing to another class {nl} - Consume all skill points to Advance {nl} - Can choose the same class {nl} {@st59b}Skills {nl}{@st59s}- Each rank's skill can be increased up to 5 levels {nl} - Attributes learned from masters can be seen below the skills {/}
+UI_20150317_000650	{@st41b}Apply{/}
+UI_20150317_000651	{@st59}Apply skill points{/}
+UI_20150317_000652	Cleric
+UI_20150317_000653	{@st59}Cancel point distribution{/}
+UI_20150317_000654	Learning{#ff4400}%s (%slevel){/}...
+UI_20150317_000655	Psychohassle
+UI_20150317_000656	%s mins left
+UI_20150317_000657	{@st43}姿势{/}
+UI_20150317_000658	{@st59}关闭姿势{/}
+UI_20150317_000659	{@st41}看板{/}
+UI_20150317_000660	{@st41}交易{/}
+UI_20150317_000661	{@st41}Social Functions{/}
+UI_20150317_000662	{@st41b}Write{/}
+UI_20150317_000663	{@st41}Register{/}
+UI_20150317_000664	{@st59}Register post{/}
+UI_20150317_000665	{@st41}Start MyPage{/}
+UI_20150317_000666	{@st59}Publish MyPage{/}
+UI_20150317_000667	{@st59}Write greetings{/}
+UI_20150317_000668	{@st41b}1. Menu{/}
+UI_20150317_000669	{@st41}Visit{/}
+UI_20150317_000670	{@st59}Visit MyPage{/}
+UI_20150317_000671	{@st41}Sell{/}
+UI_20150317_000672	{@st59}Sell item{/}
+UI_20150317_000673	{@st43}Living{/}
+UI_20150317_000674	{@st59}Close living{/}
+UI_20150317_000675	{@st41}View all{/}
+UI_20150317_000676	{@st41}Create Map{/}
+UI_20150317_000677	{@st41}%s/min (%s in hand){/}
+UI_20150317_000678	键盘 Warrior
+UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}
+UI_20150317_000680	{@st41_yellow}Employment Time
+UI_20150317_000681	{@st43}Graffiti{/}
+UI_20150317_000682	{@st59}Close Spray{/}
+UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}
+UI_20150317_000684	{@st41b}Colors{/}
+UI_20150317_000685	{@st41b}Quantity{/}
+UI_20150317_000686	{@st41b}Brush{/}
+UI_20150317_000687	{@st43}Draw{/}
+UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}
+UI_20150317_000690	{@st59}Save drawings{/}
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}
+UI_20150317_000692	{@st59}Load pictures that you drew.{/}
+UI_20150317_000693	{@st59}Selected color 1{/}
+UI_20150317_000694	{@st59}Selected color 2{/}
+UI_20150317_000695	{@st59}Color List{/}
+UI_20150317_000696	{@st59}Selected Brush{/}
+UI_20150317_000697	{@st59}Brush 1{/}
+UI_20150317_000698	{@st59}Brush 2{/}
+UI_20150317_000699	{@st59}Brush 3{/}
+UI_20150317_000700	{@st59}Brush 4{/}
+UI_20150317_000701	{@st59}Brush 5{/}
+UI_20150317_000702	{@st59}Brush 6{/}
+UI_20150317_000703	{@st49}People who like this{/}
+UI_20150317_000704	{s20}{#050505}Describe whatever
+UI_20150317_000705	{@st41} 全部 {/}
+UI_20150317_000706	{@st41} Party {/}
+UI_20150317_000707	{@st41} 怪物 {/}
+UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points: {@st46}%s
+UI_20150317_000709	{@st59b}角色细节{nl}{@st59s} - Status : Use Points obtained by leveling up to improve the five possible Status{nl} - Information : Character Status information according to the Stats{nl} - Archivements : Aquire Titles by completing missions{nl}{/}
+UI_20150317_000710	{@st41b}点数{/}
+UI_20150317_000711	{@st41b}标题{/}
+UI_20150317_000712	Job Class
+UI_20150317_000713	{@st43}角色信息
+UI_20150317_000714	{@st59}更改角色名称{/}
+UI_20150317_000715	{@st41b}同意
+UI_20150317_000716	{@st59}Apply status distribution{/}
+UI_20150317_000717	{@st41b}退出
+UI_20150317_000718	{@st59}Cancel status distribution{/}
+UI_20150317_000719	PC名称
+UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}
+UI_20150317_000721	{@st41_yellow}佣兵技能
+UI_20150317_000722	{@st43}攻击效果{/}
+UI_20150317_000723	{@st43}防御效果{/}
+UI_20150317_000724	{@st43}开始{/}
+UI_20150317_000725	systemmenu_vertical tentative removal
+UI_20150317_000726	{@st59}角色 信息 (F1){/}
+UI_20150317_000727	{@st59}物品栏 (F2){/}
+UI_20150317_000728	{@st59}职业 & 技能 (F3){/}
+UI_20150317_000729	{@st59}冒险 日志 (F4){/}
+UI_20150317_000730	{@st59}任务 (F5){/}
+UI_20150317_000731	{@st59}团队 (F6){/}
+UI_20150317_000732	{@st59}好友 (F7){/}
+UI_20150317_000733	{@st59}宏 (F8){/}
+UI_20150317_000734	{@st59}同伴 (F9){/}
+UI_20150317_000735	{@st59}帮助 (F10){/}
+UI_20150317_000736	{@st59}系统菜单 (Esc){/}
+UI_20150317_000737	{@st59}死灵之书{/}
+UI_20150317_000738	帮助(F1)
+UI_20150317_000739	内容
+UI_20150317_000740	可是细节
+UI_20150317_000741	{@st43}游戏设置{/}
+UI_20150317_000742	{@st43}显示信息{/}
+UI_20150317_000743	{@st41b}EXP 合计{/}
+UI_20150317_000744	{@st41b}角色信息{/}
+UI_20150317_000745	{@st41b}联队信息ONLY{/}
+UI_20150317_000746	{@st41b}任务向导{/}
+UI_20150317_000747	{@st43}屏幕{/}
+UI_20150317_000748	{@st43}显卡{/}
+UI_20150317_000749	{@st41b}全屏{/}
+UI_20150317_000750	{@st41b}窗口{/}
+UI_20150317_000751	{@st43}声音{/}
+UI_20150317_000752	{@st41b}特效调节 (%s){/}
+UI_20150317_000753	{@st41b}音乐调节 (%s){/}
+UI_20150317_000754	{@st41b}全部调节 (%s){/}
+UI_20150317_000755	{@st43}语言{/}
+UI_20150317_000756	{@st59}关闭游戏设置{/}
+UI_20150317_000757	{@st41b}最佳模式{/}
+UI_20150317_000758	{@st41b}实例{/}
+UI_20150317_000759	{@st59}积分{/}
+UI_20150317_000760	目标 buff 窗口
+UI_20150317_000761	{@st46}IMC友情标签
+UI_20150317_000762	{@st46}%s友情标签
+UI_20150317_000763	{@st46}点赞
+UI_20150317_000764	{@st46}声明
+UI_20150317_000765	{@st46}Use preservatives
+UI_20150317_000766	{@st46}移除图片
+UI_20150317_000767	Snow Hallucination
+UI_20150317_000768	Bouquet
+UI_20150317_000769	{@st41} 礼物
+UI_20150317_000770	请输入你的号码.
+UI_20150317_000771	{@st53b}%s 胜 %s 负
+UI_20150317_000772	{@st42}Today's Schedule
+UI_20150317_000773	{@st53}开始啦 :
+UI_20150317_000774	{@st53b}Gifts received : %s 个
+UI_20150317_000775	{@st43b}发送礼物给 %s{/}
+UI_20150317_000776	{@st55_a}下一场游戏
+UI_20150317_000777	{@st53}- 点击名字来查看{nl}- 右键送礼
+UI_20150317_000778	我的角色视角
+UI_20150317_000779	{@st55_a}超级恭喜!
+UI_20150317_000780	{@st42}切换视角
+UI_20150317_000781	{@st44}冒险日志{/}
+UI_20150317_000782	{@st59}更改视觉设置{/}
+UI_20150317_000783	{@st41} 统计 {/}
+UI_20150317_000784	{@st41} 制造 {/}
+UI_20150317_000785	{@st41} 狩猎 {/}
+UI_20150317_000786	{@st41} 帮助 {/}
+UI_20150317_000787	{@st44}Wiki 页面{/}
+UI_20150317_000788	{@st42}信息{/}
+UI_20150317_000789	{@st42}细节{/}
+UI_20150317_000790	{@st42}战役{/}
+UI_20150317_000791	{@st42}获得{/}
+UI_20150317_000792	{@st59}关闭页面{/}
+UI_20150317_000793	{@st43}战场
+UI_20150317_000794	{@st59}关闭战场.
+UI_20150317_000795	(Bronze 3)
+UI_20150317_000796	{@sti8}Points to earn today : {nl}%s{/}
+UI_20150317_000797	{@st41}Point Shop
+UI_20150317_000798	{@st41}Rankings
+UI_20150317_000799	{@st42}Battlefield schedule
+UI_20150317_000800	{@st42}Recent records
+UI_20150317_000801	{@st41}Receive EXP
+UI_20150317_000802	{@st41}PVP Page
+UI_20150317_000803	{@st41}Search
+UI_20150317_000804	{@st43}Battlefield Rankings
+UI_20150317_000805	{@st59}Close Battlefield rankings
+UI_20150317_000806	{@st56}Skill Name{/}
+UI_20150317_000807	{@st41}Check coordinates{/}
+UI_20150317_000808	{@st41}Find{/}
+UI_20150317_000809	{@st42b}Manage monster regen{/}
+UI_20150317_000810	{@st42b}Monster List{/}
+UI_20150317_000811	{@st42b}Create UI{/}
+UI_20150317_000812	{@st42b}Map Fog{/}
+UI_20150317_000813	{@st42b}Create Map{/}
+UI_20150317_000814	{@st42b}Create Minimap{/}
+UI_20150317_000815	{@st42b}Dialog {/}
+UI_20150317_000816	{@st42b}Change Quest Rewards{/}
+UI_20150317_000817	{@st42b}Group regen{/}
+UI_20150317_000818	{@st42b}Set map location{/}
+UI_20150317_000819	{@st42b}Skills map{/}
+UI_20150317_000820	{@st42b}List of events{/}
+UI_20150317_000821	{@st42b}Check coordinates{/}
+UI_20150317_000822	{@st42b} Check XAC, texture path{/}
+UI_20150317_000823	{@st42b}Performance ONOFF{/}
+UI_20150317_000824	对话列表
+UI_20150317_000825	搜索.
+UI_20150317_000826	{@st41}Preview{/}
+UI_20150317_000827	{@st41}Off{/}
+UI_20150317_000828	{@st41}移除{/}
+UI_20150317_000829	{@st41}全部保存{/}
+UI_20150317_000830	{@st41}Apply picture{/}
+UI_20150317_000831	{#FFFFFF}{ds}Select Event
+UI_20150317_000832	{#FFFFFF}{ds}Edit Event
+UI_20150317_000833	{ol}List
+UI_20150317_000834	The name of the group to save
+UI_20150317_000835	{@st42}Create New{/}
+UI_20150317_000836	{@st41}Group regen{/}
+UI_20150317_000837	{@st59}Enter the name of the monster to search{/}
+UI_20150317_000838	{@st59}Enter a name of the group to save{/}
+UI_20150317_000839	{@st41}New group{/}
+UI_20150317_000840	Filtering
+UI_20150317_000841	{@st59}Enter filter{/}
+UI_20150317_000842	{ol}Property Value
+UI_20150317_000843	Class List
+UI_20150317_000844	Apply to XML
+UI_20150317_000845	{#FFFFFF}{ds}Log
+UI_20150317_000846	{#FFFFFF}{ds}Vew all properties
+UI_20150317_000847	Enter search word.
+UI_20150317_000848	All attribute values
+UI_20150317_000849	{ol}Name
+UI_20150317_000850	{ol}Value
+UI_20150317_000851	Log
+UI_20150317_000852	{ol}Revision
+UI_20150317_000853	{ol}Log
+UI_20150317_000854	Class list
+UI_20150317_000855	XML Conversion
+UI_20150317_000856	{ol}Class name
+UI_20150317_000857	{ol}Property Name
+UI_20150317_000858	{ol}Changed value
+UI_20150317_000859	{ol}Apply
+UI_20150317_000860	Open Folder
+UI_20150317_000861	Check All
+UI_20150317_000862	History
+UI_20150317_000863	Rollback Value
+UI_20150317_000864	{ol}Select item
+UI_20150317_000865	Enter the name you want to search.
+UI_20150317_000866	{@st42}确认{/}
+UI_20150317_000867	{@st41}创建 UI{/}
+UI_20150317_000868	{ol}帧数
+UI_20150317_000869	{@st41}帧数{/}
+UI_20150317_000870	{@st41}按钮{/}
+UI_20150317_000871	{@st41}文本{/}
+UI_20150317_000872	{@st42b}普通{img btn_close}
+UI_20150317_000873	{@st42b}拍卖{img btn_close}
+UI_20150317_000874	{@st41}设置地图地标{/}
+UI_20150317_000875	{@st41}重命名{/}
+UI_20150317_000876	{@st59}填入你想要的词{/}
+UI_20150317_000877	{@st41}创建{/}
+UI_20150317_000878	{@st56}XML save{/}
+UI_20150317_000879	{@st56}重置{/}
+UI_20150317_000880	{@st56}属性{/}
+UI_20150317_000881	{@st56}值{/}
+UI_20150317_000882	{@st42}内容{/}
+UI_20150317_000883	{@st41}撤销{/}
+UI_20150317_000884	{@st41}全部保存{/}
+UI_20150317_000885	{@st41}XML Open{/}
+UI_20150317_000886	{@st42b}Fixed Skill : 0{/}
+UI_20150317_000887	{@st42b}Fixed skill : %s{/}
+UI_20150317_000888	{@st42b}Mouse homing{/}
+UI_20150317_000889	{@st42b}Skill name{/}
+UI_20150317_000890	{@st41}Monster list{/}
+UI_20150317_000891	{@st41}Performance Manager{/}
+UI_20150317_000892	{ol}Select Quest
+UI_20150317_000893	Enter the name of quest to search
+UI_20150317_000894	{ol}Select map
+UI_20150317_000895	Enter the name of the map you want to search.
+UI_20150317_000896	{@st42}Current map{/}
+UI_20150317_000897	{ol}Map name
+UI_20150317_000898	{ol}Coordinates
+UI_20150317_000899	{@st41}Change quest rewards{/}
+UI_20150317_000900	{@st59}Enter quest to search{/}
+UI_20150317_000901	{@st59}Enter the item to search for{/}
+UI_20150317_000902	{@st42}EXP
+UI_20150317_000903	{ol}Basic rewards
+UI_20150317_000904	{ol}Quantity
+UI_20150317_000905	{ol}Additional rewards
+UI_20150317_000906	{@st45}Frequently used cheats
+UI_20150317_000907	{@st41}Skills map{/}
+UI_20150317_000908	{@st42}Ability{/}
+UI_20150317_000909	{@st42}Warrior{/}
+UI_20150317_000910	{@st42}Wizard{/}
+UI_20150317_000911	{@st42}Archer{/}
+UI_20150317_000912	{@st42}Monk{/}
+UI_20150317_000913	{@st42}Sorcerer{/}
+UI_20150317_000914	{@st41}Skill{/}
+UI_20150317_000915	{@st59}Xml load{/}
+UI_20150317_000916	{@st41}Load{/}
+UI_20150317_000917	{@st59}Save as xml{/}
+UI_20150317_000918	{@st59}Reset Open Skill map{/}
+UI_20150317_000919	 {@st41}Reset{/}
+UI_20150317_000920	{@st59}Reset all Skill  maps{/}
+UI_20150317_000921	{@st41}Reset All{/}
+UI_20150317_000922	{S18}Remove script
+UI_20150317_000923	{S18}String argument
+UI_20150317_000924	{s18}string 1 argument
+UI_20150317_000925	{s18}string 2 argument
+UI_20150317_000926	{s18}Max skill level
+UI_20150317_000927	{@st59}Remove script type box{/}
+UI_20150317_000928	{@st59}Remove script argument{/}
+UI_20150317_000929	{@st59}Max skill level{/}
+UI_20150317_000930	{@st59}Save Property{/}
+UI_20150317_000931	{@st41}Save Property{/}
+UI_20150317_000932	{@st44}UI List{/}
+UI_20150317_000933	{ds}Addon List
+UI_20150317_000934	{ds}Fixed frame list
+UI_20150317_000935	{@st42}UI list{/}
+UI_20150317_000936	{@st59}show UI List{/}
+UI_20150317_000937	{@st42}Adjust location{/}
+UI_20150317_000938	{@st59}Adjust location{/}
+UI_20150317_000939	{@st42}Edit Property{/}
+UI_20150317_000940	{@st59}Edit property{/}
+UI_20150317_000941	{@st42}保存{/}
+UI_20150317_000942	{@st59}保存{/}
+UI_20150317_000943	{@st44}UI 属性编辑{/}
+UI_20150317_000944	{@st59}角色选择{/}
+UI_20150317_000945	{@st59}登出{/}
+UI_20150317_000946	{@st59}游戏设置{/}
+UI_20150317_000947	{@st59}退出游戏{/}
+UI_20150317_000948	{@st43}房屋设置{/}
+UI_20150317_000949	{@st59}关闭房屋设置{/}
+UI_20150317_000950	{@st42_b}{s18}{#f5c384}团队名称{/}
+UI_20150317_000951	{@st59}输入你的团队名称{/}
+UI_20150317_000952	{@st59}保存你的新团队名称{/}
+UI_20150317_000953	systemmenu_vertical 잠정삭제
+UI_20150317_000954	{@st59}Close Barrack Decorations{/}
+UI_20150317_000955	{@st43}Barrack Decorations{/}
+UI_20150317_000956	{@st41b}   皮肤   {/}
+UI_20150317_000957	{@st41b}   物品放置   {/}
+UI_20150317_000958	{@st41b}名称
+UI_20150317_000959	{@st41b}价格
+UI_20150317_000960	{@st41b}状态
+UI_20150317_000961	{@st44}新角色{/}
+UI_20150317_000962	{@st41b}{s22}请选择一个你想创建的 class{/}
+UI_20150317_000963	{@st41b}退出创建{/}
+UI_20150317_000964	{@st59}退出角色创建{/}
+UI_20150317_000965	选择一个角色
+UI_20150317_000966	{@st41}角色{/}
+UI_20150317_000967	{@st59}右转{/}
+UI_20150317_000968	{@st59}左转{/}
+UI_20150317_000969	{@st43b}角色旋转{/}
+UI_20150317_000970	{@st43}角色名称{/}
+UI_20150317_000971	{@st59}输入名称{/}
+UI_20150317_000972	{@st43b}选择性别{/}
+UI_20150317_000973	{@st59}女生{/}
+UI_20150317_000974	{@st59}男生{/}
+UI_20150317_000975	{@st43b}选择发型{/}
+UI_20150317_000976	{@st59}发型 1{/}
+UI_20150317_000977	{@st59}发型 2{/}
+UI_20150317_000978	{@st59}发型 3{/}
+UI_20150317_000979	{@st59}发型 4{/}
+UI_20150317_000980	{@st59}发型 5{/}
+UI_20150317_000981	{@st59}发型 6{/}
+UI_20150317_000982	{@st59}发型 7{/}
+UI_20150317_000983	{@st59}发型 8{/}
+UI_20150317_000984	{@st59}发型 9{/}
+UI_20150317_000985	{@st59}发型 10{/}
+UI_20150317_000986	{@st43b}选择 Class{/}
+UI_20150317_000987	{@st59}剑士{/}
+UI_20150317_000988	{@st59}巫师{/}
+UI_20150317_000989	{@st59}弓箭手{/}
+UI_20150317_000990	{@st59}服侍{/}
+UI_20150317_000991	{@st41b}参观军营{/}
+UI_20150317_000992	{@st59}参观别人的营房.{/}
+UI_20150317_000993	{@st41b}登出{/}
+UI_20150317_000994	{@st59}回到登录界面{/}
+UI_20150317_000995	{@st41b}离开游戏{/}
+UI_20150317_000996	{@st59}退出游戏{/}
+UI_20150317_000997	{@st41b}选择一个频道来开始游戏{/}
+UI_20150317_000998	{@st43}开始游戏{/}
+UI_20150317_000999	{@st59}你必须选择一个角色来开始游戏{/}
+UI_20150317_001000	{@st43}{s26}团队名称{/}
+UI_20150317_001001	{@st59}团队名称{/}
+UI_20150317_001002	{@st41b}团队名称修改{/}
+UI_20150317_001003	{@st59} 修改团队名称{/}
+UI_20150317_001004	{@st41}小伙伴{/}
+UI_20150317_001005	拖拽聊天
+UI_20150317_001006	{@st44}新对话框名称{/}
+UI_20150317_001007	{@st42}更改{/}
+UI_20150317_001008	{@st44}新窗口名称{/}
+UI_20150317_001009	{@st43}{s40}{gr gradation4}创建角色{/}
+UI_20150317_001010	{@st59}创建人物{/}
+UI_20150317_001011	{@st59}解除城堡{/}
+UI_20150317_001012	{@st59}关闭团队名称{/}
+UI_20150317_001013	{@st59}以输入的名称创建团队{/}
+UI_20150317_001014	{@st43}{s30}{#f0dcaa}团队名称!
+UI_20150317_001015	{@st41b} The team name is a name that represents all characters.{nl}can freely change the team name in the trade, guild, is a common name used in conversation.{/}
+UI_20150317_001016	登录背景
+UI_20150317_001017	提示
+UI_20150317_001018	游戏小提示
+UI_20150317_001019	登入
+UI_20150317_001020	用户名称
+UI_20150317_001021	{@st59}输入你的用户名称{/}
+UI_20150317_001022	密码
+UI_20150317_001023	{@st59}输入你的密码{/}
+UI_20150317_001024	{@st43}链接{/}
+UI_20150317_001025	{@st59}链接到选定服务器{/}
+UI_20150317_001026	{@st41b}重放{/}
+UI_20150317_001027	{@st41b}独立 模式{/}
+UI_20150317_001028	{@st41b}退出游戏{/}
+UI_20150317_001029	保存
+UI_20150317_001030	{@st59}如果你检查保存账户{/}
+UI_20150317_001031	服务器列表t
+UI_20150317_001032	{@st59}请选择一个你想登录的服务器{/}
+UI_20150317_001033	登录标题
+UI_20150317_001034	[内测版汉化by辣条汉化组]
+UI_20150317_001035	选项
+UI_20150317_001036	视觉距离
+UI_20150317_001037	{s20}{#BBBBBB}视觉距离
+UI_20150317_001038	视觉距离 :
+UI_20150317_001039	角色 :
+UI_20150317_001040	背景物品 :
+UI_20150317_001041	地形-水体(%) :
+UI_20150317_001042	地形-树木 (%) :
+UI_20150317_001043	地形-对象(%) :
+UI_20150317_001044	阴影
+UI_20150317_001045	{s20}{#BBBBBB}阴影贴图
+UI_20150317_001046	使用阴影贴图
+UI_20150317_001047	阴影质量 :
+UI_20150317_001048	SSAO 使用
+UI_20150317_001049	SSAO 方案 :
+UI_20150317_001050	SSAO 解析度 :
+UI_20150317_001051	倒影
+UI_20150317_001052	{s20}{#BBBBBB}倒影
+UI_20150317_001053	角色 倒影
+UI_20150317_001054	背景 倒影
+UI_20150317_001055	{s20}{#BBBBBB}Glow 设置
+UI_20150317_001056	Glow 使用
+UI_20150317_001057	{@st41}  攻击{/}
+UI_20150317_001058	{@st41}      防御{/}
+UI_20150317_001059	{@st41}生命{/}
+UI_20150317_001060	{@st41}        难点{/}
+UI_20150317_001061	{@st41}头发
+UI_20150317_001062	{@st41}循环
+UI_20150317_001063	{@st43}创建角色
+UI_20150317_001064	{@st59}创建选择的角色{/}
+UI_20150317_001065	{@st41b}退出选择
+UI_20150317_001066	{@st59}退出角色选择{/}
+UI_20150317_001067	人物详情
+UI_20150317_001068	{@t41}Bring Along
+UI_20150317_001069	{@St59}Click then select the character for companion to follow{/}
+UI_20150317_001070	UI of Item Creation
+UI_20150317_001071	{s24}名字 :
+UI_20150317_001072	{s16} 力量 :
+UI_20150317_001073	{s16} 体力 :
+UI_20150317_001074	{s16} 敏捷 :
+UI_20150317_001075	{s16} 精力 :
+UI_20150317_001076	{s16} 领导力 :
+UI_20150317_001077	{s18} 职业选择
+UI_20150317_001078	{S18} Right Way Union
+UI_20150317_001079	{S18} Providence Evil Union
+UI_20150317_001080	Hong Moo Moon
+UI_20150317_001081	Dae Do Cheon
+UI_20150317_001082	Fire Swords
+UI_20150317_001083	For adenomas hwageuk
+UI_20150317_001084	Puncture sex
+UI_20150317_001085	Yeonhwagyo
+UI_20150317_001086	{S16}Gender and Apperance
+UI_20150317_001087	Male
+UI_20150317_001088	Female
+UI_20150317_001089	Hair Adjustment
+UI_20150317_001090	Key Adjustment
+UI_20150317_001091	Shoulder Width
+UI_20150317_001092	Hand and Foot size
+UI_20150317_001093	Chest Size
+UI_20150317_001094	Waist Size
+UI_20150317_001095	Hip Size
+UI_20150317_001096	{S18} Head Size
+UI_20150317_001097	{S14} Height Adjustment
+UI_20150317_001098	{S14} Shoulder Width
+UI_20150317_001099	{S14} Hand and Foot size
+UI_20150317_001100	{S14} Chest Size
+UI_20150317_001101	{S14} Waist Size
+UI_20150317_001102	{S14} Pelvic Size
+UI_20150317_001103	Value of Pre-setup
+UI_20150317_001104	Value of Random setup
+UI_20150317_001105	Create New Character
+UI_20150317_001106	Cancel Create Character
+UI_20150317_001107	{@st43}{s40}{gr gradation4}播放开始{/}
+UI_20150317_001108	{@st43}{s40}{gr gradation4}退出预览{/}
+UI_20150317_001109	{@st43}{s40}{gr gradation4}返回加入{/}
+UI_20150317_001110	{@st59}正在返回加入.{/}
+UI_20150317_001111	{@st41b}返回{/}
+UI_20150317_001112	{@st59}我回到营房.{/}
+UI_20150317_001113	{@st43}{s24}营方名称{/}
+UI_20150317_001114	{@st59}营方名称{/}
+UI_20150317_001115	{@st41b}装饰品{/}
+UI_20150317_001116	{@st59}营房 装饰品{/}
+UI_20150317_001117	{@st41b}设置{/}
+UI_20150317_001118	{@st59}营房设置{/}
+UI_20150317_001119	制定项目的框架
+UI_20150317_001120	绿色
+UI_20150317_001121	浓度
+UI_20150317_001122	Like HP
+UI_20150317_001123	{@st59}主要附属品{/}
+UI_20150317_001124	{@st59}次要附属品{/}
+UI_20150317_001125	{@st42}文本{/}
+UI_20150317_001126	Name of a default content
+UI_20150317_001127	Name of a default group
+UI_20150317_001128	Name of a default item
+UI_20150317_001129	Mr Kim
+UI_20150317_001130	重量 : %s
+UI_20150317_001131	各种米制品
+UI_20150317_001132	%s 部族
+UI_20150317_001133	N/A
+UI_20150317_001134	禁止交易
+UI_20150317_001135	禁止强化
+UI_20150317_001136	各种各样
+UI_20150317_001137	系统名称
+UI_20150317_001138	N/A
+UI_20150317_001139	More than a few level
+UI_20150317_001140	Everyone can equipe
+UI_20150317_001141	Max Socket %s 个
+UI_20150317_001142	Item Name
+UI_20150317_001143	卖店价格 : %s Silver
+UI_20150317_001144	How much
+UI_20150317_001145	{@St42b}Full Exploration Rate of Siauliai{/}
+UI_20150317_001146	{@St42b}West Forest Area Explored{/}
+UI_20150317_001147	{@St18}Item{/}
+UI_20150317_001148	{@St18}My Ranking{/}
+UI_20150317_001149	Diamond
+UI_20150317_001150	N/A
+UI_20150317_001151	{@St18}Average{/}
+UI_20150317_001152	{@St42b}{s18}Workmanship{/}
+UI_20150317_001153	{@St55_c}Item Name
+UI_20150317_001154	{@St55_c}Memo Records
+UI_20150317_001155	{@St59}Enter the name. If you do not enter the name, A default name will be made.{/}
+UI_20150317_001156	{@St59}Enter the memo{/}
+UI_20150317_001157	{@St43}Produce items
+UI_20150317_001158	{@st42b}%s points {/}
+UI_20150317_001159	{@st42b}%s dog {/}
+UI_20150317_001160	{@st42b}%s points {/}
+UI_20150317_001161	{@st42b}%s dog {/}
+UI_20150317_001162	{S16}{ol}per price
+UI_20150317_001163	Total Price : 1
+UI_20150317_001164	{@St41}Help
+UI_20150317_001165	{@St41}Description of the photo
+UI_20150317_001166	{@St41}Registration
+UI_20150317_001167	{@St41}Name
+UI_20150317_001168	{@St41}消息
+UI_20150317_001169	{@St43}名字{/}
+UI_20150317_001170	{@St41b}消息{/}
+UI_20150317_001171	{@St42b}登入{/}
+UI_20150317_001172	{@St41}Create a new conversation
+UI_20150317_001173	{@St41}Full Conversation
+UI_20150317_001174	Region Name
+UI_20150317_001175	{@St41}Skill Names
+UI_20150317_001176	{@St41}Attribute Points
+UI_20150317_001177	{@St41}Class 名称
+UI_20150317_001178	角色名称
+UI_20150317_001179	{@sti7}删除{/}
+UI_20150317_001180	角色等级
+UI_20150317_001181	{@St42}Share Quest{/}
+UI_20150317_001182	{@St42}Share Experience{/}
+UI_20150317_001183	角色备忘录
+UI_20150317_001184	The average Level of Party : {#FFFF00}%s{/}
+UI_20150317_001185	Looking Party Player : {#FFFF00}%s{/}
+UI_20150317_001186	Cleric / Archer
+UI_20150317_001187	Share Quest : {#FFFF00}%s{/}
+UI_20150317_001188	N/A
+UI_20150317_001189	EXP Distribution : {#FFFF00}%s{/}
+UI_20150317_001190	Equal Distirbutions
+UI_20150317_001191	Item Distribution : {#FFFF00}%s{/}
+UI_20150317_001192	Distribute Randomly
+UI_20150317_001193	How do I
+UI_20150317_001194	You don't see who it is
+UI_20150317_001195	{@st41b} was added 冒险日志.
+UI_20150317_001196	Menu objects for Quest
+UI_20150317_001197	Categories of Quest
+UI_20150317_001198	List Objects of Quest
+UI_20150317_001199	N/A
+UI_20150317_001200	Line used on the roadmap
+UI_20150317_001201	Slot Object_Standard
+UI_20150317_001202	Slot Object_Cash Slot
+UI_20150317_001203	角色细节 Type 1
+UI_20150317_001204	角色细节 Type 2
+UI_20150317_001205	Inventory List Type 1
+UI_20150317_001206	Inventory List Type 2
+UI_20150317_001207	Inventory Slot Type
+UI_20150317_001208	View item details on the market
+UI_20150317_001209	Output of Item Name
+UI_20150317_001210	Output of the number of remaining
+UI_20150317_001211	Output of Value
+UI_20150317_001212	When you add it to cart
+UI_20150317_001213	Output of total value
+UI_20150317_001214	For item output
+UI_20150317_001215	Output of unit price
+UI_20150317_001216	Item category
+UI_20150317_001217	News
+UI_20150317_001218	{@St42b}Restart{/}
+UI_20150317_001219	Peltang Stang
+UI_20150317_001220	99 Circle
+UI_20150317_001221	Kill 8 Mad Vubbe
+UI_20150317_001222	Tooltip
+UI_20150317_001223	EXP: sad{br}+1 Enchantment Crystal (Attack)
+UI_20150317_001224	The Apprentice Sword
+UI_20150317_001225	修理 Durability :
+UI_20150317_001226	修理 Costs : 120 Silver
+UI_20150317_001227	修理 Costs : %s silver
+UI_20150317_001228	{@st42b}Bids Count {@sti7}%s{/}
+UI_20150317_001229	{@st42b}Current Price {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001230	{@St41}Buy immediately! {Img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001231	{@St41b}Receive items{/}
+UI_20150317_001232	{@st42b} Bidding Price {img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_001233	{@Sti7}Return
+UI_20150317_001234	{@St59}Head{/}
+UI_20150317_001235	{@St59}Left Bracelet{/}
+UI_20150317_001236	{@St59}Right Bracelet{/}
+UI_20150317_001237	{@St59}Costumes{/}
+UI_20150317_001238	{@st59}Ring2{/}
+UI_20150317_001239	宠物名字
+UI_20150317_001240	Chandler bundle
+UI_20150317_001241	West forest ..etc..
+UI_20150317_001242	Consume Coins
+UI_20150317_001243	Category Name
+UI_20150317_001244	这是帮助
+UI_20150317_001245	{@Sti7}%s 点数{/}
+UI_20150317_001246	{@st41b}%s 分数
+UI_20150317_001247	Clear Quest 25
+UI_20150317_001248	[Sub]Thron Forest
+UI_20150317_001249	{@St42}Equipped Item
+UI_20150317_001250	{@St44}Rank %s Class Information{/}
+UI_20150317_001251	Advancement Information
+UI_20150317_001252	Like Heart
+UI_20150317_001253	N/A
+UI_20150317_001254	%s 要求等级
+UI_20150317_001255	Memo : {#666666}%s
+UI_20150317_001256	Ayase
+UI_20150317_001257	Relationship with the %s
+UI_20150317_001258	{#FFFF33}%s{/} 邀请朋友{/}
+UI_20150317_001259	{@st41b}受理
+UI_20150317_001260	{@st41b}拒绝
+UI_20150317_001261	{@st53b}正在加载好友列表.
+UI_20150317_001262	级别 %s{/}
+UI_20150317_001263	{@st41}Cancel
+UI_20150317_001264	Please register the buff to sell.
+UI_20150317_001265	价格 : %s{/}
+UI_20150317_001266	剩余数量
+UI_20150317_001267	{@St41}Purchase
+UI_20150317_001268	Remaining number:%s {/}
+UI_20150317_001269	{@St41}Item{/}
+UI_20150317_001270	{@St41b} Memo
+UI_20150317_001271	{@St41b}Craft
+UI_20150317_001272	{@St41b}Price : %s{/}
+UI_20150317_001273	{@Sti5}Price : %s{/}
+UI_20150317_001274	{@Sti9} Party Quest (%s){/}
+UI_20150317_001275	{@st41_yellow} Map Explored %s% {/}
+UI_20150317_001276	{@st41_yellow} Score %s {/}
+UI_20150317_001277	{@st42b}{b}Achievement Rate{/}
+UI_20150317_001278	{@st59}Join Party Quest{/}
+UI_20150317_001279	Windows
+UI_20150317_001280	Status
+UI_20150317_001281	Tab
+UI_20150317_001282	Image Item
+UI_20150317_001283	Effects
+UI_20150317_001284	Control Set
+UI_20150317_001285	{@St41}Difficulty : %s
+UI_20150317_001286	{@St42}Remaining Time : %s
+UI_20150317_001287	{@St53}item crafting
+UI_20150323_001288	{@st59}Place your item here{/}
+UI_20150323_001289	{@st42}Cancel
+UI_20150323_001290	{@st42}OK
+UI_20150323_001291	{@st43}Briquetting{/}
+UI_20150323_001292	Current Potential
+UI_20150323_001293	Consume 材料
+UI_20150323_001294	Consume Qty
+UI_20150323_001295	Qty available
+UI_20150323_001296	{@sti6}Transaction Record
+UI_20150323_001297	{@st43}Basecamp
+UI_20150323_001298	Signboard Name
+UI_20150323_001299	{@st43}Build
+UI_20150323_001300	{@stc1}Basecamp Lasting Time
+UI_20150323_001301	{@stc1}Effects
+UI_20150323_001302	{@stc1}材料 and Price
+UI_20150323_001303	{@st41b}Basecamp
+UI_20150323_001304	{@st41b}Log
+UI_20150323_001305	{@st41b}Renew Time
+UI_20150323_001306	{@st59}Renew Lasting Time{/}
+UI_20150323_001307	{@st41b}Basecamp Lasting Time
+UI_20150323_001308	{@st41b}Effects
+UI_20150323_001309	{@st42b}Basecamp last for an additional 24 hours when renewed. %s silver is consumed.
+UI_20150323_001310	{@st41b}Personal Storage
+UI_20150323_001311	{@stc1}Storing and taking items in storage costs %s silver.{/}
+UI_20150323_001312	{@st41}{#ffff00}Fix Target{/}
+UI_20150323_001313	{@st43}Food distribution table
+UI_20150323_001314	{@st41b}Food type
+UI_20150323_001315	{@st41b}Table
+UI_20150323_001316	{@st59}Close food distribution table{/}
+UI_20150323_001317	{@st43}Grimore{/}
+UI_20150323_001318	{@st59}Close Grimore UI{/}
+UI_20150323_001319	My Summon Skill
+UI_20150323_001320	Main Card
+UI_20150323_001321	Sub Card
+UI_20150323_001322	Stat
+UI_20150323_001323	CON
+UI_20150323_001324	INT
+UI_20150323_001325	DEX
+UI_20150323_001326	CRT
+UI_20150323_001327	{@st43}设置店铺{/}
+UI_20150323_001328	{@st41b}设置
+UI_20150323_001329	每件道具的价格
+UI_20150323_001330	{@st41b}材料列表
+UI_20150323_001331	{@st43}Gem Roasting{/}
+UI_20150323_001332	{@st59}关闭 UI{/}
+UI_20150323_001333	{@st41b}修理{/}
+UI_20150323_001334	{@st41b}日志{/}
+UI_20150323_001335	获取价格
+UI_20150323_001336	{@st59}Put gem here{/}
+UI_20150323_001337	Consume 材料
+UI_20150323_001338	Amount Left
+UI_20150323_001339	{@st42}Close
+UI_20150323_001340	{@st43}修理 武器{/}
+UI_20150323_001341	{@st43}修理 装备{/}
+UI_20150323_001342	{@st41b}Price to receive
+UI_20150323_001343	{@st41b}材料
+UI_20150323_001344	{@st43}修理{/}
+UI_20150323_001345	{@st41b}修理{/}
+UI_20150323_001346	Skill Level
+UI_20150323_001347	{@st41}No. of players to enter
+UI_20150323_001348	{@st43}Item upgrade dungeon
+UI_20150323_001349	{@st41}材料 需求
+UI_20150323_001350	{@st59}材料 需求{/}
+UI_20150323_001351	推荐 level : %s
+UI_20150323_001352	{@st43}UI 选择模式{/}
+UI_20150323_001353	{@st43}Purchase Shop Menu
+UI_20150323_001354	Shop Name
+UI_20150323_001355	{@st41b}Open Shop
+UI_20150323_001356	{@st59}Open a Purchase Shop{/}
+UI_20150323_001357	{@st59}Cancel{/}
+UI_20150323_001358	{@st59}Close the Purchase Shop Menu{/}
+UI_20150323_001359	Request 买入
+UI_20150323_001360	{@st59}Close 买入店铺
+UI_20150323_001361	{@st59}买入店铺{nl} - Trade your items for silver
+UI_20150323_001362	{@st43}Items the buyer want{/}
+UI_20150323_001363	{@st43}Items for sale
+UI_20150323_001364	{@st43}Total Profit
+UI_20150323_001365	{@st41}Sell
+UI_20150323_001366	{@st41}Alchemy 材料
+UI_20150323_001367	{@st41}For Alchemy {@stx1}(%s 需求){/}
+UI_20150323_001368	{@st59}Summon Pet.{/}
+UI_20150323_001369	{@st41b}角色设置{/}
+UI_20150323_001370	{@st59}Grimoire{/}
+UI_20150323_001371	{@st41b}Enable Bloom{/}
+UI_20150323_001372	{@st41b}Enable Fog of War{/}
+UI_20150323_001373	{@st41b}Enable FXAA{/}
+UI_20150323_001374	{@st41b}Enable GLOW{/}
+UI_20150323_001375	{@st41b}Enable Depth{/}
+UI_20150323_001376	{@st41b}Enable SoftParticle{/}
+UI_20150323_001377	{@st43}Personal Storage{/}
+UI_20150323_001378	{@st59}Close Personal Storage.{/}
+UI_20150323_001379	{@sti6}Storing and taking item from strorage costs %s silver..{/}
+UI_20150323_001380	{@st59}Switch 武器 set (Alt+Z){/}
+UI_20150323_001381	{@st59}保存房屋设置{/}
+UI_20150323_001382	更改房间
+UI_20150323_001383	{@st59}关闭房屋更改.
+UI_20150323_001384	{@st59}房屋更改nl} - Change the map of the house and extend the number of characters who can be created.
+UI_20150323_001385	{@st41}退出预览
+UI_20150323_001386	{@st46}我的金币 : %s{/}
+UI_20150323_001387	{@st41b}房屋更改{/}
+UI_20150323_001388	{@st59}家居装饰{/}
+UI_20150323_001389	{@st41b}房屋设置{/}
+UI_20150323_001390	{@st59}更房屋设置{/}
+UI_20150323_001391	{@st45ty}角色问候语{/}
+UI_20150323_001392	{@st45ty}采购中心
+UI_20150323_001393	{@st41b}编辑
+UI_20150323_001394	{@st59}更改角色问候语{/}
+UI_20150323_001395	{@st59}Set 买入店铺{/}
+UI_20150323_001396	Purchast Qty. : %s{/}
+UI_20150323_001397	Search items to buy
+UI_20150323_001398	Qty.
+UI_20150323_001399	价格/个
+UI_20150323_001400	{@sti5}%s 个{/}
+UI_20150323_001401	{@st41}吃
+UI_20150323_001402	{@st41}制作
+UI_20150323_001403	{@st41}Craft Qty
+UI_20150323_001404	{@st41}Consume 材料
+UI_20150401_001405	{@st59}CLsoe Briquetting{/}
+UI_20150401_001406	{@st41}Disband Basecamp
+UI_20150401_001407	{@st43}[%s Circle]{/}
+UI_20150401_001408	{@st43}Skill{/}
+UI_20150401_001409	{@st43}Class Tip{/}
+UI_20150401_001410	Class Tip
+UI_20150401_001411	{@st42}{#ffff00}Fix Target {/}
+UI_20150401_001412	{@st41}Disband table
+UI_20150401_001413	{@st43}Tincturing{/}
+UI_20150401_001414	Joystick Quick Slot
+UI_20150401_001415	{@st42}{#ffff00}键盘 Mode{/}
+UI_20150401_001416	{@st43}Open offerings box
+UI_20150401_001417	{@st41b}Open
+UI_20150401_001418	{@st41b}Offering box
+UI_20150401_001419	{@st41}Offerings box name
+UI_20150401_001420	Price paid
+UI_20150401_001421	Estimated profit
+UI_20150401_001422	Funds
+UI_20150401_001423	{@st45tw}Offering box item details
+UI_20150401_001424	{@st41}Sell All
+UI_20150401_001425	{@st43}Offerings box
+UI_20150401_001426	Give offerings
+UI_20150401_001427	Settle Transaction
+UI_20150401_001428	Estimated Balance
+UI_20150401_001429	{@st45tw}Offerings Box
+UI_20150401_001430	{@st41}Empty
+UI_20150401_001431	{@st43}Current zone user list{/}
+UI_20150401_001432	{@st59}Close GM UI list{/}
+UI_20150401_001433	{@st41}Party Description :
+UI_20150401_001434	{s20}Amount of Poison {s28}{b}{#ff6600}%s
+UI_20150401_001435	材料 for Poison
+UI_20150401_001436	{@st41b}Select All{/}
+UI_20150401_001437	{@st59}Deselect all when clicking again{/}
+UI_20150401_001438	{@st41b}Craft{/}
+UI_20150401_001439	{@st59}Mix mix turn and mix{/}
+UI_20150401_001440	{@st41b}成就{/}
+UI_20150401_001441	发色
+UI_20150401_001442	可用标题
+UI_20150401_001443	{@st41b}Joystick UI mode{/}
+UI_20150401_001444	{@st41}{#ffffcc}Name
+UI_20150401_001445	{@st41}{#ffffcc}Price
+UI_20150401_001446	{@st41}{#ffffcc}Status
+UI_20150401_001447	{@st41b}Cancel Preview
+UI_20150401_001448	{@st41}{#ffff00}My Coins : %s{/}
+UI_20150401_001449	Equipped
+UI_20150401_001450	Description : {#FFFF00}%s{/}
+UI_20150401_001451	Average Level : {#FFFF00}%s{/}
+UI_20150401_001452	Conditions
+UI_20150401_001453	Title %s
+UI_20150401_001454	Reward %s
+UI_20150401_001455	{@st42}Amount
+UI_20150406_001456	{@st43}Basecamp
+UI_20150406_001457	{@st42}Construct
+UI_20150406_001458	{@st42}Cancel
+UI_20150406_001459	{@stc1}Camp duration
+UI_20150406_001460	{@st41b}Basecamp
+UI_20150406_001461	{@st41b}Camp duration
+UI_20150406_001462	{@st42b}Basecamp last for an additional 24 hours when renewed. {nl}%s silver is consumed.
+UI_20150406_001463	{@st41}Disband Camp
+UI_20150406_001464	{@st42}Disband Table
+UI_20150406_001465	{@st59b}Grimore{nl}{@st59s} - Place card on deck and begin summon{/}
+UI_20150406_001466	{@st41}My Summon Skill
+UI_20150406_001467	{@st41}Stat
+UI_20150406_001468	{@st41b}Offerings Box Name
+UI_20150406_001469	{@st41b}Details of item offering
+UI_20150406_001470	{@st59}Close 买入店铺
+UI_20150406_001471	{@st59b}买入店铺{nl}{@st59s} - Trade items for silver
+UI_20150406_001472	{@st41b}Client's item request{/}
+UI_20150406_001473	{@st41b}Registered iem for sale{/}
+UI_20150406_001474	{@st41b}Total income
+UI_20150406_001475	{@st41b}Sell
+UI_20150406_001476	{@st59}Sell registered item{/}
+UI_20150406_001477	{@st59}Close Personal Storage{/}
+UI_20150406_001478	{@st41b} %s silver is consumed when storing and taking items from Storage.{/}
+UI_20150406_001479	{@st41b}Qty.
+UI_20150414_001480	{@st42b}Camp duration is increased when reset.{nl} Costs %s silver .
+UI_20150414_001481	{@st41b}Type {@sti7}%s{/}
+UI_20150414_001482	{@st41b}Control Difficulty {@sti7}%s{/}
+UI_20150414_001483	{@st59b} Item {/}
+UI_20150414_001484	{@st59b} Monster {/}
+UI_20150414_001485	{@st59b} Move Map {/}
+UI_20150414_001486	{@st59b} Battle Command {/}
+UI_20150414_001487	{s26}{b}ea
+UI_20150414_001488	{s26}{b}Level
+UI_20150414_001489	{@st44}{s26}Level
+UI_20150414_001490	{@st59b}{s26}ea
+UI_20150414_001491	{@st41b}Cook
+UI_20150414_001492	{@st41b}Food
+UI_20150414_001493	{@st42}Disband table
+UI_20150414_001494	{@st41b}Record{/}
+UI_20150414_001495	{@st41}Party Description
+UI_20150414_001496	{@st41b}Enter{/}
+UI_20150414_001497	Roasting Level %s
+UI_20150428_001498	{@st43}买入店铺{/}
+UI_20150428_001499	{@st41b}关闭
+UI_20150428_001500	{@st41b}漏洞报告
+UI_20150428_001501	{@st59}问题告示{/}
+UI_20150428_001502	你制作漏洞报告的时候将会发送当前游戏截图. 这些文件对于解决漏洞非常有用. 你希望发送它吗?
+UI_20150428_001503	{@st41b}漏洞描述 :{/}
+UI_20150428_001504	{@st41b}Entering bug desciption is not a requirement but it will help us a lot in analyzing the bug.
+UI_20150428_001505	{@st41b}发送
+UI_20150428_001506	{@st42}{s14}{#ffff00}Fix Target{/}
+UI_20150428_001507	{@st59}Fix target regardless of distance or direction
+UI_20150428_001508	Party match found!
+UI_20150428_001509	Joystick Rest Quickslot
+UI_20150428_001510	{@st41b}Rest Mode
+UI_20150428_001511	Joypad Tutorial
+UI_20150428_001512	{@st59}Close Joypad tutorial.(M){/}
+UI_20150428_001513	键盘 Tutorial
+UI_20150428_001514	{@st44}登出{/}
+UI_20150428_001515	{@st41b}Leave Helper(需要 %s 金币){/}
+UI_20150428_001516	Socket Addition Cost : {#ff9933}%s{/}{nl}Gem Removal Cost : {#ff9933}%s{/}
+UI_20150428_001517	{@st41b}Remove Gem
+UI_20150428_001518	{@st42}{s14}{#ffff00}UI Mode{/}
+UI_20150428_001519	{@st59}Use 键盘 or joypad to control UI
+UI_20150428_001520	使用组队搜素 
+UI_20150428_001521	When a character matching your party conditions is found {nl}[Party match found!] notice will be shown.
+UI_20150428_001522	{@st41}队伍模式{/}
+UI_20150428_001523	任务 
+UI_20150428_001524	狩猎
+UI_20150428_001525	事件
+UI_20150428_001526	{@st41}Level Difference{/}
+UI_20150428_001527	Not related
+UI_20150428_001528	{@st41}Desired Class Type{/}
+UI_20150428_001529	{@st41b}Leave Party
+UI_20150428_001530	{@st59}Search by party description{/}
+UI_20150428_001531	{s18}{ol}{gr gradation1}Helper Rules{/}
+UI_20150428_001532	{@st59}Proceed manufacturing.{/}
+UI_20150428_001533	{@st45ty}Hair Color
+UI_20150428_001534	{@st45ty}可用标题
+UI_20150428_001535	{@st41_yellow}Helper Skill
+UI_20150428_001536	{@st41b}显示其他玩家名称{/}
+UI_20150428_001537	{@st43}UI Mode{/}
+UI_20150428_001538	{@st41b}Auto{/}
+UI_20150428_001539	{@st41b}手柄{/}
+UI_20150428_001540	{@st41b}键盘{/}
+UI_20150428_001541	手柄
+UI_20150428_001542	{@st59}手柄信息{/}
+UI_20150428_001543	键盘
+UI_20150428_001544	{@st59}键盘信息{/}
+UI_20150428_001545	{@st43}显卡设置{/}
+UI_20150428_001546	{@st43}Performance{/}
+UI_20150428_001547	{@st41b}Low-spec Mode{/}
+UI_20150428_001548	{@st41b}Auto Adjustment{/}
+UI_20150428_001549	{@st41b}不使用{/}
+UI_20150428_001550	Game FAQ
+UI_20150428_001551	Players : (%s/%s)
+UI_20150428_001552	At least level 100 : (%s/%s)
+UI_20150511_001553	{@st41}Link Party Invitation
+UI_20150714_001554	{@st66b}道具卖出 : %s 个 / 道具未卖出 : %s 个{/}
+UI_20150714_001555	{@st41b}Transaction Record
+UI_20150714_001556	{@st41b}Disband Camp
+UI_20150714_001557	Card Battle
+UI_20150714_001558	{@st64}%s Win(s) {/}
+UI_20150714_001559	Select Card
+UI_20150714_001560	Adventure Rank{#ffff00}%s{/} ({#ffff00}%s{/} ranking)
+UI_20150714_001561	{@st66b}Like!
+UI_20150714_001562	我喜欢这个角色 {#ffff00}%s{/}
+UI_20150714_001563	{@st41b}Disband Foold Distribution Counter
+UI_20150714_001564	{@st42}My summon skill
+UI_20150714_001565	{@st42}Stat
+UI_20150714_001566	{@st42}Current Location : %s{/}
+UI_20150714_001567	{@st59b}佩戴装备{nl}{@st59s} - 头发/服装 : 可以改变外形的装备{nl} - 武器 : 单手或双手装备{nl}   (佩戴单手武器时可装备副手武器或盾牌 ){nl} - 装甲 : 上衣, 裤子, 手套, 鞋子 穿着{nl} - 配饰 : 项链 1个, 手镯 2个 穿着{nl}   (手镯2는 Alt키로 比较 보기/장착 가능){/}
+UI_20150714_001568	{@st43}Open %s shop {/}
+UI_20150714_001569	{@st41b}Roasting{/}
+UI_20150714_001570	{@st66}Select All
+UI_20150714_001571	{@st43}Craft Arrow{/}
+UI_20150714_001572	{@st59} Close UI{/}
+UI_20150714_001573	{@st66b}Check{/}
+UI_20150714_001574	{@st66b}Leave Helper(Coins %s are 需求){/}
+UI_20150714_001575	Socket Add Price : {#000000}%s{/} {nl}Gem Extract Price : {#000000}%s{/}
+UI_20150714_001576	{ds}Recommend Levels : %s
+UI_20150714_001577	Explored : 50.0%
+UI_20150714_001578	{@st45tw}[Explored %s%]{/}
+UI_20150714_001579	>>More Views..
+UI_20150714_001580	%s (%s Rank)
+UI_20150714_001581	Job Name
+UI_20150714_001582	{@st41b}Invite
+UI_20150714_001583	{@st41}If you want to use the Joypad or Mouse, you can select it from the game setting in system menu.{nl}
+UI_20150714_001584	When you meet character matching your party conditions, {nl}[Party match found!] notice will be shown.{nl}You will also be recommended to other parties.
+UI_20150714_001585	{@st42}Play Style{/}
+UI_20150714_001586	{@st42}Level Difference{/}
+UI_20150714_001587	Any
+UI_20150714_001588	{@st42}Class Type{/}
+UI_20150714_001589	{@st42}Party Name : %s{/}
+UI_20150714_001590	{@st42}Description{/}
+UI_20150714_001591	{@st42}Enter{/}
+UI_20150714_001592	{@st42}Item Distribution Rule
+UI_20150714_001593	{@st42}EXP Distribution Rule
+UI_20150714_001594	Get Separately
+UI_20150714_001595	Equal Distribution
+UI_20150714_001596	Different by Level
+UI_20150714_001597	{@st42}Quest Share
+UI_20150714_001598	Disable
+UI_20150714_001599	{@st42}Register as Public Party{/}
+UI_20150714_001600	Level
+UI_20150714_001601	{@st42}Use 'Recommend Party'{/}
+UI_20150714_001602	By Distance
+UI_20150714_001603	By Class
+UI_20150714_001604	By Level
+UI_20150714_001605	By Quest
+UI_20150714_001606	By Friendship
+UI_20150714_001607	{@st42}Share Party Invitation Link
+UI_20150714_001608	>>Party Preview..
+UI_20150714_001609	Party Name : %s
+UI_20150714_001610	Party Description : %s
+UI_20150714_001611	Organization Time : %s ago
+UI_20150714_001612	Party Members : %s/5
+UI_20150714_001613	Join
+UI_20150714_001614	{@st59}Search by Party Name or Description{/}
+UI_20150714_001615	Simple Help Details
+UI_20150714_001616	{@st43}消息盒子
+UI_20150714_001617	{@st41b}Entire
+UI_20150714_001618	{@st41b}Unread 消息盒子
+UI_20150714_001619	{@st43}{s22}选择一个角色来接受道具.{/}
+UI_20150714_001620	{@st41b}Enhancement
+UI_20150714_001621	{@st66}List items for 修理
+UI_20150714_001622	{@st43}Simoni
+UI_20150714_001623	{@st59}Increase skills{/}
+UI_20150714_001624	{@st59}Close Skills and Attribute{/}
+UI_20150714_001625	{@st43}Skills and Attributes{/}
+UI_20150714_001626	Remaining Status Points {nl}{@st46}%s
+UI_20150714_001627	收到赞! : %s
+UI_20150714_001628	{@st66b}显示 EXP 获取{/}
+UI_20150714_001629	{@st66b}显示角色名称{/}
+UI_20150714_001630	{@st66b}只显示 Team Name{/}
+UI_20150714_001631	{@st66b}显示其他玩家的名称{/}
+UI_20150714_001632	{@st66b}自动{/}
+UI_20150714_001633	{@st66b}手柄{/}
+UI_20150714_001634	{@st66b}键盘{/}
+UI_20150714_001635	{@st66b}鼠标
+UI_20150714_001636	{@st66b}全屏幕{/}
+UI_20150714_001637	{@st66b}窗口模式{/}
+UI_20150714_001638	{@st66b}音效音量 (%s){/}
+UI_20150714_001639	{@st66b}BGM 音量 (%s){/}
+UI_20150714_001640	{@st66b}音量 (%s){/}
+UI_20150714_001641	{@st66b}低效模式{/}
+UI_20150714_001642	{@st66b}自动配置{/}
+UI_20150714_001643	{@st66b}不使用{/}
+UI_20150714_001644	{@st66b}确认 Bloom{/}
+UI_20150714_001645	{@st66b}确认 贴图{/}
+UI_20150714_001646	{@st66b}确认 FXAA{/}
+UI_20150714_001647	{@st66b}确认 GLOW{/}
+UI_20150714_001648	{@st66b}确认 景深{/}
+UI_20150714_001649	{@st66b}确认 软粒子{/}
+UI_20150714_001650	{@st66b}确认 高质量贴图 {/}
+UI_20150714_001651	{@st66b}垂直同步 On{/}
+UI_20150714_001652	{@st66b}垂直同步 Off{/}
+UI_20150714_001653	{@st66b} %s 从仓库储存和取出道具的时候会消耗银币.{/}
+UI_20150714_001654	%s 赞我
+UI_20150714_001655	{@st41}看戏
+UI_20150714_001656	{@st66b}退出看戏
+UI_20150714_001657	找到一个游戏. 你想来一发吗?
+UI_20150714_001658	{@st41}参加
+UI_20150714_001659	{@st41}拒绝
+UI_20150714_001660	游戏结束
+UI_20150714_001661	死亡
+UI_20150714_001662	破环
+UI_20150714_001663	{@st41}返回区域
+UI_20150714_001664	{@st41b}范围区域刚刚 %s 秒钟...{/}
+UI_20150714_001665	{@st59}打开消息盒子{/}
+UI_20150714_001666	{@st42}更改房屋{/}
+UI_20150714_001667	{@st42}房屋设置{/}
+UI_20150714_001668	{@st65}%s 分数{/}
+UI_20150714_001669	{@st65}%s 个{/}
+UI_20150714_001670	{@st65}% 分数{/}
+UI_20150714_001671	{@st65}%s 个{/}
+UI_20150714_001672	图片描述
+UI_20150714_001673	{#000000}%s 秒钟
+UI_20150714_001674	{#000000}%s 装备了
+UI_20150714_001675	团队名称 : {#2c140c}%s{/}
+UI_20150714_001676	描述 : {#2c140c}%s{/}
+UI_20150714_001677	平均 Level : {#2c140c}%s{/}
+UI_20150714_001678	寻找团队成员 : {#2c140c}%s{/}
+UI_20150714_001679	分享任务 : {#2c140c}%s{/}
+UI_20150714_001680	EXP 分配规则 : {#2c140c}%s{/}
+UI_20150714_001681	道具 分配规则 : {#2c140c}%s{/}
+UI_20150714_001682	你在团队里玩的爽吗?
+UI_20150714_001683	{@st42} 获取了 %s 到 %s
+UI_20150714_001684	{@st42} 强化了 %s 来自 %s
+UI_20150714_001685	备忘录 :%s
+UI_20150714_001686	{@st59}添加材料到道具栏.{/}
+UI_20150714_001687	{@st66b}价格 : %s{/}
+UI_20150714_001688	角色问候语
+UI_20150714_001689	买入店铺
+UI_20150714_001690	%s 个
+UI_20150714_001691	{@41b}条件
+UI_20150714_001692	{@st41}删除
+UI_20150714_001693	{@st41}刷新
+UI_20150717_001694	赞这个玩家 {#ffff00}%s{/}
+UI_20150717_001695	{@st41b}{s56}这个游戏是 {#0066FF}
+UI_20150717_001696	Rated T.
+UI_20150717_001697	{s40} {nl}Playing the game for long hours may negatively affect your health.{/}e
+UI_20150717_001698	{@st66b}Enter
+UI_20150717_001699	{@st42}My Summon Info
+UI_20150717_001700	You movement slows down when you do not have enough{@st59}STA{/}
+UI_20150717_001701	{@st59}Arrange Inventory{/}
+UI_20150717_001702	整理
+UI_20150717_001703	{@st59}Close Joypad Control Info.{/}
+UI_20150717_001704	{@st59}Close 键盘 Control info.{/}
+UI_20150717_001705	Mouse Tutorial
+UI_20150717_001706	{@st59}关闭鼠标说明.{/}
+UI_20150717_001707	攻击力 : %s
+UI_20150717_001708	防御力 : %s
+UI_20150717_001709	力量 : %s
+UI_20150717_001710	体力 : %s
+UI_20150717_001711	智力 : %s
+UI_20150717_001712	敏捷 : %s
+UI_20150717_001713	精神 : %s
+UI_20150717_001714	{@st42b}剑士系列连按两次方向键可以快速奔跑{/}
+UI_20150717_001715	{@st42}Party Name and Description{/}
+UI_20150717_001716	{@st42}Insert Party Invitation Tag
+UI_20150717_001717	{@st41b}Public Party List{/}
+UI_20150717_001718	{@st41b}Recommended Character List{/}
+UI_20150717_001719	{@st41b}Receive Recommendation
+UI_20150717_001720	This can only be used by party leaders.
+UI_20150717_001721	You must use the Party Member Recommendation function.
+UI_20150717_001722	{@st66b}Quest Class Name{/}
+UI_20150717_001723	{@st59b}Shop{nl}{@st59s} - Use Shift + Right-click and enter quantity to buy/sell multiple items{nl} - Right-click twice to sell all the item{/}
+UI_20150717_001724	{@st59}Mouse Info{/}
+UI_20150717_001725	{@st66b}Arrange
+UI_20150717_001726	{@st59}Arrange items.{/}
+UI_20150717_001727	{@st59}装备武器{nl}Alt+Z 来变换武器{/}
+UI_20150717_001728	Watch as observer
+UI_20150717_001729	{@st41}战场
+UI_20150717_001730	结果
+UI_20150717_001731	{@st41}立刻移动
+UI_20150717_001732	{@St41b}       The Team Name represents your characters.{nl}      It is the common name used within the game.{nl}               Team Name may be changed later on.{/}
+UI_20150729_001733	{@st42}只显示可用的{/}
+UI_20150729_001734	Leg Count
+UI_20150729_001735	高度
+UI_20150729_001736	重量
+UI_20150729_001737	{@st43}Gem Roasting{/}
+UI_20150729_001738	{@st59b}Item Crafting{nl}{@st59s} - You can craft items using its recipes{nl} - Place the recipe and 材料 on the slot then craft{nl} - You can attach name and memo on the item{/}
+UI_20150729_001739	{@st59}Close Arrow Crafting.{/}
+UI_20150729_001740	Fragments needed : Mutant %s / Beast %s / Plant %s
+UI_20150729_001741	{@st42b}Swordsman types can run by double tapping directional key.{/}
+UI_20150729_001742	{@st41}Party Settings
+UI_20150729_001743	{@st41}Party Gathering Settings
+UI_20150729_001744	{@st42}User Party Search Function{/}
+UI_20150729_001745	If there is a player matching your conditions, [Patry condition matched!] message will be shown.
+UI_20150729_001746	{@st41b}Recommended Player List{/}
+UI_20150729_001747	{@st41}Attribute Information
+UI_20150729_001748	{@st59}Cancel Enhancement{/}
+UI_20150729_001749	{@st59b}Gem/Card Enhancement{nl}{@st59s} - Select Gem or Card to enhance from your inventory{nl} - All items except quest items can be used as 材料{nl} (Most effective when using Gem as material){nl} - Card can only be enhanced by using other cards{/}
+UI_20150729_001750	{#000000}{s22}Waiting to enter server..
+UI_20150729_001751	{#000000}{s22}Server full. Queing for entry.
+UI_20150729_001752	{#000000}{s22}Current Rank : %s
+UI_20150729_001753	{@st43}Team Battle League
+UI_20150729_001754	{@st59}Close Team Battle League
+UI_20150729_001755	{@st42}Team Battle League Schedule
+UI_20150729_001756	{@st43}Team Battle League Rankings
+UI_20150729_001757	{@st59}Close Team Battle League Rankings
+UI_20150729_001758	Team Name
+UI_20150729_001759	{@st41b}技能名称
+UI_20150729_001760	{@st59}Accept Party Mission{/}
+UI_20150729_001761	{@st59}Delete this ticket.{/}
+UI_20150729_001762	分数
+UI_20150729_001763	Join Team Battle League
+UI_20150730_001764	{@st56}我的 等级
+UI_20150730_001765	{@st56}击杀 等级
+UI_20150730_001766	{@st56}伤害 等级
+UI_20150730_001766	{@st56}伤害 等级
+UI_20150803_001767	General: /s chat{nl}Shout: /y chat {nl}Party: /p chat{nl} Whisper: /w TeamName Chat
+UI_20150803_001768	{@st66b}手柄震动{/}
+UI_20150803_001769	Found match. Please wait until you joint the game.
+UI_20150803_001770	{@st43}{s18}Please select the character to receive items.{/}
+UI_20150804_001771	最大栏位 %s 个
