@@ -1,10 +1,10 @@
-###NOTICE (Updated 07-24-2015)
+###NOTICE (Updated 0805-2015)
 
 ##FORK B
 
 ##TOS辣条汉化组
 
-<img src="http://image17-c.poco.cn/mypoco/myphoto/20150717/10/17820861720150717105104069.jpg"/>
+<img src="http://imgchr.com/images/wallpaper_TWO_tos.jpg" border="0">
 
 
 1. 这里是Tree of Savior辣条汉化组，自愿者们将官英汉化成简体中文。｡◕‿◕｡
@@ -15,6 +15,11 @@
    （QQ群：250998210）
 
 ###更新日志
+1. 更新至0805CBT3
+
+2. 新增CBT3汉化样图
+
+####OLD
 1. 英文原版内容同步至0723官英(同期CBT3推出)  
       更新内容[只包含_en文件]  
       标注了日期的为旧文件  
@@ -57,10 +62,14 @@ A更新时，对比AB差异，优先汉化A的更新部分
 进度一致时，冻结B，fork出稳定版C  
 
 ### 中文翻译示例
-<img src="http://image17-c.poco.cn/mypoco/myphoto/20150717/10/17820861720150717105108041.jpg"/>
+<img src="http://imgchr.com/images/tos1.jpg" border="0">
+<img src="http://imgchr.com/images/tos2.jpg" border="0">
+<img src="http://imgchr.com/images/tos4.jpg" border="0">
+<img src="http://imgchr.com/images/QQ20150810152850.jpg" border="0">
+
+<a href="http://imgchr.com/image/CG2"><img src="http://imgchr.com/images/tos3.jpg" border="0"></a>
+<img src="http://imgchr.com/images/672fad.jpg" border="0">
 
 ### EN Game Screenshots
-<img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/2-1024x594.jpg"/>
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/1-1024x595.jpg"/>
-<img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00015-1024x578.jpg"/>
 <img src="http://blog.treeofsavior.com/en/wp-content/uploads/sites/4/2015/03/screenshot_20150319_00014-1024x578.jpg"/>
