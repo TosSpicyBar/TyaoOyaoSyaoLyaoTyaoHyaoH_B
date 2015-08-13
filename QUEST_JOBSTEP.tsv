@@ -1,11 +1,11 @@
-QUEST_JOBSTEP_20150317_000001	Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in  your Adventure Journal and make your own doll.
-QUEST_JOBSTEP_20150317_000002	You can only get it by yourself. {nl}Check your Adventure Journal on how you can make the doll. 
-QUEST_JOBSTEP_20150317_000003	Congratulations, a new Bokor is born. {nl}When I first chose the path of Bokor, I started by creating a doll of my own. 
-QUEST_JOBSTEP_20150317_000004	Peltasta Master
-QUEST_JOBSTEP_20150317_000005	If you want to receive my teachings then you have to prove your worth first.{nl}Here’s a challenge. Defeat some Vubbes on the 1st Floor of Crystal Mine.
-QUEST_JOBSTEP_20150317_000006	How can you bear the name of Peltasta if you can't even handle that much? 
-QUEST_JOBSTEP_20150317_000007	Good. {nl}I hope your new growth leads to you saving the world. 
-QUEST_JOBSTEP_20150317_000008	Highlander Master
+QUEST_JOBSTEP_20150317_000001	<妖术师>. 你选择了一条艰难的道路. {nl}参阅《冒险者手册》制作自己的人偶.
+QUEST_JOBSTEP_20150317_000002	你只能依靠自己. {nl}查看你的《冒险者手册》 它会告诉你如何制作一个人偶. 
+QUEST_JOBSTEP_20150317_000003	恭喜, 一个新的<妖术师>诞生了. {nl}通过制作属于自己的人偶, 我踏上了成为一名<妖术师>的道路. 
+QUEST_JOBSTEP_20150317_000004	<轻盾兵大师>
+QUEST_JOBSTEP_20150317_000005	
+QUEST_JOBSTEP_20150317_000006	如果你连这样的问题都处理不了,如何能承担起<轻盾兵>之名? 
+QUEST_JOBSTEP_20150317_000007	做的不错. {nl}我希望你的成长最终能使你拯救世界. 
+QUEST_JOBSTEP_20150317_000008	Highland Master
 QUEST_JOBSTEP_20150317_000009	I'm so thankful that you want to be the successor of my swordsmanship, but I am suspicious that you wouldn't follow my teachings well.{nl}I will test you by defeating the Bubbes that are occupying the 1st floor of Crystal Mine.
 QUEST_JOBSTEP_20150317_000010	Hurry. {nl} It's a simple challenge, but Vubbes are a threat to the Miner's Village.
 QUEST_JOBSTEP_20150317_000011	Good work, you've completed your initiation in becoming a Highlander. {nl} Keep up the hard work and dedication.
@@ -97,45 +97,45 @@ QUEST_JOBSTEP_20150317_000096	Did the Quarrel Shooter send this? {nl}Thanks. I'l
 QUEST_JOBSTEP_20150317_000097	Bring the book quickly. {nl}I can't hold it. 
 QUEST_JOBSTEP_20150317_000098	Great, it's this one! {nl}I'll teach you the skills of Quarrel Shooter as promised. {nl}
 QUEST_JOBSTEP_20150317_000099	This rock will be useful in repairing the wall. {nl}Bring it to the Archer Master quickly. 
-QUEST_JOBSTEP_20150317_000100	If you want to learn more of my skills, there is a condition. {nl}I want you to help me find the four books of Lydia Schaffen. 
-QUEST_JOBSTEP_20150317_000101	I heard the first book was with a resident in Miner's Village before the Vubbes attacked. {nl}So I think it could be in the Vubbe Outpost. 
-QUEST_JOBSTEP_20150317_000102	I'm surprised you found it so fast! {nl}And it's in a good state. {nl}
-QUEST_JOBSTEP_20150317_000103	I think you might be able to buy the next book from the Hunter Master..{nl}I'm broke after fixing the wall with my money. Haha..
-QUEST_JOBSTEP_20150317_000104	You mean the second book of Lydia Schaffen? {nl}I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000105	I think around 5000 silver will do. {nl}I heard that's the book's value. 
-QUEST_JOBSTEP_20150317_000106	Ah, you came at the right time.{nl}If you could take the leathers of Meroggs to Quarrel Shooter Master, he will make you a copy of the next volume.
+QUEST_JOBSTEP_20150317_000100	如果你想要学习我更多的技能,需要满足一个条件. {nl}我需要你帮助我找到4本Lydia Schaffen的书. 
+QUEST_JOBSTEP_20150317_000101	我听说在 Vubbes 袭击Miner's Village之前,第一本书住在一位居民那里. {nl}我所以我想它应该在 Vubbe 的聚集地. 
+QUEST_JOBSTEP_20150317_000102	你能这么快找到它实在是令我太惊讶了! {nl}这本书依然保存完好. {nl}
+QUEST_JOBSTEP_20150317_000103	我觉得你大概可以从<猎人大师>那里买到下一本书..{nl}修完墙我就破产了. 哈哈..
+QUEST_JOBSTEP_20150317_000104	你是指Lydia Schaffen的第二本书吗? {nl}我会以5000银币的价格卖给你. 
+QUEST_JOBSTEP_20150317_000105	我想5000银币就够了. {nl}我听说这本书就这个价. 
+QUEST_JOBSTEP_20150317_000106	哈, 你来的正是时候.{nl}If you could take the leathers of Meroggs to Quarrel Shooter Master, he will make you a copy of the next volume.
 QUEST_JOBSTEP_20150317_000107	Did the leathers of Merogg come from Archer Master?
 QUEST_JOBSTEP_20150317_000108	You will see Meroggs easily at Fallen Worry Forest.{nl}Take those to Quarrel Shooter Master in Klaipeda.
-QUEST_JOBSTEP_20150317_000109	The quality is fine enough. The Archer Master must also be pleased. {nl}Here, I've prepared a copy, so take it. 
-QUEST_JOBSTEP_20150317_000110	Now there is one book left. {nl}Give this pouch to the Ranger Master and get the book. {nl}
-QUEST_JOBSTEP_20150317_000111	Did the Archer Master send you? {nl}Well, good work. I'll give you the book as promised. 
-QUEST_JOBSTEP_20150317_000112	Isn't the book ready yet? {nl}I want to see all of Lydia Schaffen's book ASAP..
-QUEST_JOBSTEP_20150317_000113	Finally it's all here. {nl}I'll teach you my skills as promised. 
-QUEST_JOBSTEP_20150317_000114	I have some books to collect. It's Lydia Schaffen's books. {nl}I'll teach you my skills if you collect the books. What do you say? 
-QUEST_JOBSTEP_20150317_000115	The first book was in the Miner's Village but it was gone after the Vubbes attacked. {nl}I assume the book is in the Vubbe Outpost? 
-QUEST_JOBSTEP_20150317_000116	Oh, that's pretty good. {nl}It will he helpful for you to read it too. 
-QUEST_JOBSTEP_20150317_000117	The problem is the Hunter Master. I really don't want to see her face. {nl}So you go and get the next book from her. 
-QUEST_JOBSTEP_20150317_000118	You mean the book I have? {nl}Well, okay. I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000119	I think around 5000 silver will do. {nl}Can you spare that much? 
-QUEST_JOBSTEP_20150317_000120	You came at the right time.{nl}Quarrel Shooter Master told you that if you could bring the leathers of Meroggs, he will make you a copy of the next volume.
+QUEST_JOBSTEP_20150317_000109	质量还不错. <弓箭手大师>一定也会很高兴的. {nl}来这里, 我已经给自己准备了一个副本, 你把它拿走吧. 
+QUEST_JOBSTEP_20150317_000110	现在还剩一本书没有拿到. {nl}把这个袋子交给<游侠大师> ,把书拿回来. {nl}
+QUEST_JOBSTEP_20150317_000111	<游侠大师> 他有没有给你? {nl}干的不错. 我会按照约定把书给你. 
+QUEST_JOBSTEP_20150317_000112	拿到全部的书了吗? {nl}我需要尽快见到那4本Lydia Schaffen的书..
+QUEST_JOBSTEP_20150317_000113	终于都在这里了. {nl}我会按照约定教给你我的技能. 
+QUEST_JOBSTEP_20150317_000114	我有些书需要收集. 是Lydia Schaffen的书. {nl}如果你收集齐了书，我就教给你我的技能. 你同意吗? 
+QUEST_JOBSTEP_20150317_000115	第一本书原先在Miner's Village那里,但是在 Vubbes 袭击之后就丢失了. {nl}我猜这本书应该在 Vubbe 的聚集地? 
+QUEST_JOBSTEP_20150317_000116	哦, 这太棒了. {nl}这本书对你会有很大的帮助. 
+QUEST_JOBSTEP_20150317_000117	问题就在<猎人大师>身上. 我真的一点都不想见到她的脸. {nl}快去从她手里取得下一本书吧. 
+QUEST_JOBSTEP_20150317_000118	你是说我的那本书吗? {nl}呃, 好吧.5000银币,书就是你的了. 
+QUEST_JOBSTEP_20150317_000119	我想5000银币就可以搞定了. {nl}你有那么多钱嘛? 
+QUEST_JOBSTEP_20150317_000120	你回来的正是时候.{nl}Quarrel Shooter Master told you that if you could bring the leathers of Meroggs, he will make you a copy of the next volume.
 QUEST_JOBSTEP_20150317_000121	Didn't Ranger Master tell you anything?{nl}I asked him for Meroggs' leathers.
 QUEST_JOBSTEP_20150317_000122	Meroggs are at Fallen Worry Forest and Quarrel Shooter Master is at Klaipeda. {nl}Someone may go there and get the book faster than you so please hurry.
-QUEST_JOBSTEP_20150317_000123	The book is in good condition.{nl}Now, bring the book to the Archer Master. {nl}
-QUEST_JOBSTEP_20150317_000124	The Archer Master in Klaipeda has the last book. {nl}I heard he is repairing the wall so this might help you get the book? 
-QUEST_JOBSTEP_20150317_000125	I heard there is a rock useful for repairing the wall in Miner's Village. {nl}Bring that to the Archer Master as a present. 
-QUEST_JOBSTEP_20150317_000126	Did the Ranger Master send this rock? {nl}If it's Lydia Schaffen's book, you could have just asked. Anyway, thank you. 
-QUEST_JOBSTEP_20150317_000127	You finally collected them all. Good work. {nl}I will teach you my skills as promised but it's your job to keep track and follow.
-QUEST_JOBSTEP_20150317_000128	You got some pretty good leather. {nl}Bring it to the Quarrel Shooter Master. 
-QUEST_JOBSTEP_20150317_000129	Why did you bring that to me? Take it to the Archer Master quickly.
+QUEST_JOBSTEP_20150317_000123	书还完好无损.{nl}现在, 把书拿给<弓箭手大师>. {nl}
+QUEST_JOBSTEP_20150317_000124	最后一本书在Klaipeda的<弓箭手大师>那里. {nl}我听说他在修墙,这个消息也许能帮助你得到那本书? 
+QUEST_JOBSTEP_20150317_000125	我听说Miner's Village有一种石头对于修墙非常有用. {nl}给<弓箭手大师> 带去这份礼物. 
+QUEST_JOBSTEP_20150317_000126	是<游侠大师>让你来送石头的嘛? {nl}如果这就是Lydia Schaffen的书, 你只需要开口就行了. 不管怎么说, 谢谢你. 
+QUEST_JOBSTEP_20150317_000127	你最终把它们都收集齐了. 干的不错. {nl}我会按照约定教给你我的技能 but it's your job to keep track and follow.
+QUEST_JOBSTEP_20150317_000128	你得到一些质量不错的皮革. {nl}把它们带给 <战斗射手大师>. 
+QUEST_JOBSTEP_20150317_000129	你为什么要把这些带给我? 快点把它们拿去给<弓箭手大师>.
 QUEST_JOBSTEP_20150317_000130	Sculptor Tesla
-QUEST_JOBSTEP_20150317_000131	A sculptor's talent is important but so is having the eye to see important materials. {nl}I will help you learn my skills if you bring me the blue crystals I'm looking for. 
-QUEST_JOBSTEP_20150317_000132	That is the problem. {nl}The Yekub swallowed it as soon as it was found on the 2nd Floor of the Miner's Village. 
-QUEST_JOBSTEP_20150317_000133	Oh, this is it. {nl}I have a lot of time so I will teach you slowly.
-QUEST_JOBSTEP_20150317_000134	You want to learn the swordsmanship of a Highlander from me? {nl}I will consider it if you can get cooperation from the Peltastas.
+QUEST_JOBSTEP_20150317_000131	一个雕塑家的才能是非常重要的,但是拥有一双发现材料的眼睛也是非常重要的. {nl}如果你把我正在寻找的蓝水晶带回来给我,我会帮助你学习我的技能. 
+QUEST_JOBSTEP_20150317_000132	问题就在这里. {nl}刚在Miner's Village第二层找到它就被Yekub吞下去了. 
+QUEST_JOBSTEP_20150317_000133	哦, 它在这里. {nl}我有很多时间,我会慢慢教你的.
+QUEST_JOBSTEP_20150317_000134	你想跟我学习<挑战者>的剑术嘛? {nl}如果你得到<轻盾兵>们的合作,我会考虑的.
 QUEST_JOBSTEP_20150317_000135	As a compensation for seeking cooperation, just support 5 boards of wooden buckler type.{nl}Upents at Indigo Trees Plateau will be enough.
-QUEST_JOBSTEP_20150317_000136	Thank you for the supplies, but the Highlander Master wouldn't have sent you for nothing. {nl}Tell me what you want. {nl}
-QUEST_JOBSTEP_20150317_000137	An overall cooperation between the Masters. Alright. {nl}Tell him that the Peltastas are for it. 
-QUEST_JOBSTEP_20150317_000138	If the Masters unite, it won't be long until the kingdom rises again. {nl}You did a good job. I will teach you my swordsmanship.
+QUEST_JOBSTEP_20150317_000136	谢谢你提供的帮助, <挑战者大师>不会让你白白来一趟. {nl}告诉我你想得到什么. {nl}
+QUEST_JOBSTEP_20150317_000137	大师们之间的通力合作. 好吧. {nl}告诉他,算上我们<轻盾兵>. 
+QUEST_JOBSTEP_20150317_000138	如果大师们联合起来, 王国很快会再次复兴. {nl}You did a good job. I will teach you my swordsmanship.
 QUEST_JOBSTEP_20150317_000139	That is enough. {nl}Get the Peltasta's cooperation with it. 
 QUEST_JOBSTEP_20150317_000140	We Peltastas promised with Highlanders to lend our force to rebuild the kingdom.{nl}So if you also want to learn from me, you should be also responsible.{nl}
 QUEST_JOBSTEP_20150317_000141	Go meet Uska and lend your force.
